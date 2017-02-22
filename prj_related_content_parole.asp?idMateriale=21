@@ -1,0 +1,218 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" >
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+ 
+
+<title>La ricerca nonostante tutto - INSIDER - dentro il mondo della ricerca in Emilia-Romagna</title>
+<meta name="Description" content="Batteri estremofili che sguazzano negli oceani. Quanti sono? Come vivono? E' questo l'obiettivo di ricerca di Daniele Brunelli, geologo dell'Università di Modena e Reggio Emilia, che con i suoi studi si è da poco guadagnato la copertina di Narure Geoscience." />
+<meta name="Keywords" content="" />
+
+<meta property="og:title" content="La ricerca nonostante tutto - INSIDER - dentro il mondo della ricerca in Emilia-Romagna"/> 
+<meta property="og:type" content="article"/> 
+<meta property="og:url" content="http://progettoinsider.it/prj_related_content_parole.asp?idMateriale=21"/> 
+<meta property="og:image" content="http://progettoinsider.it/uploadImg/daniele.brunelli1.jpg"/> 
+
+<meta property="og:description" content="Batteri estremofili che sguazzano negli oceani. Quanti sono? Come vivono? E' questo l'obiettivo di ricerca di Daniele Brunelli, geologo dell'Università di Modena e Reggio Emilia, che con i suoi studi si è da poco guadagnato la copertina di Narure Geoscience."/> 
+
+<link rel="stylesheet" type="text/css" href="css/_reset.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="css/_text.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="css/_960.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="css/_layout.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="css/_print.css" media="print" />
+<link rel="stylesheet" type="text/css" href="css/_insider.css" media="screen" />
+<script type="text/javascript" src="scripts/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="scripts/jquery-ui.js"></script>
+<script type="text/javascript" src="scripts/jquery-fluid16.js"></script>
+</head>
+<body class="prj-overview progetti parole">
+<div class="container_12">
+  <!-- header -->
+
+  <div id="header">
+  <img id="logo-print" src="img/logo_insider.png" />
+    <h1><a href="index.asp">insider - dentro il mondo della ricerca in Emilia-Romagna</a></h1>
+    <ul id="menu">
+      <li><a class="home" href="index.asp">home</a></li>
+      <li><a class="chi"  href="chi.asp">chi siamo</a></li>
+      <li><a class="video"  href="multimedia_category.asp?tipo=animazioni"> guarda</a></li>
+      <li><a class="audio"  href="multimedia_category.asp?tipo=audio">ascolta</a></li>
+      <li><a class="testi"  href="multimedia_category.asp?tipo=parole">leggi</a></li>
+      <li><a class="contatti"  href="contatti.asp">contatti</a></li>
+    </ul>
+    
+    <div id="social">Follow us 
+		<a href="rss.asp" class="rss" target="_blank">rss</a> 
+	<a href="http://www.facebook.com/pages/insidER-dentro-il-mondo-della-ricerca-in-Emilia-Romagna/252015034857076" class="fb" target="_blank">facebook</a>
+	
+    <a href="http://www.linkedin.com/groups/insidERdentro-mondo-della-ricerca-EmiliaRomagna-4483071?trk=myg_ugrp_ovr" class="linkedin" target="_blank">Linkedin</a> 
+	
+    <a href="https://twitter.com/#!/@InsidER_ricerca" class="twitter" target="_blank">Twitter</a>     
+	
+    </div>
+    
+    <form id="form1" method="post" action="cerca.asp">
+    <a href="#" class="stampa" title="stampa pagina"  onClick="window.print(); return false;">stampa pagina</a>
+      <p id="ricerca">
+        <input name="testo" type="text" class="text" id="textfield" value="Cerca nel sito" onFocus="this.value = '';" />
+        <input type="submit" name="button" class="invia" id="button" value="Invia" />
+      </p>
+    </form>
+  </div>
+
+<!-- fine header -->
+ 
+  <div class="grid_12">
+    <p id="breadcrumb">MULTIMEDIA / <a href="multimedia_category.asp?tipo=parole">LEGGI</a></p>
+  </div>
+  <div class="grid_1 categ">LEGGI</div>
+  <div class="grid_7 prj-overview">
+    <p class="info">23 aprile 2012 
+	<!--
+	<strong>PROGETTO</strong> in <a href="prj_overview.asp?idProgetto=0"></a> 
+	-->	
+      di MARCO BOSCOLO
+    </p>
+    <h2>LA RICERCA NONOSTANTE TUTTO</h2>
+    <br />
+    
+    <div class="cont-multimedia"> <img src="gest/resize.asp?path=daniele.brunelli1.jpg&width=540&height=203" /> </div>
+    
+    <p><p style="margin-bottom: 0cm">&#8220;Cosa mi aspetto per il prossimo
+futuro? Spero di poter finalmente finanziare in maniera adeguata le
+ricerche mie e del mio gruppo su questi batteri estremofili per
+vedere quanto sono davvero diffusi negli oceani&#8221;. Per una volta,
+<a href="http://www.terra.unimo.it/personaledettaglio.php?user=daniele.brunelli">Daniele Brunelli</a>,
+geologo dell&#8217;Universit&#224; di Modena e Reggio Emilia, vorrebbe non
+essere costretto a fare le nozze coi fichi secchi e chiss&#224; che in
+questa occasione <a href="http://www.nature.com/ngeo/journal/v5/n2/covers/index.html">la copertina
+che <span style="font-style: italic;">Nature Geoscience</span></a> ha dedicato a <a href="http://www.magazine.unimore.it/index.php?option=com_content&amp;view=article&amp;id=1050:nuova-scoperta-scientifica-del-dipartimento-di-scienze-della-terra&amp;catid=44:notizie&amp;Itemid=270">uno dei suoi ultimi studi</a> non
+aiuti ad aprire qualche porta.</p>
+<p style="margin-bottom: 0cm"><br>
+</p>
+<p style="margin-bottom: 0cm">Quella foto in bianco e nero &#232; la
+prova che a oltre 4000 metri di profondit&#224; nella spaccatura che si
+sta aprendo per effetto della tettonica delle placche e da dove
+stanno fuoriscendo le rocce del mantello (lo strato pi&#249; interno
+della Terra), a una temperatura compresa tra 80 e 100 gradi
+centigradi c&#8217;&#232; vita. &#8220;Si tratta di batteri&#8221;, spiega Brunelli,
+&#8220;che chiamiamo chemolitoautotrofi. Il che significa che per
+sopravvivere sciolgono in qualche modo le rocce del mantello e ne
+ricavano ci&#242; di cui hanno bisogno&#8221;. Sulla copertina del <span style="font-style: italic;">journal</span>,
+le tracce delle loro attivit&#224; - per cos&#236; dire - digestive sono
+quelle piccolo palline scure che si vedono incastonate nelle rocce.</p>
+<p style="margin-bottom: 0cm"><br>
+</p>
+<p style="margin-bottom: 0cm">Non si tratta del semplice ritrovamento
+dell&#8217;ennesima nicchia in cui prosperano degli estremofili.
+L&#8217;indicazione che si trae dalla dorsale oceanica &#232; che &#8220;il
+limite della biosfera deve essere notevolmente abbassato&#8221;, fino a
+comprendere &#8220;forse una massa doppia di quella stimata finora&#8221;. In
+pi&#249;, questi organismi potrebbero essere importantissimi mediatori
+dei gas tra litosfera e biosfera: &#8220;dobbiamo approfondire il loro
+comportamento, ma quello che abbiamo capito finora &#232; che potrebbero
+essere determinanti nel ciclo globale dei gas e, in ultima analisi,
+avere un ruolo decisivo nei cicli a lungo termine di gas atmosferici
+come l&#8217;anidride carbonica&#8221;. Avere, quindi, un ruolo anche
+nell&#8217;influenzare i cicli climatici pi&#249; lunghi.</p>
+<p style="margin-bottom: 0cm"><br>
+</p>
+<p style="margin-bottom: 0cm">Ma non &#232; finita qui, perch&#232; le
+condizioni a cui sopravvivono queste colonie di batteri sono molto
+simili a quelle della Terra quando &#232; apparsa la vita. &#8220;Il brodo
+primordiale di cui si parla spesso&#8221;, precisa Brunelli, &#8220;potrebbe
+essere stato simile all&#8217;ambiente della dorsale dove vivono questi
+estremofili: studiarli, quindi, pu&#242; darci qualche indicazione utile
+per capire come si sonn sviluppati i primi organismi viventi
+unicellulari&#8221;. Le calde rocce del mantello come una specie di
+macchina del tempo, ma con la particolarit&#224; di un&#8217;estensione non
+piccola e una stabilit&#224; notevole nel tempo. Complessivamente,
+infatti, sono pi&#249; di 60 mila i chilometri di dorsale presenti sulla
+Terra, in una conformazione praticamente identica negli ultime
+centinaia, se non migliaia, di anni.</p>
+<p style="margin-bottom: 0cm"><br>
+</p>
+<p style="margin-bottom: 0cm">Ultimo aspetto interessante di questi
+batteri &#232; che nelle loro attivit&#224; metaboliche sciolgono la roccia.
+&#8220;Alcuni di quelli che abbiamo trovato&#8221;, spiega Brunelli,
+&#8220;potrebbero essere in grado di cristallizzare alcune sostanze che
+si trovano nelle rocce: potrebbero essere usati per mettere in
+sicurezza aree a rischio di frana&#8221;. Un aspetto applicativo che in
+un territorio martoriato come quello italiano potrebbe essere un
+aiuto tecnologico quasi insperato. &#8220;Ma se non trovi i finanziamenti
+necessari per proseguire la ricerca, rischi che il resto della
+comunit&#224; scientifica - che non sta certo a guardare - arrivi prima
+di noi&#8221;. E sarebbe un peccato se questa incapacit&#224; che sembra
+avere il sistema ricerca italiano a programmare a lungo termine si
+mettesse di traverso anche questa volta, &#8220;impedendo di fatto di
+restituire nel sociale attraverso le applicazioni quello che con la
+ricerca di base hai intuito&#8221;. Colpi come la copertina di Nature
+Geoscience all&#8217;estero possono cambiare il resto di una carriera,
+qui sono l&#8217;inizio di una lunga ricerca di supporto, &#8220;possibile
+solo perch&#233; ho mantenuto stretti rapporti con le realt&#224; estere fin
+dai tempi in cui stavo a Parigi&#8221;.</p>
+<p style="margin-bottom: 0cm"><br>
+</p>
+<p style="margin-bottom: 0cm">D&#8217;altra parte, come sottolinea una
+massima attribuita a un&#8217;anonima prostituta ucraina e riportata
+sulla lavagna appesa nello studio di Brunelli, &#8220;di gratis c&#8217;&#232;
+solo il formaggio nella trappola dei topi&#8221;.</p>
+<br></p>
+	
+
+
+
+
+	
+	<p></p>
+	
+    <div class="social">
+	<!--
+      <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fprogettoinsider%2Eit%2Fprj%5Frelated%5Fcontent%5Fparole%2Easp%3FidMateriale%3D21&amp;layout=standard&amp;show_faces=true&amp;width=500&amp;action=like&amp;colorscheme=light&amp;height=23" scrolling="No" frameborder="0" style="border:none; overflow:hidden; width:500px; height:23px;" allowtransparency="true"></iframe>
+	-->
+	
+	<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/it_IT/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+	
+	<fb:like href="http://progettoinsider.it/prj_related_content_parole.asp?idMateriale=21" send="true" width="450" show_faces="false"></fb:like>
+    </div>
+	
+	<!--
+    include file="_box_link-argomenti.asp" 
+	-->
+	
+  </div>
+  <!-- sidebar -->
+    <div class="grid_4">
+
+<!--
+	<div class="facebook">
+<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FinsidER-dentro-il-mondo-della-ricerca-in-Emilia-Romagna%2F252015034857076&amp;width=292&amp;colorscheme=light&amp;show_faces=true&amp;stream=false&amp;header=true&amp;height=290" scrolling="No" frameborder="0" style="border:none; overflow:hidden; width:292px; height:290px;" allowtransparency="true"></iframe>
+	</div>
+-->
+
+  </div>
+  <!-- fine sidebar -->
+  
+  
+<!-- footer -->
+
+  <div class="grid_12" id="footer">
+    
+    <p><a href="index.asp">home</a> - <a href="chi.asp">chi siamo</a> - <a href="contatti.asp">contatti</a> - <a href="#">torna in alto</a><br />
+InsidER  &egrave; un progetto dell'Associazione Bla Bla<br />
+C.F.  91332140374<br />
+BlaBla 2011. <a href="termini.asp">Termini  di utilizzo</a></p>
+<a href="http://creativecommons.org/licenses/by-nc-sa/2.5/deed.it" target="_blank" class="creative-commons">creative commons</a>  </div>
+
+<!-- fine footer -->
+</div>
+</body>
+</html>

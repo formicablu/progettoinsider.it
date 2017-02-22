@@ -1,0 +1,1678 @@
+@font-face {
+    font-family: 'ArimoRegular';
+    src: url('/fonts/arimo-regular-latin-webfont.eot?') format('eot'),
+         url('/fonts/arimo-regular-latin-webfont.woff') format('woff'),
+         url('/fonts/arimo-regular-latin-webfont.ttf') format('truetype'),
+         url('/fonts/arimo-regular-latin-webfont.svg#webfontGV9Y3FHu') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'ArimoBold';
+    src: url('/fonts/arimo-bold-latin-webfont.eot?') format('eot'),
+         url('/fonts/arimo-bold-latin-webfont.woff') format('woff'),
+         url('/fonts/arimo-bold-latin-webfont.ttf') format('truetype'),
+         url('/fonts/arimo-bold-latin-webfont.svg#webfont5PoWjFGJ') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'KreonRegular';
+    src: url('/fonts/kreon-regular-webfont.eot?') format('eot'),
+         url('/fonts/kreon-regular-webfont.woff') format('woff'),
+         url('/fonts/kreon-regular-webfont.ttf') format('truetype'),
+         url('/fonts/kreon-regular-webfont.svg#webfonttPwB5Vfj') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'MerriweatherRegular';
+    src: url('/fonts/merriweather-webfont.eot?') format('eot'),
+         url('/fonts/merriweather-webfont.woff') format('woff'),
+         url('/fonts/merriweather-webfont.ttf') format('truetype'),
+         url('/fonts/merriweather-webfont.svg#webfontR7FoUCdN') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+	font-family: 'LeagueGothicRegular';
+	src: url('/fonts/league_gothic_mod-webfont.eot');
+	src: local('League Gothic'), local('LeagueGothic'), 
+	url('/fonts/league_gothic_mod-webfont.woff') format('woff'), 
+	url('/fonts/league_gothic_mod-webfont.ttf') format('truetype'), 
+	url('/fonts/league_gothic_mod-webfont.svg#webfontRxtlAKno') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}	
+
+body {
+	font-family: 'ArimoRegular', Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	line-height: 13px;
+	background-image: url(../img/sfondo.png);
+	background-repeat: repeat-y;
+	background-position: 50% 0px;
+}
+
+/************** header ***************/
+
+#header {
+	position: relative;
+	overflow: hidden;
+	height: 167px;
+}
+
+#header h1{
+	background-image: url(../img/logo_insider.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	height: 110px;
+	width: 213px;
+	margin: 10px 0 10px 35px;
+	padding: 0px;
+
+
+}
+
+#header h1 a {
+	display: block;
+	height: 110px;
+	width: 213px;
+	text-indent: -9999px;
+	
+	
+}
+
+#header #logo-print {
+	display: none;
+}
+
+
+/*************** social *********************/
+
+
+#social {
+	position: absolute;
+	top: 6px;
+	right: 38px;
+	height: 24px;
+	width: 188px;
+	background-image: url(../img/social_freccia.png);
+	background-repeat: no-repeat;
+	background-position: 100% 50%;
+	font-family:'ArimoRegular', Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color:#ffffff;
+	text-transform:uppercase;
+	line-height: 24px;
+	text-align: right;
+	letter-spacing: 1px;
+	padding-right: 6px;
+	
+}
+
+#social a.rss {
+	float: left;
+	height: 24px;
+	width: 24px;
+	margin-right: 4px;
+	background-image: url(../img/social_rss_icon.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	text-indent: -9999px;
+	text-align: left;
+
+}
+
+#social a.fb {
+	float: left;
+	height: 24px;
+	width: 24px;
+	margin-right: 4px;
+	background-image: url(../img/social_fb_icon.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	text-indent: -9999px;
+	text-align: left;
+	
+}
+
+#social a.youtube {
+	float: left;
+	height: 24px;
+	width: 24px;
+	margin-right: 4px;
+	background-image: url(../img/social_youtube_icon.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	text-indent: -9999px;
+	text-align: left;
+	
+}
+
+#social a.linkedin {
+	float: left;
+	height: 24px;
+	width: 24px;
+	margin-right: 4px;
+	background-image: url(../img/social_linkedin_icon.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	text-indent: -9999px;
+	text-align: left;
+	
+}
+
+#social a.twitter {
+	float: left;
+	height: 24px;
+	width: 24px;
+	margin-right: 4px;
+	background-image: url(../img/twitter_icon.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	text-indent: -9999px;
+	text-align: left;
+	
+}
+
+#social a.vimeo {
+	float: left;
+	height: 24px;
+	width: 24px;
+	margin-right: 4px;
+	background-image: url(../img/social_vimeo_icon.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	text-indent: -9999px;
+	text-align: left;
+	
+}
+
+#social a:hover {
+	background-position: 0px -24px;
+}
+
+
+/*************** stampa *********************/
+
+.stampa {
+	width: 24px;
+	height: 24px;
+	background:url(../img/print_icon.png) no-repeat 0 0;
+	position: absolute;
+	top: 64px;
+	right: 206px;
+	text-decoration: none;
+	text-indent: -9999px;
+}
+
+/*************** ricerca *********************/
+
+
+#ricerca {
+	position: absolute;
+	top: 64px;
+	right: 38px;
+	width: 161px;
+	height: 24px;
+}
+
+#ricerca .text {
+	background-color: #FFFFFF;
+	height: 20px;
+	width: 127px;
+	border: 1px solid #000;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #666666;
+	padding-left: 4px;
+	padding-right: 4px;
+	float: left;
+		
+}
+
+#ricerca .invia {
+	height: 24px;
+	width: 24px;
+	background-image: url(../img/ricerca_invia.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	text-indent: -9999px;
+	float: left;
+	cursor: pointer;
+	font-size: 1px;
+}
+
+/*************** lingua *********************/
+
+
+#lingua {
+	background-color:#C8D6DD;
+	position: absolute;
+	bottom: 0px;
+	right: 10px;
+	font-size: 14px;
+	line-height: 24px;
+	font-family: 'KreonRegular', Arial, Helvetica, sans-serif;
+	margin-bottom: 0px;
+}
+
+#lingua a {
+	width: 30px;
+	display: inline-block;
+	color:#FFFFFF;
+	text-align:center;
+	text-decoration: none;
+}
+
+#lingua a:hover {
+	color:#184860;
+	text-decoration: none;
+}
+
+#lingua a#active {
+	color:#184860;
+	background-color: #FFFFFF;
+}
+
+
+
+/*************** menu *********************/
+
+#menu {
+	font-family: 'ArimoBold', Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+	overflow:hidden;
+	background-color: #FAA75F;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #FFFFFF;	
+}
+
+#menu li {
+	background-color: #FAA75F;
+	height: 36px;
+	margin: 0px;
+	padding: 0px;
+	float: left;
+}
+
+#menu li a {
+	line-height: 36px;
+	color: #FFFFFF;
+	text-decoration:  none;
+	padding-left:25px;
+	padding-right:25px;
+	display: block;
+	text-transform:uppercase;
+	border-right-width: 1px;
+	border-right-style: solid;
+	border-right-color: #FFFFFF;
+	
+}
+
+#menu li:first-child a {
+	padding-left:30px;
+	padding-right:30px;
+
+}
+
+#menu li a:hover {
+	background-color:#FBD7A2;
+}
+
+body.home #menu li a.home,
+body.chi #menu li a.chi,
+body.video #menu li a.video,
+body.audio #menu li a.audio,
+body.testi #menu li a.testi,
+body.contatti #menu li a.contatti {
+	background-color:#FBD7A2;
+	color:#000;
+
+}
+
+
+
+/************* menu multimedia *************/
+
+
+#menu-multimedia {
+	background-color: #C8D6DD;
+}	
+
+#menu-multimedia p {
+	background-color: #C8D6DD;
+	line-height: 30px;
+	float: left;
+	margin-bottom: 0px;
+	font-family:'ArimoRegular', Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color:#184860;
+	text-transform:uppercase;
+	background-image: url(../img/menu_multimedia_freccia.png);
+	background-repeat: no-repeat;
+	background-position: 10px 50%;
+	width: 90px;
+	text-indent: 14px;
+}	
+
+#menu-multimedia ul {
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+	height:30px;
+	float: left;
+	overflow: hidden;
+	background-color: #C8D6DD;
+	width: 870px;
+}	
+
+#menu-multimedia ul li {
+	margin: 0px;
+	padding: 0px;
+	float: left;
+	height:30px;	
+}	
+
+#menu-multimedia ul li a {
+	font-family: 'LeagueGothicRegular', 'Arial Narrow', Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	line-height:30px;
+	text-transform: uppercase;
+	color:#FFFFFF;
+	text-decoration: none;
+	height:30px;	
+	display:block
+
+}	
+
+#menu-multimedia ul li a.audio {
+	background-image: url(../img/mmedia_audio_ro.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	padding-left:52px;
+	padding-right: 30px;
+	
+}	
+
+
+#menu-multimedia ul li a.video {
+	background-image: url(../img/mmedia_video_ro.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	padding-left:52px;
+	padding-right: 50px;
+	
+}	
+
+#menu-multimedia ul li a.animazioni {
+	background-image: url(../img/mmedia_animazioni_ro.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	padding-left:52px;
+	padding-right: 37px;
+	
+}	
+
+#menu-multimedia ul li a.immagini {
+	background-image: url(../img/mmedia_immagini_ro.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	padding-left:50px;
+	padding-right: 24px;
+	
+}	
+
+#menu-multimedia ul li a.parole {
+	background-image: url(../img/mmedia_parole_ro.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	padding-left:52px;
+	padding-right: 37px;
+	
+}	
+
+
+#menu-multimedia ul li a:hover {
+	color:#184860;
+	background-position: 0px -30px;
+	
+}	
+
+body.audio #menu-multimedia ul li a.audio,
+body.video #menu-multimedia ul li a.video,
+body.animazioni #menu-multimedia ul li a.animazioni,
+body.immagini #menu-multimedia ul li a.immagini,
+body.parole #menu-multimedia ul li a.parole {
+	color:#184860;
+	background-position: 0px -30px;
+
+}
+
+
+/**************** what's new *************/
+
+p#whats-new {
+	font-size: 24px;
+	color:#3c3024;
+	font-family: 'LeagueGothicRegular', 'Arial Narrow', Arial, Helvetica, sans-serif;
+	line-height: 24px;
+	margin-top: 10px;
+	border-bottom: dotted 1px #999999;
+	margin-bottom:15px;
+}
+
+/**************** breadcrumb *************/
+
+p#breadcrumb {
+	font-size: 14px;
+	color:#A97445;
+	font-family: 'KreonRegular', Arial, Helvetica, sans-serif;
+	line-height: 25px;
+	margin-top: 10px;
+	margin-bottom:15px;
+	background-image: url(../img/filetto_orizzontale.png);
+	background-repeat: no-repeat;
+	background-position: 0px 100%;
+	position:relative;
+}
+
+p#breadcrumb a{
+	text-decoration:none;
+}
+
+ #filtra {
+	position:absolute;
+	left: 90px;
+	top: 175px;
+	z-index:2;
+}
+
+/*************** latest news ***************/
+
+
+.latest {
+	border: 1px solid #D1DADF;
+	padding-bottom: 15px;
+	overflow:hidden;
+	position: relative;
+	
+	min-height:222px;
+	/* height: 222px; */
+	
+	margin-bottom: 20px;
+
+}
+
+.latest .tipo {
+	font-size: 20px;
+	line-height: 25px;
+	font-family: 'LeagueGothicRegular', 'Arial Narrow', Arial, Helvetica, sans-serif;
+	background-color:#faa75f;
+	color: #FFFFFF;
+	background-image: url(../img/latest_news_icona_tipo.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	text-indent: 20px;
+	margin: 0px;
+}
+
+.latest .tipo a {
+	color:#ffffff;
+	text-decoration: none;	
+}
+
+.latest .tipo a:hover {
+	color:#1A4A61;
+	text-decoration: none;
+}
+
+.latest h2 {
+	color:#183048;
+	font-size: 24px;
+	font-family: 'KreonRegular', Arial, Helvetica, sans-serif;
+	line-height: 24px;
+	margin: 3px 6px;
+	font-weight: normal;
+}
+
+.latest h2 a {
+	color:#3C3024;
+	font-size: 24px;
+	text-decoration: none;	
+}
+
+.latest h2 a:hover {
+	color:#a97445;
+	font-size: 24px;
+	text-decoration: none;	
+}
+
+.latest img {
+	float: left;
+	margin-left: 7px;
+	margin-top: 7px;
+}
+
+.latest p {
+	font-size: 13px;
+	line-height: 16px;
+	color:#696969;
+	font-family:"MerriweatherRegular", "Times New Roman", Times, serif;
+	padding-left:90px;
+	padding-right: 15px;
+	padding-top: 4px;
+	margin-bottom: 0px;
+	
+}
+
+.latest a.continua {
+	background-image: url(../img/latest_freccia_continua.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	height: 12px;
+	width: 76px;
+	display: block;
+	line-height: 12px;
+	text-decoration:none;
+	font-family:'ArimoRegular', Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color:#ffffff;
+	text-transform:uppercase;
+	text-indent: 4px;	
+	margin-top:10px;
+}
+
+.latest a.continua:hover {
+	background-position: 0px -12px;
+	text-decoration:none;	
+}
+
+/******** scienza & co **********/
+
+#scienza-e-co {
+	height: 53px;
+	text-indent: -9999px;
+	background-image: url(../img/scienza_e_co_tit.png);
+	background-repeat: no-repeat;
+	background-position: 50% 0px;
+	clear: both;
+	margin: 5px 0px;
+	border-top-width: 6px;
+	border-top-style: solid;
+	border-top-color: #FFFFFF;
+	border-bottom-width: 6px;
+	border-bottom-style: solid;
+	border-bottom-color: #FFFFFF;
+}
+
+
+/********* bottom-up *********/
+
+
+.bottom-up {
+	border: 1px solid #ADCEED;
+	overflow: hidden;
+	margin-bottom: 20px;
+}
+
+.bottom-up h3 {
+	font-size: 38px;
+	color:#487890;
+	font-family: "LeagueGothicRegular", Arial, Helvetica, sans-serif;
+	line-height: 38px;
+	background-color:#ADCEED;
+	background-image: url(../img/bottom-up_icona.png);
+	background-repeat: no-repeat;
+	background-position: 8px 5px;;
+	padding-left: 48px;
+	font-weight: normal;
+	padding-top: 5px;
+	margin-bottom: 0px;
+
+}
+
+.bottom-up h3 a {
+	text-decoration: none;
+	color:#487890;
+	display: block;
+
+}
+
+.bottom-up h3 a:hover {
+	text-decoration: none;
+	color:#1A4A61
+}
+
+.bottom-up p {
+	font-size: 11px;
+	color: #FFFFFF;
+	background-color: #ADCEED;
+	padding-bottom: 6px;
+	font-family: 'ArimoRegular', Arial, Helvetica, sans-serif;
+	padding-left: 6px;
+	padding-top:2px;
+	line-height:13px;
+	margin-bottom: 0px;
+
+	
+}
+
+.bottom-up ul {
+	font-size: 11px;
+	line-height: 13px;
+	color:#184860;
+	list-style-type: none;
+	margin: 0px;
+	padding: 1px 8px;
+}
+.bottom-up ul li {
+	border-bottom: 1px dotted #184860;
+	margin: 0px;
+	padding-top: 9px;
+	padding-bottom: 7px;
+}
+
+.bottom-up ul li a {
+		color:#184860;
+	text-decoration: none;
+	font-family:Arial, Helvetica, sans-serif;
+	
+}
+
+.bottom-up ul li a:hover {
+	color: #143E52;
+
+}
+
+.bottom-up .vai-sito {
+	background-image: url(../img/latest_freccia_continua.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	height: 12px;
+	width: 76px;
+	display: block;
+	line-height: 12px;
+	text-decoration:none;
+	font-family:'ArimoRegular', Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color:#ffffff;
+	text-transform:uppercase;
+	text-indent: 4px;
+	padding: 0px;
+	margin-top: 15px;
+	margin-right: 0px;
+	margin-bottom: 15px;
+	margin-left: 8px;
+
+}
+
+.bottom-up .vai-sito:hover {
+	background-position: 0px -12px;
+	
+}
+
+/********* fm-blu *********/
+
+
+.fm-blu {
+	border: 1px solid #612D44;
+	overflow: hidden;
+	margin-bottom: 20px;
+	
+}
+
+.fm-blu h3 {
+	font-size: 38px;
+	color:#8C4261;
+	font-family: "LeagueGothicRegular", Arial, Helvetica, sans-serif;
+	line-height: 38px;
+	background-color:#612D44;
+	background-image: url(../img/fm-blu_icona.png);
+	background-repeat: no-repeat;
+	background-position: 8px 5px;
+	padding-left: 48px;
+	font-weight: normal;
+	padding-top: 5px;
+	margin-bottom: 0px;
+}
+
+.fm-blu h3 a {
+	color:#8C4261;
+	text-decoration: none;
+	display: block;
+}
+
+.fm-blu h3 a:hover {
+	text-decoration: none;
+	color: #B56285;
+}
+
+.fm-blu p {
+	font-size: 11px;
+	color: #FFFFFF;
+	background-color: #612D44;
+	padding-bottom: 6px;
+	font-family: 'ArimoRegular', Arial, Helvetica, sans-serif;
+	padding-left: 6px;
+	padding-top:2px;
+	line-height:13px;
+	margin-bottom: 0px;
+
+	
+}
+
+.fm-blu ul {
+	font-size: 11px;
+	line-height: 13px;
+	color:#184860;
+	list-style-type: none;
+	margin: 0px;
+	padding: 1px 8px;
+}
+.fm-blu ul li {
+	border-bottom: 1px dotted #184860;
+	margin: 0px;
+	padding-top: 9px;
+	padding-bottom: 7px;
+}
+
+.fm-blu ul li a {
+	color:#8C4261;
+	text-decoration: none;
+	font-family:Arial, Helvetica, sans-serif;
+	
+}
+
+.fm-blu ul li a:hover {
+	color: #70344E;
+
+}
+
+.fm-blu .vai-sito {
+	background-image: url(../img/fm-blu_vai-sito.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	height: 12px;
+	width: 76px;
+	display: block;
+	line-height: 12px;
+	text-decoration:none;
+	font-family:'ArimoRegular', Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color:#ffffff;
+	text-transform:uppercase;
+	text-indent: 4px;
+	padding: 0px;
+	margin-top: 15px;
+	margin-right: 0px;
+	margin-bottom: 15px;
+	margin-left: 8px;
+}
+
+.fm-blu .vai-sito:hover {
+	background-position: 0px -12px;
+	
+}
+
+/********* vibrazioni *********/
+
+
+.vibrazioni {
+	border: 1px solid #ABA26F;
+	overflow: hidden;
+	margin-bottom: 20px;
+	
+}
+
+.vibrazioni h3 {
+	font-size: 38px;
+	color:#787350;
+	font-family: "LeagueGothicRegular", Arial, Helvetica, sans-serif;
+	line-height: 38px;
+	background-color:#ABA26F;
+	background-image: url(../img/vibrazioni_icona.png);
+	background-repeat: no-repeat;
+	background-position: 8px 5px;
+	;
+	padding-left: 48px;
+	font-weight: normal;
+	padding-top: 5px;
+	margin-bottom: 0px;
+}
+
+.vibrazioni h3 a {
+	text-decoration: none;
+	display: block;
+	color:#787350;
+
+}
+
+.vibrazioni h3 a:hover {
+	text-decoration: none;
+	color:#605B40;
+
+}
+
+.vibrazioni p {
+	font-size: 11px;
+	color: #FFFFFF;
+	background-color: #ABA26F;
+	padding-bottom: 6px;
+	font-family: 'ArimoRegular', Arial, Helvetica, sans-serif;
+	padding-left: 6px;
+	padding-top:2px;
+	line-height:13px;
+	margin-bottom: 0px;
+
+	
+}
+
+.vibrazioni ul {
+	font-size: 11px;
+	line-height: 13px;
+	color:#184860;
+	list-style-type: none;
+	margin: 0px;
+	padding: 1px 8px;
+}
+.vibrazioni ul li {
+	border-bottom: 1px dotted #184860;
+	margin: 0px;
+	padding-top: 9px;
+	padding-bottom: 7px;
+}
+
+.vibrazioni ul li a {
+	color:#787350;
+	text-decoration: none;
+		font-family:Arial, Helvetica, sans-serif;
+
+}
+
+.vibrazioni ul li a:hover {
+	color: #5E593E;
+
+}
+
+.vibrazioni .vai-sito {
+	background-image: url(../img/vibrazioni_vai-sito.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	height: 12px;
+	width: 76px;
+	display: block;
+	line-height: 12px;
+	text-decoration:none;
+	font-family:'ArimoRegular', Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color:#ffffff;
+	text-transform:uppercase;
+	text-indent: 4px;
+	padding: 0px;
+	margin-top: 15px;
+	margin-right: 0px;
+	margin-bottom: 15px;
+	margin-left: 8px;
+}
+
+.vibrazioni .vai-sito:hover {
+	background-position: 0px -12px;
+	
+}
+
+/********* insider *********/
+
+
+.insider {
+	border: 1px solid #FAA75F;
+	overflow: hidden;
+	margin-bottom: 20px;
+	
+}
+
+.insider h3 {
+	font-size: 38px;
+	color:#A97445;
+	font-family: "LeagueGothicRegular", Arial, Helvetica, sans-serif;
+	line-height: 38px;
+	background-color:#FAA75F;
+	background-image: url(../img/insider_icona.png);
+	background-repeat: no-repeat;
+	background-position: 8px 5px;
+	padding-left: 48px;
+	font-weight: normal;
+	padding-top: 5px;
+	margin-bottom: 0px;
+}
+
+.insider h3 a {
+	text-decoration: none;
+	display:block;
+	color:#A97445;
+	
+}
+
+.insider h3 a:hover {
+	text-decoration: none;
+	color:#855B36;
+	
+}
+
+.insider p {
+	font-size: 11px;
+	color: #FFFFFF;
+	background-color: #FAA75F;
+	padding-bottom: 6px;
+	font-family: 'ArimoRegular', Arial, Helvetica, sans-serif;
+	padding-left: 6px;
+	padding-top:2px;
+	line-height:13px;
+	margin-bottom: 0px;
+
+	
+}
+
+.insider ul {
+	font-size: 11px;
+	line-height: 13px;
+	color:#184860;
+	list-style-type: none;
+	margin: 0px;
+	padding: 1px 8px;
+}
+.insider ul li {
+	border-bottom: 1px dotted #184860;
+	margin: 0px;
+	padding-top: 9px;
+	padding-bottom: 7px;
+}
+
+.insider ul li a {
+	color:#A97445;
+	text-decoration: none;
+	font-family:Arial, Helvetica, sans-serif;
+}
+
+.insider ul li a:hover {
+	color: #845A35;
+
+}
+
+.insider .vai-sito {
+	background-image: url(../img/insider_vai-sito.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	height: 12px;
+	width: 76px;
+	display: block;
+	line-height: 12px;
+	text-decoration:none;
+	font-family:'ArimoRegular', Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color:#ffffff;
+	text-transform:uppercase;
+	text-indent: 4px;
+	padding: 0px;
+	margin-top: 15px;
+	margin-right: 0px;
+	margin-bottom: 15px;
+	margin-left: 8px;
+}
+
+.insider .vai-sito:hover {
+	background-position: 0px -12px;
+	
+}
+
+/******** mulimedia category ************/
+
+body.audio .categ {
+	background: url(../img/mmedia_categ_audio.png) no-repeat 0px 0px;
+	height: 91px;
+}
+
+body.video .categ {
+	background: url(../img/mmedia_categ_video.png) no-repeat 0px 0px;
+	height: 91px;
+}
+
+body.animazioni .categ {
+	background: url(../img/mmedia_categ_animazioni.png) no-repeat 0px 0px;
+	height: 91px;
+}
+
+body.immagini .categ {
+	background: url(../img/mmedia_categ_immagini.png) no-repeat 0px 0px;
+	height: 91px;
+}
+
+body.parole .categ {
+	background: url(../img/mmedia_categ_parole.png) no-repeat 0px 0px;
+	height: 91px;
+}
+
+.risorsa {
+	overflow:hidden;
+	padding-bottom: 10px;
+	margin-bottom: 16px;
+	background-image: url(../img/filetto_orizzontale_blu.png);
+	background-repeat: no-repeat;
+	background-position: 0px 100%;
+}
+
+.risorsa img {
+
+}
+
+.risorsa h2 {
+	margin: 0px;
+	padding: 0px;
+	font-family: "KreonRegular", "Times New Roman", Times, serif;
+	font-size: 24px;
+	line-height: 24px;
+	color:	#183048;
+	text-transform:uppercase;
+	font-weight: normal;
+	margin-bottom: 9px;
+}
+
+.risorsa h2 a {
+	text-decoration: none;
+	color:	#3C3024;
+	
+}
+
+.risorsa h2 a:hover {
+	text-decoration: none;
+	color:	#A97445;
+	
+}
+.risorsa .autore {
+	font-family:"ArimoBold", Arial, Helvetica, sans-serif;
+	color:#184860;
+	font-size: 12px;
+	margin-bottom:9px;
+}
+.risorsa .intro {
+	font-size: 13px;
+	line-height: 16px;
+	color: #696969;
+	font-family:"MerriweatherRegular", "Times New Roman", Times, serif;
+	margin-bottom:9px;
+	
+}
+
+.risorsa .intro em {
+	color:#a97445;
+	font-style: normal;
+}
+
+
+
+.risorsa .progetto {
+	font-family:"ArimoBold", Arial, Helvetica, sans-serif;
+	color:#a97445;
+	font-size: 11px;
+	line-height:12px;
+	margin-bottom:0px;
+	
+	
+
+}
+
+.risorsa .progetto strong {
+	font-family:"ArimoRegular", Arial, Helvetica, sans-serif;
+	color:#ffffff;
+	font-size: 9px;
+	display:inline-block;
+	background-image: url(../img/latest_freccia_continua.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	font-weight:normal;
+	width:76px;
+	text-indent: 10px;
+	margin-right: 5px;
+}
+
+
+.risorsa .tipologia {
+	border: 1px solid #FAA75F;
+    color: #FAA75F;
+    font-family: "KreonRegular","Times New Roman",Times,serif;
+    font-size: 12px;
+    font-weight: normal;
+    line-height: 16px;
+    margin: 0 0 9px;
+    padding: 0 5px;
+    text-transform: uppercase;	
+	float:right;
+	text-decoration: none;	
+}
+
+.risorsa .tipologia:hover {
+	border: 1px solid #5B3F25;
+    color: #5B3F25;
+	text-decoration: none;
+}
+
+
+/****** pagina ********/
+
+.paging {
+	font-size: 14px;
+	line-height: 19px;
+	color:#5B3F25;
+	font-family: "ArimoRegular", Arial, Helvetica, sans-serif;
+	/*padding-left:98px;*/
+	text-align:center;
+	margin-bottom:50px;
+}
+
+.paging a {
+	color:#5B3F25;
+	text-decoration:none;
+	padding-left:7px;
+	padding-right: 7px;
+	display:inline-block;
+}
+
+.paging a:hover {
+	background-color: #faa75f;
+
+}
+
+.paging a#active-page {
+	background-color: #5B3F25;
+	color: #FFFFFF;
+
+}
+
+.paging a.prev {
+	margin-right:15px;
+}
+
+.paging a.next {
+	margin-left: 15px;
+}
+
+/****** prj overview ********/
+
+.categ {
+	height: 31px;
+	font-family: 'LeagueGothicRegular', 'Arial Narrow', Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	line-height:30px;
+	text-transform: uppercase;
+	color: #3C3024;
+	padding-top: 60px;
+	text-align: center;
+}
+body.lista .categ {
+	background: url(../img/prj_overview_icona.png) no-repeat 0px 0px;
+	height: 91px;
+}
+
+body.overview .categ {
+	background: url(../img/prj_overview_icona.png) no-repeat 0px 0px;
+	height: 91px;
+}
+
+body.prj-overview.audio .categ {
+	background: url(../img/mmedia_categ_audio.png) no-repeat 0px 0px;
+	height: 91px;
+}
+
+body.prj-overview.video .categ {
+	background: url(../img/mmedia_categ_video.png) no-repeat 0px 0px;
+	height: 91px;
+}
+
+body.prj-overview.animazioni .categ {
+	background: url(../img/mmedia_categ_animazioni.png) no-repeat 0px 0px;
+	height: 91px;
+}
+
+body.prj-overview.immagini .categ {
+	background: url(../img/mmedia_categ_immagini.png) no-repeat 0px 0px;
+	height: 91px;
+}
+
+body.prj-overview.parole .categ {
+	background: url(../img/mmedia_categ_parole.png) no-repeat 0px 0px;
+	height: 91px;
+}
+
+body.ricerca .categ {
+	background: url(../img/ricerca_icona.png) no-repeat 0px 0px;
+	height: 91px;
+}
+
+
+
+
+body.prj-overview .prj-overview {
+
+}
+
+body.prj-overview .prj-overview h2 {
+	font-size: 32px;
+	line-height: 30px;
+	color:#3C3024;
+	font-family: "KreonRegular", Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	margin: 0px;
+	padding: 0px;
+	margin-bottom: 6px;
+}
+
+
+body.prj-overview .prj-overview .social {
+	margin-bottom: 7px;
+
+}
+
+body.prj-overview .prj-overview p {
+	font-size: 14px;
+	line-height: 20px;
+	color: #696969;
+	font-family: "MerriweatherRegular", "Times New Roman", Times, serif;
+	margin-bottom: 20px;
+}
+
+
+
+body.prj-overview .prj-overview .cont-multimedia {
+	margin-bottom: 20px;
+	margin-top: 2px;
+}
+
+body.prj-overview .prj-overview .cont-multimedia img {
+	border:none;
+}
+
+body.prj-overview .prj-overview .cont-multimedia .thumb{
+	height:125px;
+	width:125px;
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	display: block;
+	overflow: hidden;
+}
+
+body.prj-overview .prj-overview #animazioni {
+	overflow: hidden;
+	/*width: 620px;*/
+}
+
+
+body.prj-overview .multimedia {
+
+}
+
+body.prj-overview .multimedia h3 {
+	font-size: 30px;
+	color:#184860;
+	font-family: "LeagueGothicRegular", "Arial Narrow", Arial, Helvetica, sans-serif;
+	line-height: 40px;
+	text-align: center;
+	margin-bottom: 0px;
+	background-image: url(../img/multimedia_tit_sfondo.png);
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+	font-weight:normal;
+}
+
+
+
+body.prj-overview .multimedia .blocco {
+	border: 1px solid #184860;
+	overflow: hidden;
+	margin-bottom: 5px;
+	
+
+
+	
+}
+
+body.prj-overview .multimedia .blocco h4 {
+	font-size: 40px;
+	color:#FFFFFF;
+	font-family: "LeagueGothicRegular", "Arial Narrow", Arial, Helvetica, sans-serif;
+	line-height: 65px;
+	background-color:#184860;
+	font-weight: normal;
+	margin-bottom: 0px;
+	text-indent: 10px;
+	text-transform: uppercase;
+	font-weight:normal;
+	
+}
+
+body.prj-overview .multimedia .blocco h4.audio {
+	background-image: url(../img/multimedia_tipo_audio.png);
+	background-repeat: no-repeat;
+	background-position: 100% 50%;
+	
+}
+
+body.prj-overview .multimedia .blocco h4.video {
+	background-image: url(../img/multimedia_tipo_video.png);
+	background-repeat: no-repeat;
+	background-position: 100% 50%;
+	
+}
+
+body.prj-overview .multimedia .blocco h4.animazioni {
+	background-image: url(../img/multimedia_tipo_animazioni.png);
+	background-repeat: no-repeat;
+	background-position: 100% 50%;
+	
+}
+
+body.prj-overview .multimedia .blocco h4.immagini {
+	background-image: url(../img/multimedia_tipo_immagini.png);
+	background-repeat: no-repeat;
+	background-position: 100% 50%;
+	
+}
+
+body.prj-overview .multimedia .blocco h4.parole {
+	background-image: url(../img/multimedia_tipo_parole.png);
+	background-repeat: no-repeat;
+	background-position: 100% 50%;
+	
+}
+
+
+
+
+body.prj-overview .multimedia .blocco ul {
+	font-size: 11px;
+	line-height: 13px;
+	color:#184860;
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px 8px;
+	
+}
+body.prj-overview .multimedia .blocco ul li {
+	border-bottom: 1px dotted #184860;
+	margin: 0px;
+}
+
+body.prj-overview .multimedia .blocco ul li:last-child {
+	border:none;
+}
+
+body.prj-overview .multimedia .blocco ul li a {
+	color:#184860;
+	text-decoration: none;
+	font-family:Arial, Helvetica, sans-serif;
+	display:block;
+	padding-top: 9px;
+	padding-bottom: 7px;
+	
+
+}
+
+body.prj-overview .multimedia .blocco ul li a:hover {
+	color:#184860;
+	background-color: #C8D6DD;
+}
+
+body.prj-overview .prj-overview .info {
+	font-family:"ArimoBold", Arial, Helvetica, sans-serif;
+	color:#184860;
+	font-size: 12px;
+	line-height:12px;
+	margin-bottom:7px;
+	
+	
+
+}
+
+body.prj-overview .prj-overview .info a {
+	color:#184860;
+	text-decoration: underline;	
+	
+
+}
+
+
+body.prj-overview .prj-overview .info strong {
+	font-family:"ArimoRegular", Arial, Helvetica, sans-serif;
+	color:#ffffff;
+	font-size: 9px;
+	display:inline-block;
+	background-image: url(../img/latest_freccia_continua.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	font-weight:normal;
+	width:76px;
+	text-indent: 10px;
+	margin-right: 5px;
+	margin-left: 5px;
+	position:relative;
+	top: -1px;
+}
+
+/****** CHI SIAMO ********/
+
+body.istituzionale .categ {
+	background: url(../img/istituzionale.png) no-repeat 0px 0px;
+	height: 91px;
+}
+
+body.istituzionale .istituzionale h2 {
+	font-size: 32px;
+	line-height: 30px;
+	color:#3C3024;
+	font-family: "KreonRegular", Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	margin: 0px;
+	padding: 0px;
+	margin-bottom: 6px;
+}
+
+body.istituzionale .istituzionale h3 {
+	font-size: 18px;
+	line-height: 20px;
+	color:#3C3024;
+	font-family: "KreonRegular", Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	margin: 0px;
+	padding: 0px;
+	margin-bottom: 6px;
+	font-size: 18px;
+}
+
+body.istituzionale .istituzionale p {
+	font-size: 14px;
+	line-height: 20px;
+	color: #696969;
+	font-family: "MerriweatherRegular", "Times New Roman", Times, serif;
+	margin-bottom: 20px;
+}
+
+body.istituzionale .istituzionale p a {
+	font-weight:bold;
+}
+
+body.istituzionale .istituzionale p img{
+	float:left;
+	border-bottom: none;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+
+
+
+
+/****** leggi anche ********/
+
+
+
+.leggi-anche {
+	border: 1px solid #D1DADF;
+	overflow: hidden;
+	margin-bottom: 5px;
+	margin-top: 5px;
+	
+
+
+	
+}
+
+.leggi-anche h4 {
+	font-size: 20px;
+	color:#FFFFFF;
+	font-family: "LeagueGothicRegular", Arial, Helvetica, sans-serif;
+	line-height: 25px;
+	background-color:#6090A8;
+	font-weight: normal;
+	margin-bottom: 0px;
+	text-indent: 18px;
+	text-transform: uppercase;
+	background-image: url(../img/leggi-anche_icona.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+}
+
+
+
+
+.leggi-anche ul {
+	font-size: 11px;
+	line-height: 13px;
+	color:#184860;
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px 8px;
+	
+}
+.leggi-anche ul li {
+	border-bottom: 1px dotted #184860;
+	margin: 0px;
+}
+
+.leggi-anche ul li:last-child {
+	border:none;
+}
+
+.leggi-anche ul li a {
+	color:#184860;
+	text-decoration: none;
+	font-family:Arial, Helvetica, sans-serif;
+	display:block;
+	padding-top: 9px;
+	padding-bottom: 7px;
+	
+
+}
+
+.leggi-anche ul li a:hover {
+	color:#184860;
+	background-color: #EAEFF2;
+}
+
+
+/****** box ********/
+
+.box-mappaHome {
+
+}
+
+/************ facebook *********/
+
+.facebook {
+	text-align: center;
+	color: #CCCCCC;
+}
+
+/************ footer ***********/
+
+
+#footer {
+	background-color: #FAA75F;
+	height: 60px;
+	color: #FFFFFF;
+	margin-top: 25px;
+	position:relative;
+}
+
+#footer p {
+	font-size: 11px;
+	line-height: 11px;
+	color: #FFFFFF;
+	padding-top: 5px;
+	padding-left: 10px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
+
+#footer p a {
+	color: #ffffff;
+
+}
+
+#footer p a:hover {
+	color: #333;
+
+}
+
+
+#footer .creative-commons {
+	height: 57px;
+	width: 115px;
+	text-indent: -9999px;
+	background-image: url(../img/creative_commons.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	position:absolute;
+	top: 0px;
+	right: 10px;
+}
+
+/********* test *********/
+
+.giallo {
+	background-color:#FFCC66;
+}
+
+.verde {
+	background-color:#CCFFCC;
+}
+
+.logo-er {
+	margin-bottom: 20px;
+	margin-left: 50px;
+}
+
+.container_12 {
+	position:relative;
+}
+
+
+
+a:hover {
+	background-position: 100% -24px;
+}

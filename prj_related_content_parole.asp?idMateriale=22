@@ -1,0 +1,192 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" >
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+ 
+
+<title>Speciale Terremoto in Emilia: le normative anti-sismiche - INSIDER - dentro il mondo della ricerca in Emilia-Romagna</title>
+<meta name="Description" content="Dopo il terremoto dell'Emilia, avuto inizio il 20 maggio 2012, si è parlato molto di leggi inadeguate versus legislazione sulla costruzione di edifici anti-sismici non messa in atto. Dov'è la verità? Siamo andati a fondo della questione." />
+<meta name="Keywords" content="" />
+
+<meta property="og:title" content="Speciale Terremoto in Emilia: le normative anti-sismiche - INSIDER - dentro il mondo della ricerca in Emilia-Romagna"/> 
+<meta property="og:type" content="article"/> 
+<meta property="og:url" content="http://progettoinsider.it/prj_related_content_parole.asp?idMateriale=22"/> 
+<meta property="og:image" content="http://progettoinsider.it/uploadImg/insider_def(2).jpg"/> 
+
+<meta property="og:description" content="Dopo il terremoto dell'Emilia, avuto inizio il 20 maggio 2012, si è parlato molto di leggi inadeguate versus legislazione sulla costruzione di edifici anti-sismici non messa in atto. Dov'è la verità? Siamo andati a fondo della questione."/> 
+
+<link rel="stylesheet" type="text/css" href="css/_reset.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="css/_text.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="css/_960.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="css/_layout.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="css/_print.css" media="print" />
+<link rel="stylesheet" type="text/css" href="css/_insider.css" media="screen" />
+<script type="text/javascript" src="scripts/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="scripts/jquery-ui.js"></script>
+<script type="text/javascript" src="scripts/jquery-fluid16.js"></script>
+</head>
+<body class="prj-overview progetti parole">
+<div class="container_12">
+  <!-- header -->
+
+  <div id="header">
+  <img id="logo-print" src="img/logo_insider.png" />
+    <h1><a href="index.asp">insider - dentro il mondo della ricerca in Emilia-Romagna</a></h1>
+    <ul id="menu">
+      <li><a class="home" href="index.asp">home</a></li>
+      <li><a class="chi"  href="chi.asp">chi siamo</a></li>
+      <li><a class="video"  href="multimedia_category.asp?tipo=animazioni"> guarda</a></li>
+      <li><a class="audio"  href="multimedia_category.asp?tipo=audio">ascolta</a></li>
+      <li><a class="testi"  href="multimedia_category.asp?tipo=parole">leggi</a></li>
+      <li><a class="contatti"  href="contatti.asp">contatti</a></li>
+    </ul>
+    
+    <div id="social">Follow us 
+		<a href="rss.asp" class="rss" target="_blank">rss</a> 
+	<a href="http://www.facebook.com/pages/insidER-dentro-il-mondo-della-ricerca-in-Emilia-Romagna/252015034857076" class="fb" target="_blank">facebook</a>
+	
+    <a href="http://www.linkedin.com/groups/insidERdentro-mondo-della-ricerca-EmiliaRomagna-4483071?trk=myg_ugrp_ovr" class="linkedin" target="_blank">Linkedin</a> 
+	
+    <a href="https://twitter.com/#!/@InsidER_ricerca" class="twitter" target="_blank">Twitter</a>     
+	
+    </div>
+    
+    <form id="form1" method="post" action="cerca.asp">
+    <a href="#" class="stampa" title="stampa pagina"  onClick="window.print(); return false;">stampa pagina</a>
+      <p id="ricerca">
+        <input name="testo" type="text" class="text" id="textfield" value="Cerca nel sito" onFocus="this.value = '';" />
+        <input type="submit" name="button" class="invia" id="button" value="Invia" />
+      </p>
+    </form>
+  </div>
+
+<!-- fine header -->
+ 
+  <div class="grid_12">
+    <p id="breadcrumb">MULTIMEDIA / <a href="multimedia_category.asp?tipo=parole">LEGGI</a></p>
+  </div>
+  <div class="grid_1 categ">LEGGI</div>
+  <div class="grid_7 prj-overview">
+    <p class="info">4 giugno 2012 
+	<!--
+	<strong>PROGETTO</strong> in <a href="prj_overview.asp?idProgetto=0"></a> 
+	-->	
+      di MARCO BOSCOLO
+    </p>
+    <h2>SPECIALE TERREMOTO IN EMILIA: LE NORMATIVE ANTI-SISMICHE</h2>
+    <br />
+    
+    <div class="cont-multimedia"> <img src="gest/resize.asp?path=insider_def(2).jpg&width=540&height=203" /> </div>
+    
+    <p><p><span style="font-style: italic;">In occasione del Terremoto in Emilia, insidER dedica uno speciale con
+notizie di aggiornamento sull'evoluzione degli eventi sismici e con
+interviste di approfondimento ai ricercatori del territorio
+emiliano-romagnolo che si occupano di comprendere meglio la scienza dei
+terremoti.
+</span><br></p>
+<p>Fin dal 2003 il modenese e il ferrarese sono stati classificati come &#8220;zona sismica&#8221;. Come <a href="http://radio.rcdc.it/archives/dobbiamo-abituarci-allidea-viviamo-in-zona-sismica-101110/">ci ha spiegato Romano Camassi</a>, siamo passati<b>  da una sostanziale non classificazione a una &#8220;zona 3&#8243;</b>,
+cio&#232; un territorio a &#8220;medio rischio&#8221;, con un&#8217;attivit&#224; sismica storica
+nota e capace, come abbiamo visto, di provocare danni ingenti. Ma non
+possiamo pensare a quella normativa come a una storia che prevede un
+prima e un dopo 2003. La situazione &#232; molto pi&#249; complessa.</p>
+<p><b> Marco Mucciarelli</b>  del Dipartimento di strutture, geotecnica, geologia applicata dell&#8217;Universit&#224; della Basilicata ricorda come <b> i dati</b>  che sono <b> alla base della cosiddetta riclassificazione del 2003 erano noti gi&#224; da alcuni anni</b>.
+Sono rimasti a giacere in un &#8220;cassetto del ministero (delle
+Infrastrutture ndr.&#8221; finch&#233; il terremoto del 2002 che ha colpito il
+Molise uccidendo 27 alunni e un&#8217;insegnante della scuola di San Giuliano
+di Puglia non li hanno fatti riemergere e trasformarsi in una vera e
+propria ordinanza.</p>
+<p>E&#8217; questa ordinanza che per la prima volta classifica come &#8220;sismici&#8221; i
+territori colpiti dal terremoto in questi giorni. Una situazione
+ribadita anche da una seconda ordinanza sulla materia uscita nel 2007. A
+queste <b> ordinanze, che indicano dove si pu&#242; e dove non si pu&#242; costruire</b> , si affiancano fin dal 2003 le<b>  norme che indicano come si deve costruire</b>.
+Questo, per&#242;, non implica automaticamente che tutti gli edifici
+costruiti a partire dal 2003 nel modenese e nel ferrarese siano
+necessariamente a norma. &#8220;Fin dal 2003, infatti, &#232; uscita anche un&#8217;altra
+ordinanza&#8221;, spiega Mucciarelli, &#8220;per la quale era possibile che<b>  chi costruiva poteva scegliere se applicare le norme per la costruzione pi&#249; restrittive oppure no</b>&#8220;.
+E&#8217; come se contemporaneamente vigessero due norme che dicono che il
+limite di alcol nel sangue per chi si mette alla guida &#232; di 0,5 oppure
+di 0,2 e quando i vigili ci fanno l&#8217;etilometro possiamo scegliere quale
+parametro applicare&#8221;. Immagiamo quali possano essere state le scelte
+fatte&#8230; <br>
+</p>
+<p><b> Questo regime di &#8220;covigenza&#8221; si &#232; concluso nel 2009</b>,
+in seguito al terremoto che ha colpito L&#8217;Aquila e l&#8217;Abruzzo. Da allora
+la deroga alle norme di costruzione per i territori classificati come
+sismici &#232; caduta. Marco Mucciarelli non esclude che questo regime di
+&#8220;doppia legge&#8221; possa avere una qualche rilevanza per il patrimonio
+edilizio colpito dai terremoti del 20 e 29 maggio. In queste zone
+l&#8217;obbligo vero e proprio di costruire secondo rigidi criteri di
+sicurezza anitsismica arriva solamente tre anni fa.</p>
+<p>Accanto alla classificazione dei territori comunali del 2003 esiste
+anche un altro strumento importante ma poco noto che aiuta a capire
+meglio, quasi punto per punto, il reale rischio sismico di un comune. E&#8217;
+quella che si chiama <b> microzonazione</b>, ovvero una
+mappatura per certi versi pi&#249; raffinata di quella della mappa di
+pericolosit&#224; che determina la classificazione. &#8220;La microzonazione indica
+di quale fattore dobbiamo moltiplicare il valore che ci arriva dalla
+mappa di pericolosit&#224; stessa&#8221;, spiega Mucciarelli, &#8220;e questo fattore <b> dipende dal tipo di terreno su cui si trova l&#8217;edificio</b>&#8220;.
+Il terreno modenese, per esempio, per la sua natura amplifica gli
+effetti di un terremoto, a differenza di altri per cui questo fattore &#232;
+nullo. La Regione Emilia-Romagna &#232; pi&#249; avanti di altre sue questo punto, ma &#232; un obbligo che investe tutti i comuni
+classificati come sismici d&#8217;Italia.</p>
+[Il pezzo &#232; tratto da una prima pubblicazione apparsa il 31 maggio 2012 <a href="http://radio.rcdc.it/archives/la-giungla-delle-normative-antisismiche-una-storia-italiana-101362/">sul sito di Radio Citt&#224; del Capo</a>, sempre a firma di Marco Boscolo]<br>
+<p>&nbsp;</p>
+<br></p>
+	
+
+
+
+
+	
+	<p></p>
+	
+    <div class="social">
+	<!--
+      <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fprogettoinsider%2Eit%2Fprj%5Frelated%5Fcontent%5Fparole%2Easp%3FidMateriale%3D22&amp;layout=standard&amp;show_faces=true&amp;width=500&amp;action=like&amp;colorscheme=light&amp;height=23" scrolling="No" frameborder="0" style="border:none; overflow:hidden; width:500px; height:23px;" allowtransparency="true"></iframe>
+	-->
+	
+	<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/it_IT/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+	
+	<fb:like href="http://progettoinsider.it/prj_related_content_parole.asp?idMateriale=22" send="true" width="450" show_faces="false"></fb:like>
+    </div>
+	
+	<!--
+    include file="_box_link-argomenti.asp" 
+	-->
+	
+  </div>
+  <!-- sidebar -->
+    <div class="grid_4">
+
+<!--
+	<div class="facebook">
+<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FinsidER-dentro-il-mondo-della-ricerca-in-Emilia-Romagna%2F252015034857076&amp;width=292&amp;colorscheme=light&amp;show_faces=true&amp;stream=false&amp;header=true&amp;height=290" scrolling="No" frameborder="0" style="border:none; overflow:hidden; width:292px; height:290px;" allowtransparency="true"></iframe>
+	</div>
+-->
+
+  </div>
+  <!-- fine sidebar -->
+  
+  
+<!-- footer -->
+
+  <div class="grid_12" id="footer">
+    
+    <p><a href="index.asp">home</a> - <a href="chi.asp">chi siamo</a> - <a href="contatti.asp">contatti</a> - <a href="#">torna in alto</a><br />
+InsidER  &egrave; un progetto dell'Associazione Bla Bla<br />
+C.F.  91332140374<br />
+BlaBla 2011. <a href="termini.asp">Termini  di utilizzo</a></p>
+<a href="http://creativecommons.org/licenses/by-nc-sa/2.5/deed.it" target="_blank" class="creative-commons">creative commons</a>  </div>
+
+<!-- fine footer -->
+</div>
+</body>
+</html>

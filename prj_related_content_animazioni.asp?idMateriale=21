@@ -1,0 +1,241 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" >
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+
+<title>24 ore con...(IV puntata) un'entomologa - INSIDER - dentro il mondo della ricerca in Emilia-Romagna</title>
+<meta name="Description" content="Questa volta il minuto di “24h with...” è dedicato all’entomologia. <b>Lara Maistrello</b>, ricercatore in Entomologia generale e applicata dell’Università di Modena e Reggio Emilia, studia metodi di controllo sostenibili di numerosi insetti dannosi. " />
+<meta name="Keywords" content="" />
+
+<meta property="og:title" content="24 ore con...(IV puntata) un'entomologa - INSIDER - dentro il mondo della ricerca in Emilia-Romagna"/> 
+<meta property="og:type" content="article"/> 
+<meta property="og:url" content="http://progettoinsider.it/prj_related_content_animazioni.asp?idMateriale=21"/>  
+<meta property="og:description" content="Questa volta il minuto di “24h with...” è dedicato all’entomologia. <b>Lara Maistrello</b>, ricercatore in Entomologia generale e applicata dell’Università di Modena e Reggio Emilia, studia metodi di controllo sostenibili di numerosi insetti dannosi. "/> 
+<meta property="og:image" content="http://progettoinsider.it/uploadImg/24hwith_thumb(2).png"/> 
+
+
+
+<link rel="stylesheet" type="text/css" href="css/_reset.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="css/_text.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="css/_960.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="css/_layout.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="css/_print.css" media="print" />
+<link rel="stylesheet" type="text/css" href="css/_insider.css" media="screen" />
+
+<script type="text/javascript" src="scripts/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="scripts/jquery-ui.js"></script>
+<script type="text/javascript" src="scripts/jquery-fluid16.js"></script>
+
+<link rel="stylesheet" href="video-js.css" type="text/css" media="screen" title="Video JS" charset="utf-8">
+
+</head>
+<body class="prj-overview progetti animazioni">
+<div class="container_12">
+  <!-- header -->
+
+  <div id="header">
+  <img id="logo-print" src="img/logo_insider.png" />
+    <h1><a href="index.asp">insider - dentro il mondo della ricerca in Emilia-Romagna</a></h1>
+    <ul id="menu">
+      <li><a class="home" href="index.asp">home</a></li>
+      <li><a class="chi"  href="chi.asp">chi siamo</a></li>
+      <li><a class="video"  href="multimedia_category.asp?tipo=animazioni"> guarda</a></li>
+      <li><a class="audio"  href="multimedia_category.asp?tipo=audio">ascolta</a></li>
+      <li><a class="testi"  href="multimedia_category.asp?tipo=parole">leggi</a></li>
+      <li><a class="contatti"  href="contatti.asp">contatti</a></li>
+    </ul>
+    
+    <div id="social">Follow us 
+		<a href="rss.asp" class="rss" target="_blank">rss</a> 
+	<a href="http://www.facebook.com/pages/insidER-dentro-il-mondo-della-ricerca-in-Emilia-Romagna/252015034857076" class="fb" target="_blank">facebook</a>
+	
+    <a href="http://www.linkedin.com/groups/insidERdentro-mondo-della-ricerca-EmiliaRomagna-4483071?trk=myg_ugrp_ovr" class="linkedin" target="_blank">Linkedin</a> 
+	
+    <a href="https://twitter.com/#!/@InsidER_ricerca" class="twitter" target="_blank">Twitter</a>     
+	
+    </div>
+    
+    <form id="form1" method="post" action="cerca.asp">
+    <a href="#" class="stampa" title="stampa pagina"  onClick="window.print(); return false;">stampa pagina</a>
+      <p id="ricerca">
+        <input name="testo" type="text" class="text" id="textfield" value="Cerca nel sito" onFocus="this.value = '';" />
+        <input type="submit" name="button" class="invia" id="button" value="Invia" />
+      </p>
+    </form>
+  </div>
+
+<!-- fine header -->
+  
+
+  
+  <div class="grid_12">
+    <p id="breadcrumb">MULTIMEDIA / <a href="multimedia_category.asp?tipo=animazioni">GUARDA</a></p>
+  </div>
+  <div class="grid_1 categ">GUARDA</div>
+  <div class="grid_7 prj-overview">
+    <p class="info">10 settembre 2012 
+	<!--
+	<strong>PROGETTO</strong> in <a href="prj_overview.asp?idProgetto=0"></a> 
+	-->
+	di LISA LAZZARATO</p>
+    <h2>24 ORE CON...(IV PUNTATA) UN'ENTOMOLOGA</h2>
+    <br />
+   
+
+<script src="video.js" type="text/javascript" charset="utf-8"></script>
+
+<script type="text/javascript">
+// Must come after the video.js library
+
+// Add VideoJS to all video tags on the page when the DOM is ready
+VideoJS.setupAllWhenReady();
+
+/* ============= OR ============ */
+
+// Setup and store a reference to the player(s).
+// Must happen after the DOM is loaded
+// You can use any library's DOM Ready method instead of VideoJS.DOMReady
+
+/*
+VideoJS.DOMReady(function(){
+  
+  // Using the video's ID or element
+  var myPlayer = VideoJS.setup("example_video_1");
+  
+  // OR using an array of video elements/IDs
+  // Note: It returns an array of players
+  var myManyPlayers = VideoJS.setup(["example_video_1", "example_video_2", video3Element]);
+
+  // OR all videos on the page
+  var myManyPlayers = VideoJS.setup("All");
+
+  // After you have references to your players you can...(example)
+  myPlayer.play(); // Starts playing the video for this player.
+});
+*/
+
+/* ========= SETTING OPTIONS ========= */
+
+// Set options when setting up the videos. The defaults are shown here.
+
+/*
+VideoJS.setupAllWhenReady({
+  controlsBelow: false, // Display control bar below video instead of in front of
+  controlsHiding: true, // Hide controls when mouse is not over the video
+  defaultVolume: 0.85, // Will be overridden by user's last volume if available
+  flashVersion: 9, // Required flash version for fallback
+  linksHiding: true // Hide download links when video is supported
+});
+*/
+
+// Or as the second option of VideoJS.setup
+
+/*
+VideoJS.DOMReady(function(){
+  var myPlayer = VideoJS.setup("example_video_1", {
+	// Same options
+  });
+});
+*/
+</script>
+
+<div id="animazioni" class="cont-multimedia">
+	<p id="video_unsupported">Per visualizzare il video è necessario Flash Player oppure un browser compatibile con HTML5</p>
+	<div class="video-js-box">
+		<!-- Using the Video for Everybody Embed Code http://camendesign.com/code/video_for_everybody -->
+		<video id="example_video_1" class="video-js" width="540" height="320" controls="controls" preload="auto">
+		<source src="http://www.formicablu.it/animazioni/settembre_entomologia.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+			<!-- Flash Fallback. Use any flash video player here. Make sure to keep the vjs-flash-fallback class. -->
+			<object id="flash_fallback_1" class="vjs-flash-fallback" width="540" height="320" type="application/x-shockwave-flash"
+	data="http://releases.flowplayer.org/swf/flowplayer-3.2.1.swf">
+			<param name="movie" value="http://releases.flowplayer.org/swf/flowplayer-3.2.1.swf" />
+			<param name="allowfullscreen" value="true" />
+			<param name="flashvars" value='config={"playlist":[{"url": "http://www.formicablu.it/animazioni/settembre_entomologia.mp4","autoPlay":false,"autoBuffering":true}]}' />
+			</object>
+		</video> 
+	</div>
+</div>
+
+<div class="clear"></div>
+	<p><p style="margin-bottom: 0cm">
+</p>
+<p style="margin-bottom: 0cm">Fare ricerca sugli insetti prevede
+periodi di sperimentazione in laboratorio e altri in campo, cosicch&#233;
+non &#232; facile descrivere una giornata tipo. Ma proviamo a
+rappresentarla, grazie all&#8217;aiuto di <a href="http://www.dipsaa.unimore.it/ita/index.php?option=com_content&amp;task=view&amp;id=35&amp;Itemid=18"><span style="font-weight: bold;">Lara Maistrello</span></a><span style="font-weight: bold;"></span>, che &#232;
+ricercatore confermato in Entomologia presso il <a href="http://www.unimore.it/ateneo/dsv.html">Dipartimento di
+Scienze della vita dell&#8217;Universit&#224; di Modena e Reggio Emilia</a>.
+Presso la sede di Reggio Emilia, Lara Maistrello ricerca strategie
+sostenibili per il controllo di insetti dannosi in ambienti urbani e
+agrari.</p>
+<br>
+<p>&nbsp;</p>
+<br></p>
+	<div class="clear"></div>
+    <div class="social">
+	
+	
+
+	<!--
+      <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fprogettoinsider%2Eit%2Fprj%5Frelated%5Fcontent%5Fanimazioni%2Easp%3FidMateriale%3D21&amp;layout=standard&amp;show_faces=true&amp;width=500&amp;action=like&amp;colorscheme=light&amp;height=23" scrolling="No" frameborder="0" style="border:none; overflow:hidden; width:500px; height:23px;" allowtransparency="true"></iframe>
+-->
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/it_IT/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+
+
+FB.Event.subscribe('edge.create',
+    function(response) {
+        alert('You liked the URL: ' + response);
+    }
+);
+
+
+
+</script>
+	
+	<fb:like href="http://progettoinsider.it/prj_related_content_animazioni.asp?idMateriale=21" send="true" width="450" show_faces="false"></fb:like>
+	
+    </div>
+	
+	<!--
+    include file="_box_link-argomenti.asp" 
+	-->
+	
+  </div>
+  <!-- sidebar -->
+    <div class="grid_4">
+
+<!--
+	<div class="facebook">
+<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FinsidER-dentro-il-mondo-della-ricerca-in-Emilia-Romagna%2F252015034857076&amp;width=292&amp;colorscheme=light&amp;show_faces=true&amp;stream=false&amp;header=true&amp;height=290" scrolling="No" frameborder="0" style="border:none; overflow:hidden; width:292px; height:290px;" allowtransparency="true"></iframe>
+	</div>
+-->
+
+  </div>
+
+  <!-- fine sidebar -->
+ 
+
+  
+<!-- footer -->
+
+  <div class="grid_12" id="footer">
+    
+    <p><a href="index.asp">home</a> - <a href="chi.asp">chi siamo</a> - <a href="contatti.asp">contatti</a> - <a href="#">torna in alto</a><br />
+InsidER  &egrave; un progetto dell'Associazione Bla Bla<br />
+C.F.  91332140374<br />
+BlaBla 2011. <a href="termini.asp">Termini  di utilizzo</a></p>
+<a href="http://creativecommons.org/licenses/by-nc-sa/2.5/deed.it" target="_blank" class="creative-commons">creative commons</a>  </div>
+
+<!-- fine footer -->
+</div>
+</body>
+</html>

@@ -1,0 +1,293 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" >
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+ 
+
+<title>Che ozono farà  - INSIDER - dentro il mondo della ricerca in Emilia-Romagna</title>
+<meta name="Description" content="Palmira Messina, fisica ambientale si occupa dell’ottimizzazione di un nuovo modello meteorologico. Che servirà non solo per le solite previsioni, ma anche per stimare i livelli di sostanze inquinanti nell’aria." />
+<meta name="Keywords" content="" />
+
+<meta property="og:title" content="Che ozono farà  - INSIDER - dentro il mondo della ricerca in Emilia-Romagna"/> 
+<meta property="og:type" content="article"/> 
+<meta property="og:url" content="http://progettoinsider.it/prj_related_content_parole.asp?idMateriale=14"/> 
+<meta property="og:image" content="http://progettoinsider.it/uploadImg/minelli.jpg"/> 
+
+<meta property="og:description" content="Palmira Messina, fisica ambientale si occupa dell’ottimizzazione di un nuovo modello meteorologico. Che servirà non solo per le solite previsioni, ma anche per stimare i livelli di sostanze inquinanti nell’aria."/> 
+
+<link rel="stylesheet" type="text/css" href="css/_reset.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="css/_text.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="css/_960.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="css/_layout.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="css/_print.css" media="print" />
+<link rel="stylesheet" type="text/css" href="css/_insider.css" media="screen" />
+<script type="text/javascript" src="scripts/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="scripts/jquery-ui.js"></script>
+<script type="text/javascript" src="scripts/jquery-fluid16.js"></script>
+</head>
+<body class="prj-overview progetti parole">
+<div class="container_12">
+  <!-- header -->
+
+  <div id="header">
+  <img id="logo-print" src="img/logo_insider.png" />
+    <h1><a href="index.asp">insider - dentro il mondo della ricerca in Emilia-Romagna</a></h1>
+    <ul id="menu">
+      <li><a class="home" href="index.asp">home</a></li>
+      <li><a class="chi"  href="chi.asp">chi siamo</a></li>
+      <li><a class="video"  href="multimedia_category.asp?tipo=animazioni"> guarda</a></li>
+      <li><a class="audio"  href="multimedia_category.asp?tipo=audio">ascolta</a></li>
+      <li><a class="testi"  href="multimedia_category.asp?tipo=parole">leggi</a></li>
+      <li><a class="contatti"  href="contatti.asp">contatti</a></li>
+    </ul>
+    
+    <div id="social">Follow us 
+		<a href="rss.asp" class="rss" target="_blank">rss</a> 
+	<a href="http://www.facebook.com/pages/insidER-dentro-il-mondo-della-ricerca-in-Emilia-Romagna/252015034857076" class="fb" target="_blank">facebook</a>
+	
+    <a href="http://www.linkedin.com/groups/insidERdentro-mondo-della-ricerca-EmiliaRomagna-4483071?trk=myg_ugrp_ovr" class="linkedin" target="_blank">Linkedin</a> 
+	
+    <a href="https://twitter.com/#!/@InsidER_ricerca" class="twitter" target="_blank">Twitter</a>     
+	
+    </div>
+    
+    <form id="form1" method="post" action="cerca.asp">
+    <a href="#" class="stampa" title="stampa pagina"  onClick="window.print(); return false;">stampa pagina</a>
+      <p id="ricerca">
+        <input name="testo" type="text" class="text" id="textfield" value="Cerca nel sito" onFocus="this.value = '';" />
+        <input type="submit" name="button" class="invia" id="button" value="Invia" />
+      </p>
+    </form>
+  </div>
+
+<!-- fine header -->
+ 
+  <div class="grid_12">
+    <p id="breadcrumb">MULTIMEDIA / <a href="multimedia_category.asp?tipo=parole">LEGGI</a></p>
+  </div>
+  <div class="grid_1 categ">LEGGI</div>
+  <div class="grid_7 prj-overview">
+    <p class="info">1 ottobre 2011 
+	<!--
+	<strong>PROGETTO</strong> in <a href="prj_overview.asp?idProgetto=0"></a> 
+	-->	
+      di LISA LAZZARATO
+    </p>
+    <h2>CHE OZONO FARÀ </h2>
+    <br />
+    
+    <div class="cont-multimedia"> <img src="gest/resize.asp?path=minelli.jpg&width=540&height=203" /> </div>
+    
+    <p><p style="margin-bottom: 0cm">Non
+&#232; difficile perdersi nel dedalo di costruzioni bianche e gialle del
+<a  href="http://www.bo.cnr.it/">CNR (Centro Nazionale delle Richerche) di Bologna</a>, ma per fortuna ci sono anche i cartelli che portano le sigle dei
+vari istituti. Seguendo l&#8217;indicazione per l&#8217;Istituto di
+scienza dell&#8217;atmosfera e del clima, attraverso lunghi
+corridoi, passo portoni, salgo scale. Trovo finalmente Palmira
+Messina, fisica ambientale che si occupa dell&#8217;ottimizzazione di
+un nuovo modello meteorologico. Servir&#224; non solo per le solite
+previsioni, ma anche per stimare i livelli di sostanze inquinanti
+nell&#8217;aria.</p>
+<p style="margin-bottom: 0cm;"><b>&#200;
+molto che fai parte del gruppo di modellistica dell&#8217;atmosfera?</b><br>No,
+sono arrivata da poco. Prima mi occupavo dell&#8217;impatto dei
+cambiamenti climatici sul patrimonio culturale, sempre al Cnr. Il
+progetto che ho seguito stava volgendo al termine, quindi mi sono
+guardata in giro, volevo continuare a occuparmi di modellistica e
+ambiente. &#200; stata una fortuna trovare questa possibilit&#224;
+all&#8217;interno dell&#8217;istituto.</p>
+<p style="margin-bottom: 0cm;"></p>
+<p style="margin-bottom: 0cm"><b>Prima
+clima, poi meteo, ma cosa significa occuparsi di modelli?</b><br>Stare
+davanti a un computer&#8230; alle prese con questioni matematiche. In
+particolare in questo progetto devo sviluppare <i>routine</i> di
+assimilazione dei dati. &#200; un po&#8217; complicato da spiegare, ma in
+sostanza si utilizzano tecniche matematiche e i dati sperimentali
+raccolti per migliorare le performance del modello.</p>
+<p style="margin-bottom: 0cm"><b>I
+dati che considerate si riferiscono a temperature, precipitazioni e
+parametri simili?</b><br>Non
+solo, perch&#233; il modello che stiamo studiando, <a  href="http://bolchem.isac.cnr.it/projects:bolchem.do">Bolchem</a>, &#232;
+meteorologico e chimico. Cio&#232; consente di prevedere anche come
+biossido di azoto, monossido di carbonio e altri inquinanti
+evolveranno.</p>
+<p style="margin-bottom: 0cm"><b>La
+previsione degli inquinanti, per quel poco che so, &#232; un aspetto
+nuovo&#8230;</b><br>Non
+escludo che esista gi&#224; qualcosa del genere, ma credo che la realt&#224;
+prevalente sia il monitoraggio degli inquinanti, non la previsione.
+Un modello come Bolchem, che nasce da un altro modello sviluppato
+qui, ha potenzialit&#224; molto interessanti. Ma &#232; ancora in fase di
+ricerca e non so se verr&#224; utilizzato per fare previsioni o per
+creare scenari d&#8217;inquinamento.</p>
+<p style="margin-bottom: 0cm"><b>Hai
+detto che tu ti occupi dell&#8217;ottimizzazione del modello&#8230;</b><br>S&#236;,
+Bolchem &#232; gestito da un altro gruppo, con il quale collaboro.
+Innanzitutto sto cercando di imparare, perch&#233; devo entrare bene nel
+modello. Per ora ho affrontato la parte teorica dello sviluppo delle
+<i>routine</i>. Non &#232; stato banale, ma mi piace molto questo
+aspetto, perch&#233; mi permette di usare la testa. Ho cominciato da poco
+a fare dei periodi di simulazione di prova, di qualche giorno.</p>
+<p style="margin-bottom: 0cm"><b>Cio&#232;
+metti alla prova il modello utilizzando condizioni ambientali
+passate?</b><br>In
+pratica si individuano dei <i>case studies</i>. Uno di quelli scelti,
+ad esempio, risale all&#8217;estate del 2004 quando ci sono stati picchi
+di inquinamento fotochimico. Abbiamo creato una simulazione di quei
+giorni e la parte matematica di cui mi occupo &#232; proprio finalizzata
+a rendere la previsione pi&#249; aderente alla realt&#224;.</p>
+<p style="margin-bottom: 0cm"><b>Ti
+sei gi&#224; occupata in passato di problematiche simili?</b><br>La
+mia formazione in fisica ambientale, all&#8217;universit&#224; di Milano, &#232;
+stata proprio su questo. Per la mia tesi di laurea mi sono occupata
+di modellistica e monitoraggio degli inquinanti. Dopo la parentesi
+nel gruppo di beni culturali, a cui prima accennavo, ora sono tornata
+alla mia prima passione.</p>
+<p style="margin-bottom: 0cm">
+</p>
+<p style="margin-bottom: 0cm"><b>Quindi
+sei arrivata a Bologna fresca di laurea?</b></p>
+<p style="margin-bottom: 0cm">S&#236;,
+tre anni e mezzo fa, perch&#233; a Milano non si occupano di modellistica
+dell&#8217;atmosfera. Ho mandato il curriculum al Cnr e a diversi enti di
+ricerca, ma senza avere molte speranze. Poi c&#8217;&#232; stata
+l&#8217;opportunit&#224; della <a  href="http://www.isac.cnr.it/~intatmat/intatmat.php">ricerca su beni culturali e cambiamenti
+climatici</a> e ho deciso di cominciare questa avventura. All&#8217;inizio
+ero un po&#8217; titubante, poi mi sono rassicurata ed &#232; andata bene. Mi
+piace questo ambiente e poter avere a che fare con persone molto
+aperte e intellettualmente vivaci. Ho trovato anche degli amici e
+comunque non &#232; male avere una bella atmosfera nell&#8217;ambiente di
+lavoro.</p>
+<p style="margin-bottom: 0cm"><b>Il
+tuo gruppo com&#8217;&#232; composto?</b><br>Per
+ora non siamo tanti, ma collaboriamo molto con altri gruppi. &#200;
+piuttosto comune, per quello che vedo, che ci sia questa
+frammentazione in Italia, quasi un retaggio storico dell&#8217;epoca dei
+comuni. Senza considerare la questione del precariato&#8230;</p>
+<p style="margin-bottom: 0cm"><b>Tu
+in che posizione sei?</b><br>Nell&#8217;ambito
+del progetto di tre anni, ho un assegno di ricerca annuale. &#200;
+rinnovabile, ma non posso dire di avere la certezza per tre anni.
+Dopo un po&#8217; ci si abitua all&#8217;incertezza. Quando nell&#8217;altro
+gruppo il progetto stava per terminare mi sono subito guardata in
+giro ed &#232; andata bene. Da poco ho cominciato anche il dottorato di
+ricerca, sempre sulla modellistica meteorologica</p>
+<p style="margin-bottom: 0cm"><b>E
+dopo il progetto che stati seguendo&#8230;</b></p>
+<p style="margin-bottom: 0cm">Non
+so cosa succeder&#224;, ma spero che aumentando l&#8217;esperienza sar&#224; pi&#249;
+facile continuare in questo posto o trovarne un altro. &#200; un momento
+difficile in generale, ma forse la situazione della ricerca &#232;
+particolarmente critica. Non si pu&#242; fare conto sul precariato,
+perch&#233; la vita pu&#242; portare a fare certe scelte, che non sono
+compatibili con questa condizione. C&#8217;&#232; anche l&#8217;opportunit&#224; di
+andare all&#8217;estero, nel caso non trovi nulla in Italia.</p>
+<p style="margin-bottom: 0cm"><b>Saresti
+disposta a fare questo salto?</b></p>
+<p style="margin-bottom: 0cm">Non
+lo so, per certi versi sono tentata. Sono molto legata alle mie
+radici e fino a qualche tempo fa non sarei mai partita. Per&#242; facendo
+questo lavoro mi &#232; capitato di viaggiare spesso e ho trovato molto
+stimolante conoscere realt&#224; nuove. Ora credo che passerei alcuni
+periodi, anche di qualche anno, all&#8217;estero. Per&#242; non so, perch&#233;
+se in Italia uno se ne va, poi cosa ritrova quando torna, dopo due
+anni che &#232; stato all&#8217;estero?</p>
+<p style="margin-bottom: 0cm"><b>Sembra
+un discorso gi&#224; sentito, ma in effetti&#8230;</b><br>Conosco
+tante persone per cui &#232; stato difficile tornare o trovare una
+posizione analoga a quella che occupavano all&#8217;estero. &#200; assurdo
+che fuori dall&#8217;Italia la logica sia esattamente contraria: chi
+trascorre periodi fuori &#232; ben visto e ben accolto, perch&#233; porta
+nuove conoscenze e visioni. Ragionando in un&#8217;ottica europea, forse
+anche il dottorato mi potr&#224; tornare utile, per spendermi in una
+realt&#224; lavorativa pi&#249; ampia.</p>
+<p style="margin-bottom: 0cm"><b>Quindi
+che lingua potresti parlare per qualche tempo?</b></p>
+<p style="margin-bottom: 0cm">Francese.
+A Parigi ci sono degli enti di ricerca con cui siamo in contatto, che
+si occupano di modelli meteorologici simili ai nostri. Sar&#224; anche
+una buona occasione per studiare un&#8217;altra lingua, sperando che la
+mimica facciale aiuti un po&#8217; la comprensione. Non &#232; stato facile
+decifrare i minimi movimenti labiali degli abitanti di Norwich, dove
+sono stata tempo fa.</p>
+<p style="margin-bottom: 0cm"><b>Se
+andrai, avrai modo di goderti la cucina francese&#8230;</b></p>
+<p style="margin-bottom: 0cm">Certo,
+ma in quanto a cucina amo molto fare da me. Trovo rilassante
+cucinare, usare le mani, dopo una giornata passata a lavorare su
+matematica e modelli. Poi amo molto l&#8217;aspetto conviviale della
+cucina. A volte mi imbarco in imprese pi&#249; grandi di me&#8230; come la
+preparazione di una montagna di peperoncini ripieni, che mi ha
+provocato bruciori agli occhi e alle mani, ma ho voluto portare a
+termine. Il mio interesse per la chimica trova sfogo in cucina&#8230;</p>
+<p style="margin-bottom: 0cm"><b>Avresti
+studiato chimica?</b><br>Era
+un&#8217;idea, ma alla fine ho scelto fisica, perch&#233; mi attirava la
+parte matematica. Mentre nella chimica vedevo troppa sperimentazione,
+non mi sarebbe piaciuto stare tutto il giorno in laboratorio. E nella
+matematica trovavo invece troppa astrazione. Il corso di fisica che
+ho scelto, invece, aveva tutto quello che cercavo: matematica e
+ambiente. Credo mi abbia dato una buona forma mentis.</p>
+<p style="margin-bottom: 0cm"><b>Una
+passione dichiarata per la matematica&#8230;</b><br>Che
+ho sempre avuto. Ma soprattutto il piacere di impegnarsi mentalmente,
+di cercare di capire e risolvere un problema.&nbsp;
+<br><br>Questa intervista &#232; stata raccolta nell'ottobre 2007.<br></p></p>
+	
+
+
+
+
+	
+	<p></p>
+	
+    <div class="social">
+	<!--
+      <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fprogettoinsider%2Eit%2Fprj%5Frelated%5Fcontent%5Fparole%2Easp%3FidMateriale%3D14&amp;layout=standard&amp;show_faces=true&amp;width=500&amp;action=like&amp;colorscheme=light&amp;height=23" scrolling="No" frameborder="0" style="border:none; overflow:hidden; width:500px; height:23px;" allowtransparency="true"></iframe>
+	-->
+	
+	<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/it_IT/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+	
+	<fb:like href="http://progettoinsider.it/prj_related_content_parole.asp?idMateriale=14" send="true" width="450" show_faces="false"></fb:like>
+    </div>
+	
+	<!--
+    include file="_box_link-argomenti.asp" 
+	-->
+	
+  </div>
+  <!-- sidebar -->
+    <div class="grid_4">
+
+<!--
+	<div class="facebook">
+<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FinsidER-dentro-il-mondo-della-ricerca-in-Emilia-Romagna%2F252015034857076&amp;width=292&amp;colorscheme=light&amp;show_faces=true&amp;stream=false&amp;header=true&amp;height=290" scrolling="No" frameborder="0" style="border:none; overflow:hidden; width:292px; height:290px;" allowtransparency="true"></iframe>
+	</div>
+-->
+
+  </div>
+  <!-- fine sidebar -->
+  
+  
+<!-- footer -->
+
+  <div class="grid_12" id="footer">
+    
+    <p><a href="index.asp">home</a> - <a href="chi.asp">chi siamo</a> - <a href="contatti.asp">contatti</a> - <a href="#">torna in alto</a><br />
+InsidER  &egrave; un progetto dell'Associazione Bla Bla<br />
+C.F.  91332140374<br />
+BlaBla 2011. <a href="termini.asp">Termini  di utilizzo</a></p>
+<a href="http://creativecommons.org/licenses/by-nc-sa/2.5/deed.it" target="_blank" class="creative-commons">creative commons</a>  </div>
+
+<!-- fine footer -->
+</div>
+</body>
+</html>

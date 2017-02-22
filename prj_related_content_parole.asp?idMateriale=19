@@ -1,0 +1,209 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" >
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+ 
+
+<title>Tutta colpa di Piero Angela - INSIDER - dentro il mondo della ricerca in Emilia-Romagna</title>
+<meta name="Description" content="Il fascino dei buchi neri raccontati dal famoso divulgatore scientifico sono stati la scintilla per Daniela Vergani, ricercatrice presso l'Istituto di Astrofisica Spaziale e Fisica Cosmica (INAF-IASF) di Bologna, alle prese con lo studio della formazione e l'evoluzione delle galassie." />
+<meta name="Keywords" content="" />
+
+<meta property="og:title" content="Tutta colpa di Piero Angela - INSIDER - dentro il mondo della ricerca in Emilia-Romagna"/> 
+<meta property="og:type" content="article"/> 
+<meta property="og:url" content="http://progettoinsider.it/prj_related_content_parole.asp?idMateriale=19"/> 
+<meta property="og:image" content="http://progettoinsider.it/uploadImg/daniela_vergani.jpg"/> 
+
+<meta property="og:description" content="Il fascino dei buchi neri raccontati dal famoso divulgatore scientifico sono stati la scintilla per Daniela Vergani, ricercatrice presso l'Istituto di Astrofisica Spaziale e Fisica Cosmica (INAF-IASF) di Bologna, alle prese con lo studio della formazione e l'evoluzione delle galassie."/> 
+
+<link rel="stylesheet" type="text/css" href="css/_reset.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="css/_text.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="css/_960.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="css/_layout.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="css/_print.css" media="print" />
+<link rel="stylesheet" type="text/css" href="css/_insider.css" media="screen" />
+<script type="text/javascript" src="scripts/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="scripts/jquery-ui.js"></script>
+<script type="text/javascript" src="scripts/jquery-fluid16.js"></script>
+</head>
+<body class="prj-overview progetti parole">
+<div class="container_12">
+  <!-- header -->
+
+  <div id="header">
+  <img id="logo-print" src="img/logo_insider.png" />
+    <h1><a href="index.asp">insider - dentro il mondo della ricerca in Emilia-Romagna</a></h1>
+    <ul id="menu">
+      <li><a class="home" href="index.asp">home</a></li>
+      <li><a class="chi"  href="chi.asp">chi siamo</a></li>
+      <li><a class="video"  href="multimedia_category.asp?tipo=animazioni"> guarda</a></li>
+      <li><a class="audio"  href="multimedia_category.asp?tipo=audio">ascolta</a></li>
+      <li><a class="testi"  href="multimedia_category.asp?tipo=parole">leggi</a></li>
+      <li><a class="contatti"  href="contatti.asp">contatti</a></li>
+    </ul>
+    
+    <div id="social">Follow us 
+		<a href="rss.asp" class="rss" target="_blank">rss</a> 
+	<a href="http://www.facebook.com/pages/insidER-dentro-il-mondo-della-ricerca-in-Emilia-Romagna/252015034857076" class="fb" target="_blank">facebook</a>
+	
+    <a href="http://www.linkedin.com/groups/insidERdentro-mondo-della-ricerca-EmiliaRomagna-4483071?trk=myg_ugrp_ovr" class="linkedin" target="_blank">Linkedin</a> 
+	
+    <a href="https://twitter.com/#!/@InsidER_ricerca" class="twitter" target="_blank">Twitter</a>     
+	
+    </div>
+    
+    <form id="form1" method="post" action="cerca.asp">
+    <a href="#" class="stampa" title="stampa pagina"  onClick="window.print(); return false;">stampa pagina</a>
+      <p id="ricerca">
+        <input name="testo" type="text" class="text" id="textfield" value="Cerca nel sito" onFocus="this.value = '';" />
+        <input type="submit" name="button" class="invia" id="button" value="Invia" />
+      </p>
+    </form>
+  </div>
+
+<!-- fine header -->
+ 
+  <div class="grid_12">
+    <p id="breadcrumb">MULTIMEDIA / <a href="multimedia_category.asp?tipo=parole">LEGGI</a></p>
+  </div>
+  <div class="grid_1 categ">LEGGI</div>
+  <div class="grid_7 prj-overview">
+    <p class="info">26 marzo 2012 
+	<!--
+	<strong>PROGETTO</strong> in <a href="prj_overview.asp?idProgetto=0"></a> 
+	-->	
+      di MARCO BOSCOLO
+    </p>
+    <h2>TUTTA COLPA DI PIERO ANGELA</h2>
+    <br />
+    
+    <div class="cont-multimedia"> <img src="gest/resize.asp?path=daniela_vergani.jpg&width=540&height=203" /> </div>
+    
+    <p><style type="text/css"><!--
+@page { margin: 2cm }
+P { margin-bottom: 0.21cm }
+A:link { so-language: zxx</style>&#8220;E&#8217; successo quando avevo dieci
+anni e leggevo i libri di Piero Angela prendendoli in prestito dalla
+biblioteca del paese, a Bollate. Parlavano dei misteri dei buchi neri
+e io mi sono detta che da grande ne avrei svelato i segreti: avevo
+deciso che sarei diventata astronoma&#8221;. <span style="font-weight: bold;">Daniela Vergani</span> non ha mai
+deviato da quel proposito. Grazie alla tenacia e a &#8220;molti
+sacrifici&#8221; lo scorso anno &#232; stata assunta come ricercatrice
+all&#8217;<a href="http://www.iasfbo.inaf.it/">Istituto di Astrofisica Spaziale e Fisica Cosmica</a> (INAF-IASF) di Bologna&nbsp; dove ora si occupa di studiare la
+formazione e l&#8217;evoluzione delle galassie che popolano l&#8217;Universo.
+&#8220;A dirla tutta non ho mai davvero preso in considerazione un&#8217;altra
+strada. Forse non &#232; del tutto sano!&#8221; Sa guardarsi con ironia,
+Daniela, e forse questo le permette di ripensare alle difficolt&#224;
+della sua scelta con un sorriso: ha girato l&#8217;Europa, dall&#8217;Olanda al dottorato in Germania, passando per le Canarie a Parigi. &#8220;Chi me la
+fatto fare di rientrare in Italia nel 2005? Un fidanzato che
+cominciava a perdere la pazienza...&#8221;.
+<p style="margin-bottom: 0cm">Il suo lavoro si concentra su un
+particolare momento della storia cosmica, attorno a 8 miliardi di
+anni fa. Si tratta di un&#8217;epoca cruciale nell&#8217;evoluzione delle
+galassie: nell&#8217;Universo c&#8217;&#232; un picco di produzione di stelle
+(&#8220;probabilmente perch&#233; c&#8217;era una grande abbondanza di
+materiale&#8221;) ed &#232; quando le galassie cominciano a differenziarsi
+assumendo forma ellittica o a spirale. Il gruppo di Daniela Vergani
+si &#232; concentrato sullo studio delle velocit&#224; dei gas interni alle
+galassie stesse per capirne le dinamiche che le hanno portate alle
+forme attuali. Mettendo in relazione la velocit&#224; dei gas con la
+massa delle stelle che si trovano all&#8217;interno delle galassie
+&#8220;abbiamo scoperto che esiste una correlazione tra i due parametri
+che &#232; gi&#224; stata vista nell&#8217;universo locale, cio&#232; nell&#8217;universo
+attuale, e che noi abbiamo capito si manifestava anche 8 miliardi di
+anni fa&#8221;. Ne emerge una fotografia pi&#249; complessa di quella che si
+pensava, con turbolenze interne importanti, un&#8217;irrequietezza molto probabilmente causata da vere e proprie fusioni tra galassie. Per questo si &#232;
+parla anche di &#8220;abitudini alimentari delle galassie adolescenti&#8221;,
+di esplosioni e di perdite di gas rapidissime.<br>&nbsp;<br>Questi studi cos&#236; raffinati nascono da
+<a href="http://cosmosdb.lambrate.inaf.it/VVDS-SINFONI/">MASSIV</a>, un
+programma internazionale di ricerca che sfrutta uno strumento
+sofisticatissimo: <a href="http://www.eso.org/sci/facilities/paranal/instruments/sinfoni/">SINFONI</a>.
+&#8220;E&#8217; uno spettrografo che opera nel vicino e nel medio infrarosso.
+Rispetto a tecniche osservative precedenti, SINFONI &#232; una specie di
+passaggio al 3D&#8221;. Lo strumento, infatti, &#232; in grado di osservare
+contemporaneamente diversi punti di una stessa galassia, permettendo
+cos&#236; di distinguere tra i moti di rotazione e i moti caotici che
+sono dovuto al gas disperso al suo interno. E&#8217; un po&#8217; come se si
+fosse passati da una rappresentazione bidimensionale, tipo una lastra
+ai raggi X, a una tomografia o a una PET. Tutto questo ha permesso di
+comprendere meglio quale sia l&#8217;effettivo movimento delle galassie.<br>&nbsp;<br>Il lavoro su MASSIV &#232; stato lungo e
+<a href="http://www.media.inaf.it/press/eso-sinfoni/eso1212d.pdf">quelli appena pubblicati</a> su Astronomy &amp; Astrophysics sono
+solo i primi risultati. &#8220;In tutto ci sono voluti 6 - 7 anni di
+studio. Nel 2005 - 2006 abbiamo cominciato una prima campagna pilota
+di osservazioni e raccolta dati, concentrandoci su poche galassie: lo
+strumento era nuovo e aveva bisogno di essere testato per capire
+quanto era affidabile&#8221;. Nei quattro anni successivi Daniela Vergani
+e i suoi colleghi hanno impiegato pi&#249; di cento ore di osservazioni
+(&#8220;si tratta di un large program&#8221;), inframmezzate da lunghe attese
+per accedere allo strumento: &#8220;tu fai richiesta, ma dipende da
+quanti altri gruppi l&#8217;hanno fatta e qual&#8217;&#232; la priorit&#224; delle
+tue osservazioni rispetto agli altri programmi, e dipende anche dalle condizioni metereologiche. Bisogna fare i conti anche con nubi e vento&#8221;. Tutta questa
+fatica a che pro? &#8220;Capire come si sono differenziate ed evolute le
+galassie&#8221;, conclude Daniela, &#8220;ci permette di fare qualche
+previsione sull&#8217;evoluzione dell&#8217;universo&#8221;. Oggi, infatti, non &#232;
+una &#8220;momento particolare nella storia del cosmo, ma un momento come
+tutti gli altri&#8221; con le galassie e l&#8217;universo intero che
+continueranno a evolvere. Come? Per cominciare a rispondere bisogna
+aspettare che MASSIV entri nella sua seconda fase, quando andr&#224; alla
+ricerca di conferme di altri aspetti di questa storia che attendono di
+essere chiariti. I buchi neri sono ancora uno degli argomenti
+preferiti di Superquark e della divulgazione pi&#249; pop, ma la bambina
+che leggeva Piero Angela ha svelato qualche segreto delle galassie.</p>
+<br></p>
+	
+
+
+
+
+	
+	<p></p>
+	
+    <div class="social">
+	<!--
+      <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fprogettoinsider%2Eit%2Fprj%5Frelated%5Fcontent%5Fparole%2Easp%3FidMateriale%3D19&amp;layout=standard&amp;show_faces=true&amp;width=500&amp;action=like&amp;colorscheme=light&amp;height=23" scrolling="No" frameborder="0" style="border:none; overflow:hidden; width:500px; height:23px;" allowtransparency="true"></iframe>
+	-->
+	
+	<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/it_IT/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+	
+	<fb:like href="http://progettoinsider.it/prj_related_content_parole.asp?idMateriale=19" send="true" width="450" show_faces="false"></fb:like>
+    </div>
+	
+	<!--
+    include file="_box_link-argomenti.asp" 
+	-->
+	
+  </div>
+  <!-- sidebar -->
+    <div class="grid_4">
+
+<!--
+	<div class="facebook">
+<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FinsidER-dentro-il-mondo-della-ricerca-in-Emilia-Romagna%2F252015034857076&amp;width=292&amp;colorscheme=light&amp;show_faces=true&amp;stream=false&amp;header=true&amp;height=290" scrolling="No" frameborder="0" style="border:none; overflow:hidden; width:292px; height:290px;" allowtransparency="true"></iframe>
+	</div>
+-->
+
+  </div>
+  <!-- fine sidebar -->
+  
+  
+<!-- footer -->
+
+  <div class="grid_12" id="footer">
+    
+    <p><a href="index.asp">home</a> - <a href="chi.asp">chi siamo</a> - <a href="contatti.asp">contatti</a> - <a href="#">torna in alto</a><br />
+InsidER  &egrave; un progetto dell'Associazione Bla Bla<br />
+C.F.  91332140374<br />
+BlaBla 2011. <a href="termini.asp">Termini  di utilizzo</a></p>
+<a href="http://creativecommons.org/licenses/by-nc-sa/2.5/deed.it" target="_blank" class="creative-commons">creative commons</a>  </div>
+
+<!-- fine footer -->
+</div>
+</body>
+</html>

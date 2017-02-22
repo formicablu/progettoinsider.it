@@ -1,0 +1,178 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" >
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+
+<title>SPECIALE TERREMOTO IN EMILIA- 24 ore con... (III puntata) una geologa - INSIDER - dentro il mondo della ricerca in Emilia-Romagna</title>
+<meta name="Description" content="La giornata tipo di una geologa. Daniela Fontana, docente di geologia all'Università di Modena e Reggio Emilia, si occupa di geologia stratigrafica e sedimentologica. La ricerca geologica è un elemento fondamentale per la comprensione a tutto tondo degli eventi sismici." />
+<meta name="Keywords" content="" />
+
+<meta property="og:title" content="SPECIALE TERREMOTO IN EMILIA- 24 ore con... (III puntata) una geologa - INSIDER - dentro il mondo della ricerca in Emilia-Romagna"/> 
+<meta property="og:type" content="article"/> 
+<meta property="og:url" content="http://progettoinsider.it/prj_related_content_animazioni.asp?idMateriale=18"/>  
+<meta property="og:description" content="La giornata tipo di una geologa. Daniela Fontana, docente di geologia all'Università di Modena e Reggio Emilia, si occupa di geologia stratigrafica e sedimentologica. La ricerca geologica è un elemento fondamentale per la comprensione a tutto tondo degli eventi sismici."/> 
+<meta property="og:image" content="http://progettoinsider.it/uploadImg/24hwith_thumb(1).png"/> 
+
+
+
+<link rel="stylesheet" type="text/css" href="css/_reset.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="css/_text.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="css/_960.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="css/_layout.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="css/_print.css" media="print" />
+<link rel="stylesheet" type="text/css" href="css/_insider.css" media="screen" />
+
+<script type="text/javascript" src="scripts/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="scripts/jquery-ui.js"></script>
+<script type="text/javascript" src="scripts/jquery-fluid16.js"></script>
+
+<link rel="stylesheet" href="video-js.css" type="text/css" media="screen" title="Video JS" charset="utf-8">
+
+</head>
+<body class="prj-overview progetti animazioni">
+<div class="container_12">
+  <!-- header -->
+
+  <div id="header">
+  <img id="logo-print" src="img/logo_insider.png" />
+    <h1><a href="index.asp">insider - dentro il mondo della ricerca in Emilia-Romagna</a></h1>
+    <ul id="menu">
+      <li><a class="home" href="index.asp">home</a></li>
+      <li><a class="chi"  href="chi.asp">chi siamo</a></li>
+      <li><a class="video"  href="multimedia_category.asp?tipo=animazioni"> guarda</a></li>
+      <li><a class="audio"  href="multimedia_category.asp?tipo=audio">ascolta</a></li>
+      <li><a class="testi"  href="multimedia_category.asp?tipo=parole">leggi</a></li>
+      <li><a class="contatti"  href="contatti.asp">contatti</a></li>
+    </ul>
+    
+    <div id="social">Follow us 
+		<a href="rss.asp" class="rss" target="_blank">rss</a> 
+	<a href="http://www.facebook.com/pages/insidER-dentro-il-mondo-della-ricerca-in-Emilia-Romagna/252015034857076" class="fb" target="_blank">facebook</a>
+	
+    <a href="http://www.linkedin.com/groups/insidERdentro-mondo-della-ricerca-EmiliaRomagna-4483071?trk=myg_ugrp_ovr" class="linkedin" target="_blank">Linkedin</a> 
+	
+    <a href="https://twitter.com/#!/@InsidER_ricerca" class="twitter" target="_blank">Twitter</a>     
+	
+    </div>
+    
+    <form id="form1" method="post" action="cerca.asp">
+    <a href="#" class="stampa" title="stampa pagina"  onClick="window.print(); return false;">stampa pagina</a>
+      <p id="ricerca">
+        <input name="testo" type="text" class="text" id="textfield" value="Cerca nel sito" onFocus="this.value = '';" />
+        <input type="submit" name="button" class="invia" id="button" value="Invia" />
+      </p>
+    </form>
+  </div>
+
+<!-- fine header -->
+  
+
+  
+  <div class="grid_12">
+    <p id="breadcrumb">MULTIMEDIA / <a href="multimedia_category.asp?tipo=animazioni">GUARDA</a></p>
+  </div>
+  <div class="grid_1 categ">GUARDA</div>
+  <div class="grid_7 prj-overview">
+    <p class="info">18 giugno 2012 
+	<!--
+	<strong>PROGETTO</strong> in <a href="prj_overview.asp?idProgetto=0"></a> 
+	-->
+	di LISA LAZZARATO</p>
+    <h2>SPECIALE TERREMOTO IN EMILIA- 24 ORE CON... (III PUNTATA) UNA GEOLOGA</h2>
+    <br />
+   
+
+	<script type='text/javascript' src='scripts/swfobject.js'></script>
+	<script type='text/javascript' src='scripts/jwplayer.js'></script>
+	
+	<div id="animazioni" class="cont-multimedia">
+	<p>Per una corretta visualizzazione del sito è necessario installa Flash Player:<br />    
+      
+	<a href="http://www.adobe.com/go/getflashplayer"><img src="http://www.adobe.com/images/shared/download_buttons/get_adobe_flash_player.png" alt="Get Adobe Flash Player" /></a></p>
+	</div>
+ 
+<script type='text/javascript'>
+  var so = new SWFObject('/jwplayer/player.swf','mpl','540','320','9');
+  so.addParam('allowfullscreen','true');
+  so.addParam('allowscriptaccess','always');
+  so.addParam('wmode','transparent');
+  so.addVariable('file','http://www.formicablu.it/animazioni/giugno12_geologia.flv'); /*in caso di Video Youtube, ci va il percorso assoluto, ad esempio http://www.youtube.com/watch%3Fv%3DHIrMIeN5ttE */
+  so.write('animazioni');
+</script>
+
+<div class="clear"></div>
+	<p>Nella terza puntata della serie "24h with&#8230;" visualizziamo una giornata di una geologa. Abbiamo chiesto a <a href="http://www.terra.unimo.it/personaledettaglio.php?user=dfont">Daniela Fontana</a>, docente di geologia all'Universit&#224; di Modena e Reggio Emilia, quali sono mediamente le sue attivit&#224; quotidiane. Il suo ambito di studi riguarda la ricerca sedimentologica e composizionale su rocce sedimentarie detritiche e carbonati metano-derivati.
+<br>Il gruppo di cui fa parte Daniela Fontana &#232; stato intensamente impegnato nella ricerca geologica sul campo,&nbsp; subito dopo lo sciame sismico partito il 20 maggio 2012 in Emilia.<br><br><span style="font-style: italic;">In occasione del Terremoto in Emilia,
+insidER dedica uno speciale con notizie di aggiornamento sull'evoluzione
+degli eventi sismici e con interviste di approfondimento ai ricercatori
+del territorio emiliano-romagnolo che si occupano di comprendere meglio
+la scienza dei terremoti.
+</span><br></p>
+	<div class="clear"></div>
+    <div class="social">
+	
+	
+
+	<!--
+      <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fprogettoinsider%2Eit%2Fprj%5Frelated%5Fcontent%5Fanimazioni%2Easp%3FidMateriale%3D18&amp;layout=standard&amp;show_faces=true&amp;width=500&amp;action=like&amp;colorscheme=light&amp;height=23" scrolling="No" frameborder="0" style="border:none; overflow:hidden; width:500px; height:23px;" allowtransparency="true"></iframe>
+-->
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/it_IT/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+
+
+FB.Event.subscribe('edge.create',
+    function(response) {
+        alert('You liked the URL: ' + response);
+    }
+);
+
+
+
+</script>
+	
+	<fb:like href="http://progettoinsider.it/prj_related_content_animazioni.asp?idMateriale=18" send="true" width="450" show_faces="false"></fb:like>
+	
+    </div>
+	
+	<!--
+    include file="_box_link-argomenti.asp" 
+	-->
+	
+  </div>
+  <!-- sidebar -->
+    <div class="grid_4">
+
+<!--
+	<div class="facebook">
+<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FinsidER-dentro-il-mondo-della-ricerca-in-Emilia-Romagna%2F252015034857076&amp;width=292&amp;colorscheme=light&amp;show_faces=true&amp;stream=false&amp;header=true&amp;height=290" scrolling="No" frameborder="0" style="border:none; overflow:hidden; width:292px; height:290px;" allowtransparency="true"></iframe>
+	</div>
+-->
+
+  </div>
+
+  <!-- fine sidebar -->
+ 
+
+  
+<!-- footer -->
+
+  <div class="grid_12" id="footer">
+    
+    <p><a href="index.asp">home</a> - <a href="chi.asp">chi siamo</a> - <a href="contatti.asp">contatti</a> - <a href="#">torna in alto</a><br />
+InsidER  &egrave; un progetto dell'Associazione Bla Bla<br />
+C.F.  91332140374<br />
+BlaBla 2011. <a href="termini.asp">Termini  di utilizzo</a></p>
+<a href="http://creativecommons.org/licenses/by-nc-sa/2.5/deed.it" target="_blank" class="creative-commons">creative commons</a>  </div>
+
+<!-- fine footer -->
+</div>
+</body>
+</html>

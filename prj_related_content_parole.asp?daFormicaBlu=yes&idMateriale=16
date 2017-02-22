@@ -1,0 +1,176 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" >
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+ 
+
+<title>FameLab Italia 2013- Selezioni locali a Bologna e Roma - INSIDER - dentro il mondo della ricerca in Emilia-Romagna</title>
+<meta name="Description" content="Tre minuti e una manciata di parole per comunicare al pubblico un argomento scientifico che ti appassiona. Metti alla prova il tuo talento di comunicatore e partecipa alle selezioni locali di FameLab Italia a Bologna e Roma!" />
+<meta name="Keywords" content="" />
+
+<meta property="og:title" content="FameLab Italia 2013- Selezioni locali a Bologna e Roma - INSIDER - dentro il mondo della ricerca in Emilia-Romagna"/> 
+<meta property="og:type" content="article"/> 
+<meta property="og:url" content="http://progettoinsider.it/prj_related_content_parole.asp?daFormicaBlu=yes&idMateriale=16"/> 
+<meta property="og:image" content="http://progettoinsider.it/uploadImg/_DSC9620 copy.jpg"/> 
+
+<meta property="og:description" content="Tre minuti e una manciata di parole per comunicare al pubblico un argomento scientifico che ti appassiona. Metti alla prova il tuo talento di comunicatore e partecipa alle selezioni locali di FameLab Italia a Bologna e Roma!"/> 
+
+<link rel="stylesheet" type="text/css" href="css/_reset.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="css/_text.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="css/_960.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="css/_layout.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="css/_print.css" media="print" />
+<link rel="stylesheet" type="text/css" href="css/_insider.css" media="screen" />
+<script type="text/javascript" src="scripts/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="scripts/jquery-ui.js"></script>
+<script type="text/javascript" src="scripts/jquery-fluid16.js"></script>
+</head>
+<body class="prj-overview progetti parole">
+<div class="container_12">
+  <!-- header -->
+
+  <div id="header">
+  <img id="logo-print" src="img/logo_insider.png" />
+    <h1><a href="index.asp">insider - dentro il mondo della ricerca in Emilia-Romagna</a></h1>
+    <ul id="menu">
+      <li><a class="home" href="index.asp">home</a></li>
+      <li><a class="chi"  href="chi.asp">chi siamo</a></li>
+      <li><a class="video"  href="multimedia_category.asp?tipo=animazioni"> guarda</a></li>
+      <li><a class="audio"  href="multimedia_category.asp?tipo=audio">ascolta</a></li>
+      <li><a class="testi"  href="multimedia_category.asp?tipo=parole">leggi</a></li>
+      <li><a class="contatti"  href="contatti.asp">contatti</a></li>
+    </ul>
+    
+    <div id="social">Follow us 
+		<a href="rss.asp" class="rss" target="_blank">rss</a> 
+	<a href="http://www.facebook.com/pages/insidER-dentro-il-mondo-della-ricerca-in-Emilia-Romagna/252015034857076" class="fb" target="_blank">facebook</a>
+	
+    <a href="http://www.linkedin.com/groups/insidERdentro-mondo-della-ricerca-EmiliaRomagna-4483071?trk=myg_ugrp_ovr" class="linkedin" target="_blank">Linkedin</a> 
+	
+    <a href="https://twitter.com/#!/@InsidER_ricerca" class="twitter" target="_blank">Twitter</a>     
+	
+    </div>
+    
+    <form id="form1" method="post" action="cerca.asp">
+    <a href="#" class="stampa" title="stampa pagina"  onClick="window.print(); return false;">stampa pagina</a>
+      <p id="ricerca">
+        <input name="testo" type="text" class="text" id="textfield" value="Cerca nel sito" onFocus="this.value = '';" />
+        <input type="submit" name="button" class="invia" id="button" value="Invia" />
+      </p>
+    </form>
+  </div>
+
+<!-- fine header -->
+ 
+  <div class="grid_12">
+    <p id="breadcrumb">MULTIMEDIA / <a href="multimedia_category.asp?tipo=parole">LEGGI</a></p>
+  </div>
+  <div class="grid_1 categ">LEGGI</div>
+  <div class="grid_7 prj-overview">
+    <p class="info">20 febbraio 2013 
+	<!--
+	<strong>PROGETTO</strong> in <a href="prj_overview.asp?idProgetto=0"></a> 
+	-->	
+      di ANGELA SIMONE E NICOLA NOSENGO
+    </p>
+    <h2>FAMELAB ITALIA 2013- SELEZIONI LOCALI A BOLOGNA E ROMA</h2>
+    <br />
+    
+    <div class="cont-multimedia"> <img src="http://www.formicablu.it/gest/resize.asp?path=_DSC9620 copy.jpg&width=540&height=203" /> </div>
+    
+    <p>Tre minuti e una manciata di parole per
+comunicare al pubblico un argomento scientifico che ti appassiona. Se
+sei uno scienziato, un ricercatore o uno studente universitario e hai voglia di
+mettere alla prova il tuo talento di comunicatore, puoi partecipare a
+FameLab Italia.<br><span style="font-weight: bold;"><br>Cos'&#232; FameLab?</span><br><a href="http://www.formicablu.it/gest/famelab.org">FameLab</a> &#232; un talent show
+della comunicazione della scienza, in cui i partecipanti vengono
+giudicati da una giuria di esperti provenienti dal mondo della
+scienza e della comunicazione. &#8232;Se sono in gamba, superano le
+selezioni locali e la finale nazionale per concorrere alla finale
+internazionale, nella quale si confrontano con i vincitori della
+competizione in altri 22 Paesi del mondo. <br>La finale internazionale
+si svolge a giugno durante il Cheltenham Science Festival, nel Regno
+Unito, alla presenza del pubblico in sala e in diretta sul web.
+<br>FameLab &#232; un marchio registrato di Cheltenham Festivals ed &#232;
+promosso a livello internazionale dal British Council.
+<br><br><span style="font-weight: bold;">FameLab
+in Italia&#8232;</span><br>Nel 2013 FameLab approda per la seconda volta <a href="http://www.famelab-italy.it/">in Italia </a>su
+iniziativa del <a href="http://www.britishcouncil.org/it/italy.htm">British Council Italia</a>&nbsp;in partnership con
+Psiquadro.&#8232; FameLab Italia prevede per il 2013 la realizzazione di 7
+selezioni locali nel mese di marzo 2013: Trieste, Trento, Genova. Bologna, Ancona, Perugia e Roma.<br>I 14 finalisti, due
+per ciascuna delle 7 sedi delle selezioni regionali, parteciperanno alla finale nazionale che si svolger&#224; a Perugia il 3
+maggio 2013.&#8232;<br>Inoltre, i finalisti avranno diritto a una masterclass
+di tre giorni (Perugia, aprile 2013), che permetter&#224; ai
+partecipanti di sviluppare le proprie abilit&#224; comunicative e di
+approfondire gli elementi base della comunicazione della scienza
+verso il pubblico.
+<br>Quest'anno sono previsti i premi speciali per la comunicazione delle biotecnologia, promosso dall'Associazione Nazionale Biotecnologi Italiani (ANBI) e il premio per la comunicazione della fisica e astrofisica, promosso da INAF e INFN.<br><span style="font-weight: bold;"></span><span style="font-weight: bold;"><br>La selezione locale a Bologna</span><br>Giovedi <span style="text-decoration: underline;"><span style="font-weight: bold;">14 marzo 2013</span></span> si svolger&#224; la selezione locale a Bologna, organizzata da formicablu in collaborazione con <a href="http://www.unibo.it/Portale/Ricerca/FameLab2013.htm">Alma Mater- Universit&#224; di Bologna</a>, <a href="http://www.cmcc.it/">Centro Euro-Mediterraneo sui Cambiamenti Climatici (CMCC)</a>, l'Istituto di Scienze Marine (ISMAR)- CNR di Bologna e l'associazione Bla Bla.<br><a href="http://www.bo.cnr.it/">Area della Ricerca di Bologna</a> e <a href="http://www.aster.it/tiki-index.php">Aster</a> patrocinano l'evento. <a href="http://radio.rcdc.it/">Radio Citt&#224; del Capo</a> &#232; media partner della selezione bolognese.<br>La pre-selezione al mattino si terr&#224; presso l'Aula Magna Santa Cristina del Dipartimento di Arti Visive dell'Universit&#224; di Bologna in Piazzetta Morandi, 2 dalle ore 10.30.<br>La finale locale si terr&#224; invece presso il locale "La Scuderia" in Piazza Verdi 2, dalle ore 18.30.<br>Gli eventi sono pubblici quindi amici, sostenitori e curiosi sono assolutamente benvenuti per godersi lo spettacolo!<br>Per
+iscriverti all'evento, scarica sotto (alla fine del testo) il modulo
+di partecipazione alla selezione locale e spediscilo compilato <span style="font-weight: bold;"><span style="text-decoration: underline;">entro le ore 23.59 del 13 marzo 2013</span></span> a:&#8232;<br><span style="font-weight: bold;">bologna@famelab-italy.it&#8232;&#8232;&#8232;</span><br>Ricorda che dovrai preparare 2 presentazioni di 3 minuti per le due sessioni (pre-selezione e finale locale, se ammessi).<br>Ricercatori e studenti stranieri possono scegliere se effettuare le loro performance in italiano o inglese.<br>Per la selezione locale a Bologna &#232; in palio anche il <span style="font-weight: bold;">Premio Speciale <a href="http://radio.rcdc.it/programmi/pigreco-party/">Pigreco Party</a></span>, la trasmissione di scienza e societ&#224; di Radio Citt&#224; del Capo. Il vincitore potr&#224; partecipare alla produzione e conduzione di una puntata di Pigreco Party assieme alla redazione.<br>Per ogni dettaglio, consulta comunque il sito di<a href="http://www.famelab-italy.it/"> FameLab Italia</a>.
+<br><br><span style="font-weight: bold;">La selezione locale a Roma</span><br><span style="text-decoration: underline;"><span style="font-weight: bold;">Sabato 9 marzo</span></span> si terr&#224; la selezione locale a Roma. L'evento &#232; organizzato da formicablu
+srl, in collaborazione con l<a href="http://www.inaf.it/it">'Istituto Nazionale di Astrofisica (INAF)</a> e la <a href="http://www.bioparco.it/appuntamenti/il_bioparco_e/famelab_2013.html">Fondazione Bioparco di Roma</a>.<br>Pre-selezione e finale locale si terranno presso la Sala degli Elefanti del Bioparco di Roma a partire dalle ore 9.30 fino alle 17. <br>L'evento &#232; pubblico, quindi amici e sostenitori sono assolutamente benvenuti per godersi lo spettacolo!<br>Per
+iscriverti all'evento, scarica sotto (alla fine del testo) il modulo
+di partecipazione alla selezione locale e spediscilo compilato <span style="font-weight: bold;">entro il 4 marzo 2013</span> a:&#8232;<br><span style="font-weight: bold;">roma@famelab-italy.it&#8232;&#8232;&#8232;</span><br>Ricorda che dovrai preparare 2 presentazioni di 3 minuti per le due sessioni consecutive che si svolgeranno dalle 9.30 in poi. <br>Ricercatori e studenti stranieri possono scegliere se fare le performance in italiano o inglese.<br>Per ogni dettaglio, consulta comunque il sito di <a href="http://www.formicablu.it/gest/www.famelab-italy.it">FameLab Italia</a>.
+<br><br>
+<div style="text-align: center;"><img src="http://www.formicablu.it/imgup/FAMELAB_new.jpg" border="0"><br></div>
+<br></p>
+	
+
+<p>Download:
+			 <br /><a href="http://www.formicablu.it/imgup/FameLab 2013 - modulo di iscrizione - ITA.doc" target="_blank"><b>Modulo di iscrizione alle selezioni di FameLab Italia 2013</b></a>
+</p>
+
+
+	
+	<p></p>
+	
+    <div class="social">
+	<!--
+      <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fprogettoinsider%2Eit%2Fprj%5Frelated%5Fcontent%5Fparole%2Easp%3FdaFormicaBlu%3Dyes%26idMateriale%3D16&amp;layout=standard&amp;show_faces=true&amp;width=500&amp;action=like&amp;colorscheme=light&amp;height=23" scrolling="No" frameborder="0" style="border:none; overflow:hidden; width:500px; height:23px;" allowtransparency="true"></iframe>
+	-->
+	
+	<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/it_IT/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+	
+	<fb:like href="http://progettoinsider.it/prj_related_content_parole.asp?daFormicaBlu=yes&idMateriale=16" send="true" width="450" show_faces="false"></fb:like>
+    </div>
+	
+	<!--
+    include file="_box_link-argomenti.asp" 
+	-->
+	
+  </div>
+  <!-- sidebar -->
+    <div class="grid_4">
+
+<!--
+	<div class="facebook">
+<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FinsidER-dentro-il-mondo-della-ricerca-in-Emilia-Romagna%2F252015034857076&amp;width=292&amp;colorscheme=light&amp;show_faces=true&amp;stream=false&amp;header=true&amp;height=290" scrolling="No" frameborder="0" style="border:none; overflow:hidden; width:292px; height:290px;" allowtransparency="true"></iframe>
+	</div>
+-->
+
+  </div>
+  <!-- fine sidebar -->
+  
+  
+<!-- footer -->
+
+  <div class="grid_12" id="footer">
+    
+    <p><a href="index.asp">home</a> - <a href="chi.asp">chi siamo</a> - <a href="contatti.asp">contatti</a> - <a href="#">torna in alto</a><br />
+InsidER  &egrave; un progetto dell'Associazione Bla Bla<br />
+C.F.  91332140374<br />
+BlaBla 2011. <a href="termini.asp">Termini  di utilizzo</a></p>
+<a href="http://creativecommons.org/licenses/by-nc-sa/2.5/deed.it" target="_blank" class="creative-commons">creative commons</a>  </div>
+
+<!-- fine footer -->
+</div>
+</body>
+</html>

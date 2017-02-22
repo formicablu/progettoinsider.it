@@ -1,0 +1,296 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" >
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+ 
+
+<title>Ginocchia meccaniche tra disegno e Caos - INSIDER - dentro il mondo della ricerca in Emilia-Romagna</title>
+<meta name="Description" content="Simone Bignozzi, ingegnere biomedico, tra freezer e laboratori ci parla della ricerca sul ginocchio in vitro del Laboratorio di Biomeccanica dell'Istituto Ortopedico di Bologna." />
+<meta name="Keywords" content="" />
+
+<meta property="og:title" content="Ginocchia meccaniche tra disegno e Caos - INSIDER - dentro il mondo della ricerca in Emilia-Romagna"/> 
+<meta property="og:type" content="article"/> 
+<meta property="og:url" content="http://progettoinsider.it/prj_related_content_parole.asp?idMateriale=11"/> 
+<meta property="og:image" content="http://progettoinsider.it/uploadImg/simone.jpg"/> 
+
+<meta property="og:description" content="Simone Bignozzi, ingegnere biomedico, tra freezer e laboratori ci parla della ricerca sul ginocchio in vitro del Laboratorio di Biomeccanica dell'Istituto Ortopedico di Bologna."/> 
+
+<link rel="stylesheet" type="text/css" href="css/_reset.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="css/_text.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="css/_960.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="css/_layout.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="css/_print.css" media="print" />
+<link rel="stylesheet" type="text/css" href="css/_insider.css" media="screen" />
+<script type="text/javascript" src="scripts/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="scripts/jquery-ui.js"></script>
+<script type="text/javascript" src="scripts/jquery-fluid16.js"></script>
+</head>
+<body class="prj-overview progetti parole">
+<div class="container_12">
+  <!-- header -->
+
+  <div id="header">
+  <img id="logo-print" src="img/logo_insider.png" />
+    <h1><a href="index.asp">insider - dentro il mondo della ricerca in Emilia-Romagna</a></h1>
+    <ul id="menu">
+      <li><a class="home" href="index.asp">home</a></li>
+      <li><a class="chi"  href="chi.asp">chi siamo</a></li>
+      <li><a class="video"  href="multimedia_category.asp?tipo=animazioni"> guarda</a></li>
+      <li><a class="audio"  href="multimedia_category.asp?tipo=audio">ascolta</a></li>
+      <li><a class="testi"  href="multimedia_category.asp?tipo=parole">leggi</a></li>
+      <li><a class="contatti"  href="contatti.asp">contatti</a></li>
+    </ul>
+    
+    <div id="social">Follow us 
+		<a href="rss.asp" class="rss" target="_blank">rss</a> 
+	<a href="http://www.facebook.com/pages/insidER-dentro-il-mondo-della-ricerca-in-Emilia-Romagna/252015034857076" class="fb" target="_blank">facebook</a>
+	
+    <a href="http://www.linkedin.com/groups/insidERdentro-mondo-della-ricerca-EmiliaRomagna-4483071?trk=myg_ugrp_ovr" class="linkedin" target="_blank">Linkedin</a> 
+	
+    <a href="https://twitter.com/#!/@InsidER_ricerca" class="twitter" target="_blank">Twitter</a>     
+	
+    </div>
+    
+    <form id="form1" method="post" action="cerca.asp">
+    <a href="#" class="stampa" title="stampa pagina"  onClick="window.print(); return false;">stampa pagina</a>
+      <p id="ricerca">
+        <input name="testo" type="text" class="text" id="textfield" value="Cerca nel sito" onFocus="this.value = '';" />
+        <input type="submit" name="button" class="invia" id="button" value="Invia" />
+      </p>
+    </form>
+  </div>
+
+<!-- fine header -->
+ 
+  <div class="grid_12">
+    <p id="breadcrumb">MULTIMEDIA / <a href="multimedia_category.asp?tipo=parole">LEGGI</a></p>
+  </div>
+  <div class="grid_1 categ">LEGGI</div>
+  <div class="grid_7 prj-overview">
+    <p class="info">1 novembre 2011 
+	<!--
+	<strong>PROGETTO</strong> in <a href="prj_overview.asp?idProgetto=0"></a> 
+	-->	
+      di LISA LAZZARATO
+    </p>
+    <h2>GINOCCHIA MECCANICHE TRA DISEGNO E CAOS</h2>
+    <br />
+    
+    <div class="cont-multimedia"> <img src="gest/resize.asp?path=simone.jpg&width=540&height=203" /> </div>
+    
+    <p><p style="margin-bottom: 0cm">Appena
+fuori porta, sul colle di San Michele in Bosco, sorgono gli <a  href="http://www.ior.it/">Istituti
+Ortopedici Rizzoli</a>, famoso centro ospedaliero di Bologna. Forse meno nota &#232;
+l&#8217;attivit&#224; di ricerca che viene svolta in questo complesso. <a  href="http://www.ior.it/ricerca-e-innovazione/Ing.%20Simone%20Bignozzi">Simone
+Bignozzi</a>, ingegnere biomedico, mi apre le porte inaccessibili al
+pubblico conducendomi nel <a  href="http://www.ior.it/laboratori/lab-di-biomec-inn-tec/laboratorio-di-biomeccanica-e-innovazione-tecnologica">Laboratorio di biomeccanica e innovazione tecnologica</a>, ai piani bassi
+dell&#8217;ala pi&#249; nuova degli Istituti. Un locale come tanti, a parte
+qualche femore e tibia in giro, dove Simone racconta la sua passione
+per la meccanica, il disegno e il Caos&#8230;</p>
+<p style="margin-bottom: 0cm"><b>Quelle&#8230;non
+sono ossa vere?</b></p>
+<p style="margin-bottom: 0cm">No,
+sono di un materiale sintetico che simula le trabecole ossee. Ci
+servono per visualizzare meglio i movimenti del ginocchio, quando
+discutiamo tra noi o con i medici, e a fare delle prove. Il nostro
+laboratorio infatti si occupa fondamentalmente di ginocchia, dal
+punto di vista biomeccanico e ricostruttivo.</p>
+<p style="margin-bottom: 0cm"><b>Tu
+cosa fai in particolare?</b></p>
+<p style="margin-bottom: 0cm">Mi
+occupo di chirurgia assistita da calcolatore, il cui acronimo inglese
+&#232; <a  href="http://www.ior.it/laboratori/lab-di-biomec-inn-tec/navigazione-robotica">Caos (<i>Computer Assisted Orthopaedic Surgery</i>)</a>. In pratica
+sviluppiamo software, da usare in sala operatoria, che aiutano il
+chirurgo a prendere decisioni pi&#249; accurate durante l&#8217;intervento.</p>
+<p style="margin-bottom: 0cm"><b>Mi
+puoi dire in due parole in cosa consiste?</b></p>
+<p style="margin-bottom: 0cm">Per
+curare una patologia diffusa come l&#8217;artrosi, spesso si ricorre
+all&#8217;inserimento di una protesi in titanio, polietilene o altri
+materiali. In sala operatoria vengono messi due marcatori sulle ossa,
+delle palline riflettenti rilevabili da telecamere a infrarossi.
+Grazie a queste si ricostruisce l&#8217;anatomia del paziente, il
+chirurgo vede sullo schermo di un computer una proposta di zone di
+taglio dell&#8217;osso e pu&#242; confermarla o meno. In seguito con il
+navigatore si controlla la correttezza del movimento del ginocchio.
+Se tutto va bene si tolgono i marcatori e l&#8217;intervento &#232; concluso.</p>
+<p style="margin-bottom: 0cm"><b>Ma
+viene usata normalmente?</b></p>
+<p style="margin-bottom: 0cm">In
+Italia l&#8217;impiego di questa tecnica non &#232; molto diffuso, al
+contrario di Germania e Francia. Comunque si usa solo per operazioni
+complesse. Nella chirurgia cerebrale oppure in ortopedia per la
+chirurgia spinale, dove piccoli spostamenti possono causare grossi
+danni. Questo laboratorio si occupa di Caos, da quando &#232; nata, circa
+quindici anni fa.</p>
+<p style="margin-bottom: 0cm"><b>Quindi
+a Bologna vengono effettuate operazioni assistite?</b></p>
+<p style="margin-bottom: 0cm">S&#236;,
+si fanno operazioni con il navigatore, ma non tutte. Lo scopo &#232;
+quello di cercare di catturare l&#8217;esperienza del chirurgo bravo,
+metterla nel computer, farla diventare numeri visibili e
+comprensibili in maniera semplice e veloce.</p>
+<p style="margin-bottom: 0cm"><b>Questo
+tipo di operazione ha un buon successo normalmente?</b></p>
+<p style="margin-bottom: 0cm">Manualmente
+riesce nel 95% dei casi. Ma la cosa fondamentale di questo tipo
+d&#8217;intervento &#232; riallineare correttamente la gamba. E con un
+sistema di navigazione &#232; pi&#249; frequente che riesca bene. Un altro
+vantaggio &#232; che si riducono le dimensioni dei tagli, quindi la
+riabilitazione &#232; pi&#249; rapida e meno dolorosa. Poi si raccolgono
+molti dati utili alla ricerca. Non abbiamo cambiato l&#8217;ortopedia,
+per&#242; cerchiamo di migliorarla.</p>
+<p style="margin-bottom: 0cm"><b>E
+per far questo un ingegnere entra in sala operatoria&#8230; che effetto
+ti fa?</b></p>
+<p style="margin-bottom: 0cm">&#200;
+una delle cose belle del mio lavoro. La sala operatoria &#232; un mondo
+molto ritualizzato, dove c&#8217;&#232; fretta di fare, ma anche molta calma.
+Si ripetono quotidianamente gli stessi gesti, per non sbagliare. &#200;
+fondamentale per me esserci, conoscere i medici e il loro modo di
+lavorare e trovare un linguaggio comune. Forse rompo un po&#8217; le
+scatole, perch&#233; cambio i protocolli, ma visti i risultati, alla fine
+sono tutti contenti.</p>
+<p style="margin-bottom: 0cm"><b>Come
+sei arrivato fin qui?</b></p>
+<p style="margin-bottom: 0cm">Mi
+&#232; sempre piaciuta l&#8217;anatomia e disegnare. A diciotto anni mi sono
+infortunato tirando di scherma e mi hanno operato. Mi hanno messo un
+chiodo nella spalla, che &#232; ancora l&#236;, e la mia carriera agonistica
+si &#232; conclusa. Ma forse &#232; stato allora che mi &#232; venuto il pallino
+per l&#8217;ingegneria biomedica. E forse ha anche contribuito la mia
+passione per la fantascienza.</p>
+<p style="margin-bottom: 0cm"><b>Quali
+sono i tuoi autori preferiti?</b></p>
+<p style="margin-bottom: 0cm">Adoro
+Iain Banks, un autore scozzese che si distacca dai grandi classici.
+Di Asimov, che piace a molti, apprezzo solo i racconti brevi. Ho
+amato molto Robert Heinlein, la sua scrittura e come raccontava di
+astronavi, quelle vere, a forma di astronave, gigantesche e con
+giganteschi motori.</p>
+<p style="margin-bottom: 0cm"><b>E
+la fantascienza cinematografica?</b></p>
+<p style="margin-bottom: 0cm">Non
+mi interessa molto, ci sono troppi effetti speciali. Mi appassiona
+invece il disegno tridimensionale e faccio parte di una community di
+computer grafica in rete. Il fatto &#232; che mio padre &#232; un insegnante
+di educazione artistica, quindi ho sempre vissuto in mezzo all&#8217;arte.
+Mio fratello &#232; diventato designer, io invece non mi sentivo troppo
+portato, quindi ho deciso di prendere un&#8217;altra strada, anche se la
+vena artistica rimane.</p>
+<p style="margin-bottom: 0cm"><b>Dicevamo
+che deposte le armi hai cominciato l&#8217;universit&#224;&#8230;</b></p>
+<p style="margin-bottom: 0cm">Ho
+studiato a Padova, poi dopo un anno di lavoro, ho trovato questa
+opportunit&#224; a Bologna. Sono un ricercatore un po&#8217; atipico, non ho
+seguito l&#8217;iter classico che, in un contesto accademico, prevede il
+dottorato. Anche perch&#233; questo laboratorio non fa riferimento alla
+facolt&#224; d&#8217;ingegneria, ma a medicina e per gli aspetti tecnici &#232;
+autonomo. Questo lavoro mi &#232; piaciuto fin da subito.</p>
+<p style="margin-bottom: 0cm"><b>Da
+quanto tempo lavori qui?</b></p>
+<p style="margin-bottom: 0cm">Da
+sette anni. Ho un contratto annuale, ma rispetto alle borse di studio
+che hanno altri ricercatori, mi ritengo soddisfatto. Chi coordina il
+laboratorio &#232; una persona illuminata, che di anno in anno ci ha
+procurato aumenti o incentivi. Poi ci sono le collaborazioni con le
+aziende. Certo, non ho una Maserati, ma la vecchia Uno di mio nonno.</p>
+<p style="margin-bottom: 0cm"><b>Che
+tipo di collaborazioni avete?</b></p>
+<p style="margin-bottom: 0cm">Collaboriamo
+con aziende che fanno protesi, per le quali sviluppiamo navigatori ad
+hoc. Ci finanziano e producono pezzi sulla base dei nostri prototipi.
+Infatti un&#8217;altra cosa di cui mi occupo &#232; la progettazione di
+strumenti chirurgici. Nell&#8217;officina che c&#8217;&#232; qui, il nostro
+perito meccanico pu&#242; fare pezzi in alluminio, ma non in acciaio o
+titanio. Stiamo lavorando anche con una ditta informatica, che sulla
+base delle nostre indicazioni, &#232; molto pi&#249; brava e veloce di noi
+nello sviluppo del software.</p>
+<p style="margin-bottom: 0cm"><b>Oltre
+alle protesi vi occupate di altri aspetti riguardanti il ginocchio?</b></p>
+<p style="margin-bottom: 0cm">Usiamo
+il sistema di localizzazione delle ossa per studi di cinematica <i>in
+vivo</i>, durante gli interventi. Si tratta di normali test di
+stress, approvati dal comitato etico del Rizzoli, analoghi a quelli
+che il medico fa durante la diagnosi. Sono molto pi&#249; utili dei test
+<i>in vitro</i>. Ci siamo anche focalizzati sul legamento crociato,
+problema per molti degli sportivi, e sulle tecniche usate per la sua
+ricostruzione.</p>
+<p style="margin-bottom: 0cm"><b>Pensi
+di rimanere in questo laboratorio o hai altre prospettive?</b></p>
+<p style="margin-bottom: 0cm">Mi
+piace molto stare qui e fare ricerca. Certo ci vuole un po&#8217; di
+spirito bohemien. In compenso c&#8217;&#232; la libert&#224; totale sul lavoro e
+l&#8217;aspetto creativo. Non devi neanche tenere in ordine il
+laboratorio&#8230; visto quello che c&#8217;&#232; qui. E poi c&#8217;&#232; la
+possibilit&#224; di viaggiare, per congressi, e cogliere l&#8217;occasione di
+prendersi piccole vacanze. Il giorno che mi stufo, cercher&#242; un posto
+in un&#8217;azienda. Ma intanto in questo laboratorio le cose funzionano
+bene&#8230;</p>
+<p style="margin-bottom: 0cm"><b>Non
+&#232; cos&#236; da altre parti?</b></p>
+<p style="margin-bottom: 0cm">Tra
+i diversi Istituti ci sono circa duecento ricercatori, contando anche
+i numerosi biotecnologi, che fanno un lavoro molto importante,
+finalizzato alla prevenzione. E in altri laboratori non c&#8217;&#232; la
+stessa attenzione nei confronti dei precari. Certo, la situazione &#232;
+difficile in generale.&nbsp;
+<br><br>Questa intervista &#232; stata raccolta nel novembre 2007.<br></p></p>
+	
+
+
+
+
+	
+	<p></p>
+	
+    <div class="social">
+	<!--
+      <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fprogettoinsider%2Eit%2Fprj%5Frelated%5Fcontent%5Fparole%2Easp%3FidMateriale%3D11&amp;layout=standard&amp;show_faces=true&amp;width=500&amp;action=like&amp;colorscheme=light&amp;height=23" scrolling="No" frameborder="0" style="border:none; overflow:hidden; width:500px; height:23px;" allowtransparency="true"></iframe>
+	-->
+	
+	<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/it_IT/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+	
+	<fb:like href="http://progettoinsider.it/prj_related_content_parole.asp?idMateriale=11" send="true" width="450" show_faces="false"></fb:like>
+    </div>
+	
+	<!--
+    include file="_box_link-argomenti.asp" 
+	-->
+	
+  </div>
+  <!-- sidebar -->
+    <div class="grid_4">
+
+<!--
+	<div class="facebook">
+<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FinsidER-dentro-il-mondo-della-ricerca-in-Emilia-Romagna%2F252015034857076&amp;width=292&amp;colorscheme=light&amp;show_faces=true&amp;stream=false&amp;header=true&amp;height=290" scrolling="No" frameborder="0" style="border:none; overflow:hidden; width:292px; height:290px;" allowtransparency="true"></iframe>
+	</div>
+-->
+
+  </div>
+  <!-- fine sidebar -->
+  
+  
+<!-- footer -->
+
+  <div class="grid_12" id="footer">
+    
+    <p><a href="index.asp">home</a> - <a href="chi.asp">chi siamo</a> - <a href="contatti.asp">contatti</a> - <a href="#">torna in alto</a><br />
+InsidER  &egrave; un progetto dell'Associazione Bla Bla<br />
+C.F.  91332140374<br />
+BlaBla 2011. <a href="termini.asp">Termini  di utilizzo</a></p>
+<a href="http://creativecommons.org/licenses/by-nc-sa/2.5/deed.it" target="_blank" class="creative-commons">creative commons</a>  </div>
+
+<!-- fine footer -->
+</div>
+</body>
+</html>

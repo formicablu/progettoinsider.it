@@ -1,0 +1,196 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>INSIDER - dentro il mondo della ricerca in Emilia-Romagna</title>
+<meta name="Description" content="" />
+<meta name="Keywords" content="" />
+<link rel="stylesheet" type="text/css" href="css/_reset.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="css/_text.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="css/_960.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="css/_layout.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="css/_print.css" media="print" />
+<link rel="stylesheet" type="text/css" href="css/_insider.css" media="screen" />
+<script type="text/javascript" src="scripts/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="scripts/jquery-ui.js"></script>
+<script type="text/javascript" src="scripts/jquery-fluid16.js"></script>
+</head>
+
+
+<body class="progetti animazioni">
+<div class="container_12">
+  <!-- header -->
+
+  <div id="header">
+  <img id="logo-print" src="img/logo_insider.png" />
+    <h1><a href="index.asp">insider - dentro il mondo della ricerca in Emilia-Romagna</a></h1>
+    <ul id="menu">
+      <li><a class="home" href="index.asp">home</a></li>
+      <li><a class="chi"  href="chi.asp">chi siamo</a></li>
+      <li><a class="video"  href="multimedia_category.asp?tipo=animazioni"> guarda</a></li>
+      <li><a class="audio"  href="multimedia_category.asp?tipo=audio">ascolta</a></li>
+      <li><a class="testi"  href="multimedia_category.asp?tipo=parole">leggi</a></li>
+      <li><a class="contatti"  href="contatti.asp">contatti</a></li>
+    </ul>
+    
+    <div id="social">Follow us 
+		<a href="rss.asp" class="rss" target="_blank">rss</a> 
+	<a href="http://www.facebook.com/pages/insidER-dentro-il-mondo-della-ricerca-in-Emilia-Romagna/252015034857076" class="fb" target="_blank">facebook</a>
+	
+    <a href="http://www.linkedin.com/groups/insidERdentro-mondo-della-ricerca-EmiliaRomagna-4483071?trk=myg_ugrp_ovr" class="linkedin" target="_blank">Linkedin</a> 
+	
+    <a href="https://twitter.com/#!/@InsidER_ricerca" class="twitter" target="_blank">Twitter</a>     
+	
+    </div>
+    
+    <form id="form1" method="post" action="cerca.asp">
+    <a href="#" class="stampa" title="stampa pagina"  onClick="window.print(); return false;">stampa pagina</a>
+      <p id="ricerca">
+        <input name="testo" type="text" class="text" id="textfield" value="Cerca nel sito" onFocus="this.value = '';" />
+        <input type="submit" name="button" class="invia" id="button" value="Invia" />
+      </p>
+    </form>
+  </div>
+
+<!-- fine header -->
+  <div class="grid_12">
+
+
+<form id="filtra" name="filtra" method="post" action="multimedia_category.asp?tipo=animazioni">
+  <select name="select_filtra" id="select_filtra" onchange="document.filtra.submit();">
+    <option value="animazioni">animazioni</option>
+    <option value="video" selected="selected">video</option>
+    <option value="grafici">grafici</option>
+    <option value="">filtra il tipo</option>
+  </select>
+</form>
+
+    <p id="breadcrumb">GUARDA  </p>
+	
+  </div>
+  <div class="grid_1 categ">GUARDA</div>
+  <div class="grid_7">
+  
+
+    <!-- articolo -->
+    <div class="risorsa">
+      <div class="grid_2 alpha">
+
+	  <a href="prj_related_content_animazioni.asp?idMateriale=14"><img src="gest/resizeCrop.asp?path=Immagine 1(1).png&width=140&height=140" alt="La giusta misura: la metrologia tra storia e fisica" /></a> <!-- width="140" height="140" -->
+	  
+	  </div>
+      
+	  <div class="grid_5 omega">
+
+        <!-- 
+		se cambiano i nomi delle sottocategorie di guarda e ascolta bisgona inserire qui i valori stringa come nelle 2 select 
+		-->
+		<a href="multimedia_category.asp?tipo=animazioni&select_filtra=video" class="tipologia">video</a>
+
+        <h2><a href="prj_related_content_animazioni.asp?idMateriale=14">La giusta misura: la metrologia tra storia e fisica</a></h2>
+
+        <p class="autore">DI ENRICO BERGIANTI</p>
+
+        <p class="intro">
+<em>19 marzo 2012</em> - Unità d'Italia e concetti fisici fondamentali: è la metrologia in mostra al Museo della Bilancia di Campogalliano. Della mostra, della metrologia e della sua storia ne abbiamo parlato con Luca Malagoli, fisico e ricercatore al Museo.
+		</p>
+	
+      </div>
+    </div>
+
+    <!-- articolo -->
+    <div class="risorsa">
+      <div class="grid_2 alpha">
+
+	  <a href="prj_related_content_animazioni.asp?idMateriale=11"><img src="gest/resizeCrop.asp?path=Immagine 1 22-33-54.jpg&width=140&height=140" alt="Alla scoperta degli afidi, insetti anarchici" /></a> <!-- width="140" height="140" -->
+	  
+	  </div>
+      
+	  <div class="grid_5 omega">
+
+        <!-- 
+		se cambiano i nomi delle sottocategorie di guarda e ascolta bisgona inserire qui i valori stringa come nelle 2 select 
+		-->
+		<a href="multimedia_category.asp?tipo=animazioni&select_filtra=video" class="tipologia">video</a>
+
+        <h2><a href="prj_related_content_animazioni.asp?idMateriale=11">Alla scoperta degli afidi, insetti anarchici</a></h2>
+
+        <p class="autore">DI ENRICO BERGIANTI E GIULIA ROCCO</p>
+
+        <p class="intro">
+<em>30 gennaio 2012</em> - Mauro Mandrioli e Giorgia Lombardo ci prentano gli afidi, insetti “anarchici” che sfidano le leggi della genetica. Conoscerli meglio a livello biologico aiuterà molto gli agricoltori, viste le numerose specie di piante che gli afidi infestano.
+		</p>
+	
+      </div>
+    </div>
+
+    <!-- articolo -->
+    <div class="risorsa">
+      <div class="grid_2 alpha">
+
+	  <a href="prj_related_content_animazioni.asp?idMateriale=10"><img src="gest/resizeCrop.asp?path=andrea lodi(1).png&width=140&height=140" alt="La matematica? Ti ottimizza la vita!" /></a> <!-- width="140" height="140" -->
+	  
+	  </div>
+      
+	  <div class="grid_5 omega">
+
+        <!-- 
+		se cambiano i nomi delle sottocategorie di guarda e ascolta bisgona inserire qui i valori stringa come nelle 2 select 
+		-->
+		<a href="multimedia_category.asp?tipo=animazioni&select_filtra=video" class="tipologia">video</a>
+
+        <h2><a href="prj_related_content_animazioni.asp?idMateriale=10">La matematica? Ti ottimizza la vita!</a></h2>
+
+        <p class="autore">DI GIULIA ROCCO</p>
+
+        <p class="intro">
+<em>15 dicembre 2011</em> - Algoritmi matematici per l'ottimizzazione di svariati processi stanno nel computer di Andrea Lodi, professore di Ricerca Operativa all'Università  di Bologna. Gestire meglio le aziende, la logistica e perfino le banche dati di geni può diventare una questione da matematici.
+		</p>
+	
+      </div>
+    </div>
+
+    <div class="paging">
+
+		<a href="multimedia_category.asp?select_filtra=video&tipo=animazioni&pp=1" class="prev">prev</a>&nbsp;|&nbsp;
+<a href="multimedia_category.asp?select_filtra=video&tipo=animazioni&pp=1">1</a><a href="multimedia_category.asp?select_filtra=video&tipo=animazioni&pp=2" id="active-page">2</a>
+	</div>
+
+  </div>
+  
+  
+  
+  <!-- sidebar -->
+    <div class="grid_4">
+
+<!--
+	<div class="facebook">
+<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FinsidER-dentro-il-mondo-della-ricerca-in-Emilia-Romagna%2F252015034857076&amp;width=292&amp;colorscheme=light&amp;show_faces=true&amp;stream=false&amp;header=true&amp;height=290" scrolling="No" frameborder="0" style="border:none; overflow:hidden; width:292px; height:290px;" allowtransparency="true"></iframe>
+	</div>
+-->
+
+  </div>
+  <!-- fine sidebar -->
+  
+  
+
+  
+<!-- footer -->
+
+  <div class="grid_12" id="footer">
+    
+    <p><a href="index.asp">home</a> - <a href="chi.asp">chi siamo</a> - <a href="contatti.asp">contatti</a> - <a href="#">torna in alto</a><br />
+InsidER  &egrave; un progetto dell'Associazione Bla Bla<br />
+C.F.  91332140374<br />
+BlaBla 2011. <a href="termini.asp">Termini  di utilizzo</a></p>
+<a href="http://creativecommons.org/licenses/by-nc-sa/2.5/deed.it" target="_blank" class="creative-commons">creative commons</a>  </div>
+
+<!-- fine footer -->
+</div>
+
+
+
+</body>
+</html>

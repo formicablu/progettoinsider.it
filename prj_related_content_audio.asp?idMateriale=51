@@ -1,0 +1,190 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" >
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+
+
+<title>I vini di Folesano, la storia ritorna protagonista - INSIDER - dentro il mondo della ricerca in Emilia-Romagna</title>
+<meta name="Description" content="Quando la strada della nostra vita sembra già segnata, si può ricominciare da capo, a partire dal passato. Lo ha fatto Carla Cavara, formazione da filosofa, che a un certo punto della sua vita ha ricominciato a studiare. Agraria. E ha così rimesso in piedi, innovando, i vitigni della sua famiglia a Marzabotto (Bologna)." />
+<meta name="Keywords" content="" />
+
+<meta property="og:title" content="I vini di Folesano, la storia ritorna protagonista - INSIDER - dentro il mondo della ricerca in Emilia-Romagna"/> 
+<meta property="og:type" content="article"/> 
+<meta property="og:url" content="http://progettoinsider.it/prj_related_content_audio.asp?idMateriale=51"/> 
+<meta property="og:description" content="Quando la strada della nostra vita sembra già segnata, si può ricominciare da capo, a partire dal passato. Lo ha fatto Carla Cavara, formazione da filosofa, che a un certo punto della sua vita ha ricominciato a studiare. Agraria. E ha così rimesso in piedi, innovando, i vitigni della sua famiglia a Marzabotto (Bologna)."/> 
+<meta property="og:image" content="http://progettoinsider.it/img/mmedia_categ_audio.png"/> 
+
+<link rel="stylesheet" type="text/css" href="css/_reset.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="css/_text.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="css/_960.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="css/_layout.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="css/_print.css" media="print" />
+<link rel="stylesheet" type="text/css" href="css/_insider.css" media="screen" />
+<script type="text/javascript" src="scripts/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="scripts/jquery-ui.js"></script>
+<script type="text/javascript" src="scripts/jquery-fluid16.js"></script>
+
+<script type='text/javascript' src='scripts/swfobject.js'></script>
+<script type='text/javascript' src='scripts/jwplayer.js'></script>
+
+</head>
+<body class="prj-overview progetti audio">
+<div class="container_12">
+  <!-- header -->
+
+  <div id="header">
+  <img id="logo-print" src="img/logo_insider.png" />
+    <h1><a href="index.asp">insider - dentro il mondo della ricerca in Emilia-Romagna</a></h1>
+    <ul id="menu">
+      <li><a class="home" href="index.asp">home</a></li>
+      <li><a class="chi"  href="chi.asp">chi siamo</a></li>
+      <li><a class="video"  href="multimedia_category.asp?tipo=animazioni"> guarda</a></li>
+      <li><a class="audio"  href="multimedia_category.asp?tipo=audio">ascolta</a></li>
+      <li><a class="testi"  href="multimedia_category.asp?tipo=parole">leggi</a></li>
+      <li><a class="contatti"  href="contatti.asp">contatti</a></li>
+    </ul>
+    
+    <div id="social">Follow us 
+		<a href="rss.asp" class="rss" target="_blank">rss</a> 
+	<a href="http://www.facebook.com/pages/insidER-dentro-il-mondo-della-ricerca-in-Emilia-Romagna/252015034857076" class="fb" target="_blank">facebook</a>
+	
+    <a href="http://www.linkedin.com/groups/insidERdentro-mondo-della-ricerca-EmiliaRomagna-4483071?trk=myg_ugrp_ovr" class="linkedin" target="_blank">Linkedin</a> 
+	
+    <a href="https://twitter.com/#!/@InsidER_ricerca" class="twitter" target="_blank">Twitter</a>     
+	
+    </div>
+    
+    <form id="form1" method="post" action="cerca.asp">
+    <a href="#" class="stampa" title="stampa pagina"  onClick="window.print(); return false;">stampa pagina</a>
+      <p id="ricerca">
+        <input name="testo" type="text" class="text" id="textfield" value="Cerca nel sito" onFocus="this.value = '';" />
+        <input type="submit" name="button" class="invia" id="button" value="Invia" />
+      </p>
+    </form>
+  </div>
+
+<!-- fine header -->
+  
+
+  
+  <div class="grid_12">
+  
+
+<p id="rss_podcast"><a class="rss" target="_blank" href="rss_podcast.asp">feed podcast</a></p>
+
+  
+    <p id="breadcrumb">MULTIMEDIA / <a href="multimedia_category.asp?tipo=audio">ASCOLTA</a></p>
+  </div>
+  <div class="grid_1 categ">ASCOLTA</div>
+  <div class="grid_7 prj-overview">
+    <p class="info">26 marzo 2012 
+	<!--
+	<strong>PROGETTO</strong> in <a href="prj_overview.asp?idProgetto=0"></a> 
+	-->
+	di ELISABETTA TOLA</p>
+    <h2>I VINI DI FOLESANO, LA STORIA RITORNA PROTAGONISTA</h2>
+    <br />
+   
+
+	<div id="audio" class="cont-multimedia">
+	<p>Per una corretta visualizzazione del sito è necessario installare Flash Player:<br />      
+	<a href="http://www.adobe.com/go/getflashplayer"><img src="http://www.adobe.com/images/shared/download_buttons/get_adobe_flash_player.png" alt="Get Adobe Flash Player" /></a></p>
+	</div>
+ 
+<script type='text/javascript'>
+  var so = new SWFObject('/jwplayer/player.swf','mpl','500','24','9');
+  so.addParam('allowfullscreen','true');
+  so.addParam('allowscriptaccess','always');
+  so.addParam('wmode','transparent');
+  so.addVariable('file','http://www.formicablu.it/audio/carla_cavara_insider.mp3');
+  so.write('audio');
+</script>
+     
+
+    <p><style>&#160;<!--
+/* Font Definitions */
+@font-face
+{font-family:"Times New Roman";
+panose-1:0 2 2 6 3 5 4 5 2 3;
+mso-font-charset:0;
+mso-generic-font-family:auto;
+mso-font-pitch:variable;
+mso-font-signature:50331648 0 0 0 1 0;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+{mso-style-parent:"";
+margin:0cm;
+margin-bottom:.0001pt;
+mso-pagination:widow-orphan;
+font-size:12.0pt;
+font-family:"Times New Roman";}
+table.MsoNormalTable
+{mso-style-parent:"";
+font-size:10.0pt;
+font-family:"Times New Roman";}
+@page Section1
+{size:595.0pt 842.0pt;
+margin:70.85pt 2.0cm 2.0cm 2.0cm;
+mso-header-margin:35.4pt;
+mso-footer-margin:35.4pt;
+mso-paper-source:0;}
+div.Section1
+{page:Section1;}
+--></style><span style="font-weight: bold;">Carla Cavara</span> lavorava nelle profumerie di famiglia, a Bologna. Una laurea in filosofia, marito e figli, una vita molto urbana. Poi la svolta, il ritorno a Folesano, sulle colline di Montesole. Dove, dopo essersi attrezzata con una laurea in agraria e viticoltura, ha rimesso in coltura i sei ettari di terreno che una volta erano del nonno. Studiando la storia Carla scopre che nel '600 c'erano vini che oggi sono scomparsi. E decide di provare a recuperare le antiche tradizioni ma facendo anche molta innovazione, curando il terreno con sovesci particolari, adottando le pratiche biodinamiche nella produzione enologica. Oggi<a href="http://www.folesano.it/"> la tenuta di Folesano</a> &#232; una azienda che produce e esporta vini di grande qualit&#224;. Ma rimane un posto intriso di storia, di cultura e di memoria. Anche perch&#233; a Montesole, dove sono passati etruschi, galli e dove, nell'ottobre del '44 i nazisti hanno ucciso pi&#249; di 800 civili in quella che &#232; conosciuta come strage di Marzabotto, il rispetto della memoria &#232; un ingrediente utile e necessario per entrare in relazione con l'ambiente circostante.
+<br></p>
+	
+    <div class="social">
+	<!--
+      <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fprogettoinsider%2Eit%2Fprj%5Frelated%5Fcontent%5Faudio%2Easp%3FidMateriale%3D51&amp;layout=standard&amp;show_faces=true&amp;width=500&amp;action=like&amp;colorscheme=light&amp;height=23" scrolling="No" frameborder="0" style="border:none; overflow:hidden; width:500px; height:23px;" allowtransparency="true"></iframe>
+
+-->
+	<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/it_IT/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+	
+	<fb:like href="http://progettoinsider.it/prj_related_content_audio.asp?idMateriale=51" send="true" width="450" show_faces="false"></fb:like>
+
+
+    </div>
+	
+	<!--
+    include file="_box_link-argomenti.asp" 
+	-->
+	
+  </div>
+  <!-- sidebar -->
+    <div class="grid_4">
+
+<!--
+	<div class="facebook">
+<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FinsidER-dentro-il-mondo-della-ricerca-in-Emilia-Romagna%2F252015034857076&amp;width=292&amp;colorscheme=light&amp;show_faces=true&amp;stream=false&amp;header=true&amp;height=290" scrolling="No" frameborder="0" style="border:none; overflow:hidden; width:292px; height:290px;" allowtransparency="true"></iframe>
+	</div>
+-->
+
+  </div>
+
+  <!-- fine sidebar -->
+ 
+
+  
+<!-- footer -->
+
+  <div class="grid_12" id="footer">
+    
+    <p><a href="index.asp">home</a> - <a href="chi.asp">chi siamo</a> - <a href="contatti.asp">contatti</a> - <a href="#">torna in alto</a><br />
+InsidER  &egrave; un progetto dell'Associazione Bla Bla<br />
+C.F.  91332140374<br />
+BlaBla 2011. <a href="termini.asp">Termini  di utilizzo</a></p>
+<a href="http://creativecommons.org/licenses/by-nc-sa/2.5/deed.it" target="_blank" class="creative-commons">creative commons</a>  </div>
+
+<!-- fine footer -->
+</div>
+</body>
+</html>

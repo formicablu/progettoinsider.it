@@ -1,0 +1,215 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" >
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+ 
+
+<title>Il bello (anche estetico) del riciclo - INSIDER - dentro il mondo della ricerca in Emilia-Romagna</title>
+<meta name="Description" content="Intervista a Eleonora Reggiani che ci presenta EcoTecnoMat, spin-off di Università di Modena e Reggio-Emilia. Dalla passione per la scienza a quella per l’arte, Eleonora ci parla di riciclo e di materiali ecologici. Senza dimenticare uno sguardo all’estetica." />
+<meta name="Keywords" content="" />
+
+<meta property="og:title" content="Il bello (anche estetico) del riciclo - INSIDER - dentro il mondo della ricerca in Emilia-Romagna"/> 
+<meta property="og:type" content="article"/> 
+<meta property="og:url" content="http://progettoinsider.it/prj_related_content_parole.asp?idMateriale=20"/> 
+<meta property="og:image" content="http://progettoinsider.it/uploadImg/Ecomondo 2011.JPG"/> 
+
+<meta property="og:description" content="Intervista a Eleonora Reggiani che ci presenta EcoTecnoMat, spin-off di Università di Modena e Reggio-Emilia. Dalla passione per la scienza a quella per l’arte, Eleonora ci parla di riciclo e di materiali ecologici. Senza dimenticare uno sguardo all’estetica."/> 
+
+<link rel="stylesheet" type="text/css" href="css/_reset.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="css/_text.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="css/_960.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="css/_layout.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="css/_print.css" media="print" />
+<link rel="stylesheet" type="text/css" href="css/_insider.css" media="screen" />
+<script type="text/javascript" src="scripts/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="scripts/jquery-ui.js"></script>
+<script type="text/javascript" src="scripts/jquery-fluid16.js"></script>
+</head>
+<body class="prj-overview progetti parole">
+<div class="container_12">
+  <!-- header -->
+
+  <div id="header">
+  <img id="logo-print" src="img/logo_insider.png" />
+    <h1><a href="index.asp">insider - dentro il mondo della ricerca in Emilia-Romagna</a></h1>
+    <ul id="menu">
+      <li><a class="home" href="index.asp">home</a></li>
+      <li><a class="chi"  href="chi.asp">chi siamo</a></li>
+      <li><a class="video"  href="multimedia_category.asp?tipo=animazioni"> guarda</a></li>
+      <li><a class="audio"  href="multimedia_category.asp?tipo=audio">ascolta</a></li>
+      <li><a class="testi"  href="multimedia_category.asp?tipo=parole">leggi</a></li>
+      <li><a class="contatti"  href="contatti.asp">contatti</a></li>
+    </ul>
+    
+    <div id="social">Follow us 
+		<a href="rss.asp" class="rss" target="_blank">rss</a> 
+	<a href="http://www.facebook.com/pages/insidER-dentro-il-mondo-della-ricerca-in-Emilia-Romagna/252015034857076" class="fb" target="_blank">facebook</a>
+	
+    <a href="http://www.linkedin.com/groups/insidERdentro-mondo-della-ricerca-EmiliaRomagna-4483071?trk=myg_ugrp_ovr" class="linkedin" target="_blank">Linkedin</a> 
+	
+    <a href="https://twitter.com/#!/@InsidER_ricerca" class="twitter" target="_blank">Twitter</a>     
+	
+    </div>
+    
+    <form id="form1" method="post" action="cerca.asp">
+    <a href="#" class="stampa" title="stampa pagina"  onClick="window.print(); return false;">stampa pagina</a>
+      <p id="ricerca">
+        <input name="testo" type="text" class="text" id="textfield" value="Cerca nel sito" onFocus="this.value = '';" />
+        <input type="submit" name="button" class="invia" id="button" value="Invia" />
+      </p>
+    </form>
+  </div>
+
+<!-- fine header -->
+ 
+  <div class="grid_12">
+    <p id="breadcrumb">MULTIMEDIA / <a href="multimedia_category.asp?tipo=parole">LEGGI</a></p>
+  </div>
+  <div class="grid_1 categ">LEGGI</div>
+  <div class="grid_7 prj-overview">
+    <p class="info">23 aprile 2012 
+	<!--
+	<strong>PROGETTO</strong> in <a href="prj_overview.asp?idProgetto=0"></a> 
+	-->	
+      di ENRICO BERGIANTI
+    </p>
+    <h2>IL BELLO (ANCHE ESTETICO) DEL RICICLO</h2>
+    <br />
+    
+    <div class="cont-multimedia"> <img src="gest/resize.asp?path=Ecomondo 2011.JPG&width=540&height=203" /> </div>
+    
+    <p><p style="margin-bottom: 0cm" align="JUSTIFY">Ecologia, tecnologia,
+materiali. E arte. Sono le parole che riassumono <a href="http://www.ecotecnomat.eu/">EcoTecnoMat</a>, il
+nuovo spin-off dell&#8217;<a href="http://www.unimore.it/">Universit&#224; di Modena e Reggio Emilia</a>, ma anche
+e soprattutto la ricerca e le passioni di una delle sue protagoniste,
+la dottoressa Eleonora Reggiani. Tutto nasce da una curiosit&#224;: come
+si unisce il rispetto per l&#8217;ambiente con il desiderio di cambiarlo,
+modificarlo, rimodellarlo in modo sostenibile e con un occhio
+all&#8217;estetica?</p>
+<p style="margin-bottom: 0cm" align="JUSTIFY"><br></p>
+<p style="margin-bottom: 0cm" align="JUSTIFY">Eleonora Reggiani,
+carpigiana, classe 1987, ha trovato la sua personale risposta dopo la
+laurea in ingegneria ambientale all'Universit&#224; di Modena e Reggio
+Emilia conclusa da una tesi su materiali sostenibili. Tesi che l&#8217;ha
+portata a essere fra i fondatori di EcoTecnoMat. &#8220;Fin dal liceo ho
+avuto sempre una grande passione per la scienza e la tecnologia,
+nonostante forse avessi risultati pi&#249; brillanti in materie
+umanistiche &#8211; afferma Eleonora &#8211; ma mi sono sempre immaginata
+alle prese con la scienza, per la quale ho una passione che definirei
+istintiva&#8221;. Ma i brillanti risultati sono arrivati anche in ambito
+scientifico, come dimostra l&#8217;approdo a EcoTecnoMat.</p>
+<p style="margin-bottom: 0cm" align="JUSTIFY"><br></p>
+<p style="margin-bottom: 0cm" align="JUSTIFY">Spin-off dell&#8217;Universit&#224;
+di Modena e Reggio Emilia, EcoTecnoMat &#232; nato nell&#8217;ottobre del
+2011. Ha l&#8217;obiettivo specifico di produrre materiali ecologici
+innovativi attraverso il recupero di rifiuti e materiali di scarto.
+Lo slogan &#232; eloquente: &#8220;niente deve essere buttato&#8221;. Esattamente
+lo stesso spirito che ha animato Eleonora in occasione della sua tesi
+di laurea, discussa nell&#8217;aprile 2011 e seguita dalla professoressa
+Luisa Barbieri, anche lei parte del team di EcoTecnoMat.</p>
+<p style="margin-bottom: 0cm" align="JUSTIFY"><br></p>
+<p style="margin-bottom: 0cm" align="JUSTIFY">&#8220;La tesi &#232; stata una
+tappa fondamentale&#8221;. In particolare, Eleonora ha studiato e la
+realizzato un materiale per superfici da design ecologiche. &#8220;Mi
+sono concentrata &#8211; racconta Eleonora &#8211; sul recupero di vetro
+proveniente dalla raccolta differenziata e dallo smaltimento dei
+rifiuti di apparecchiature elettriche ed elettroniche, in particolare
+da lampade fluorescenti&#8221;. Dalla campana del vetro al pavimento il
+percorso &#232; breve, o quasi. &#8220;Innanzitutto il vetro viene macinato e
+poi messo in impasti contenenti materie prime in diverse percentuali,
+valutandone la differente granulometria, ovvero la maggiore o minore
+finezza&#8221;. &#200; proprio osservando questa propriet&#224; che un impasto
+maggiormente fine si &#232; rivelato, una volta cotto in forno,
+maggiormente aggregabile e particolarmente adatto alla produzione di
+piastrelle per la pavimentazione.</p>
+<p style="margin-bottom: 0cm" align="JUSTIFY"><br></p>
+<p style="margin-bottom: 0cm" align="JUSTIFY">La ricerca di Eleonora ha
+avuto un&#8217;occhio di riguardo anche per l&#8217;arte. &#8220;L&#8217;arte &#232;
+l&#8217;altra mia grande passione &#8211; afferma Eleonora &#8211; Per la
+preparazione della tesi ho collaborato con un artista modenese, il
+maestro d&#8217;arte Mauro Ingrami, che ha contribuito a rendere il mio
+lavoro un vero e proprio connubio fra ricerca scientifica e ricerca
+estetica&#8221;. Una passione, quella per l&#8217;arte, che per Eleonora va
+di pari passo a quella per la scienza: &#8220;Anche in occasione di <a href="http://www.ieso2011.unimore.it/">IESO,
+le Olimpiadi Internazionali di Scienze della Terra che nel 2011 si
+sono tenute a Modena</a>, ho prodotto io stessa le medaglie per i
+vincitori proprio utilizzando il materiale in pasta di vetro che
+stavo studiando per la tesi e sul quale ho riprodotto il logo di
+IESO&#8221;. Non solo piastrelle e medaglie: con il materiale in pasta di
+vetro  che ha inventato Eleonora ha anche prodotto altri oggetti,
+come ad esempio una lampada, in cui la vi &#232; anche una grande
+attenzione al dettaglio estetico.</p>
+<p style="margin-bottom: 0cm" align="JUSTIFY"><br></p>
+<p style="margin-bottom: 0cm" align="JUSTIFY">Sul versante scientifico,
+comunque, dal lavoro di tesi &#232; poi scaturita una domanda di brevetto
+europeo che &#232; tutt&#8217;ora in corso di valutazione. Ma soprattutto la
+ricerca di Eleonora &#232; stata anche uno dei principali motivi che
+hanno spinto l&#8217;Universit&#224; a far partire EcoTecnoMat per poter
+sfruttare anche le possibili applicazioni commerciali e industriali.
+Impegnatissima sul versante EcoTecnoMat, che ha presentato in diverse
+occasioni, fra cui la fiera del riciclo <a href="http://www.ecomondo.com/fiera/s_inertech.asp">Ecomondo</a>, Eleonora Reggiani &#232;
+stata impegnata anche nell&#8217;ambito della sicurezza sul lavoro, dopo
+essersene occupata in occasione di un tirocinio. &#8220;Per ora quella &#232;
+una porta che si &#232; chiusa, ma spero non definitivamente: mi sono
+occupata per esempio della valutazione dei rischi chimici nelle
+aziende. Ho trovato quest&#8217;esperienza davvero stimolante e spero
+affianchi EcoTecnoMat e la ricerca sui materiali nel mio futuro
+professionale&#8221;. &nbsp;</p></p>
+	
+
+
+
+
+	
+	<p></p>
+	
+    <div class="social">
+	<!--
+      <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fprogettoinsider%2Eit%2Fprj%5Frelated%5Fcontent%5Fparole%2Easp%3FidMateriale%3D20&amp;layout=standard&amp;show_faces=true&amp;width=500&amp;action=like&amp;colorscheme=light&amp;height=23" scrolling="No" frameborder="0" style="border:none; overflow:hidden; width:500px; height:23px;" allowtransparency="true"></iframe>
+	-->
+	
+	<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/it_IT/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+	
+	<fb:like href="http://progettoinsider.it/prj_related_content_parole.asp?idMateriale=20" send="true" width="450" show_faces="false"></fb:like>
+    </div>
+	
+	<!--
+    include file="_box_link-argomenti.asp" 
+	-->
+	
+  </div>
+  <!-- sidebar -->
+    <div class="grid_4">
+
+<!--
+	<div class="facebook">
+<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FinsidER-dentro-il-mondo-della-ricerca-in-Emilia-Romagna%2F252015034857076&amp;width=292&amp;colorscheme=light&amp;show_faces=true&amp;stream=false&amp;header=true&amp;height=290" scrolling="No" frameborder="0" style="border:none; overflow:hidden; width:292px; height:290px;" allowtransparency="true"></iframe>
+	</div>
+-->
+
+  </div>
+  <!-- fine sidebar -->
+  
+  
+<!-- footer -->
+
+  <div class="grid_12" id="footer">
+    
+    <p><a href="index.asp">home</a> - <a href="chi.asp">chi siamo</a> - <a href="contatti.asp">contatti</a> - <a href="#">torna in alto</a><br />
+InsidER  &egrave; un progetto dell'Associazione Bla Bla<br />
+C.F.  91332140374<br />
+BlaBla 2011. <a href="termini.asp">Termini  di utilizzo</a></p>
+<a href="http://creativecommons.org/licenses/by-nc-sa/2.5/deed.it" target="_blank" class="creative-commons">creative commons</a>  </div>
+
+<!-- fine footer -->
+</div>
+</body>
+</html>

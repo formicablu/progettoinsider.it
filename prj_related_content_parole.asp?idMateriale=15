@@ -1,0 +1,260 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" >
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+ 
+
+<title>Una carriera (eco)sostenibile - INSIDER - dentro il mondo della ricerca in Emilia-Romagna</title>
+<meta name="Description" content="Francesca Lussu, ingegnere ambientale dell'ARPA Emilia-Romagna di Bologna, nella realizzazione di progetti sull'ambiente non vede solo un lavoro, ma anche un motivo di arricchimento intellettuale e umano." />
+<meta name="Keywords" content="" />
+
+<meta property="og:title" content="Una carriera (eco)sostenibile - INSIDER - dentro il mondo della ricerca in Emilia-Romagna"/> 
+<meta property="og:type" content="article"/> 
+<meta property="og:url" content="http://progettoinsider.it/prj_related_content_parole.asp?idMateriale=15"/> 
+<meta property="og:image" content="http://progettoinsider.it/uploadImg/fra.jpg"/> 
+
+<meta property="og:description" content="Francesca Lussu, ingegnere ambientale dell'ARPA Emilia-Romagna di Bologna, nella realizzazione di progetti sull'ambiente non vede solo un lavoro, ma anche un motivo di arricchimento intellettuale e umano."/> 
+
+<link rel="stylesheet" type="text/css" href="css/_reset.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="css/_text.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="css/_960.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="css/_layout.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="css/_print.css" media="print" />
+<link rel="stylesheet" type="text/css" href="css/_insider.css" media="screen" />
+<script type="text/javascript" src="scripts/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="scripts/jquery-ui.js"></script>
+<script type="text/javascript" src="scripts/jquery-fluid16.js"></script>
+</head>
+<body class="prj-overview progetti parole">
+<div class="container_12">
+  <!-- header -->
+
+  <div id="header">
+  <img id="logo-print" src="img/logo_insider.png" />
+    <h1><a href="index.asp">insider - dentro il mondo della ricerca in Emilia-Romagna</a></h1>
+    <ul id="menu">
+      <li><a class="home" href="index.asp">home</a></li>
+      <li><a class="chi"  href="chi.asp">chi siamo</a></li>
+      <li><a class="video"  href="multimedia_category.asp?tipo=animazioni"> guarda</a></li>
+      <li><a class="audio"  href="multimedia_category.asp?tipo=audio">ascolta</a></li>
+      <li><a class="testi"  href="multimedia_category.asp?tipo=parole">leggi</a></li>
+      <li><a class="contatti"  href="contatti.asp">contatti</a></li>
+    </ul>
+    
+    <div id="social">Follow us 
+		<a href="rss.asp" class="rss" target="_blank">rss</a> 
+	<a href="http://www.facebook.com/pages/insidER-dentro-il-mondo-della-ricerca-in-Emilia-Romagna/252015034857076" class="fb" target="_blank">facebook</a>
+	
+    <a href="http://www.linkedin.com/groups/insidERdentro-mondo-della-ricerca-EmiliaRomagna-4483071?trk=myg_ugrp_ovr" class="linkedin" target="_blank">Linkedin</a> 
+	
+    <a href="https://twitter.com/#!/@InsidER_ricerca" class="twitter" target="_blank">Twitter</a>     
+	
+    </div>
+    
+    <form id="form1" method="post" action="cerca.asp">
+    <a href="#" class="stampa" title="stampa pagina"  onClick="window.print(); return false;">stampa pagina</a>
+      <p id="ricerca">
+        <input name="testo" type="text" class="text" id="textfield" value="Cerca nel sito" onFocus="this.value = '';" />
+        <input type="submit" name="button" class="invia" id="button" value="Invia" />
+      </p>
+    </form>
+  </div>
+
+<!-- fine header -->
+ 
+  <div class="grid_12">
+    <p id="breadcrumb">MULTIMEDIA / <a href="multimedia_category.asp?tipo=parole">LEGGI</a></p>
+  </div>
+  <div class="grid_1 categ">LEGGI</div>
+  <div class="grid_7 prj-overview">
+    <p class="info">1 ottobre 2011 
+	<!--
+	<strong>PROGETTO</strong> in <a href="prj_overview.asp?idProgetto=0"></a> 
+	-->	
+      di LISA LAZZARATO
+    </p>
+    <h2>UNA CARRIERA (ECO)SOSTENIBILE</h2>
+    <br />
+    
+    <div class="cont-multimedia"> <img src="gest/resize.asp?path=fra.jpg&width=540&height=203" /> </div>
+    
+    <p><p style="margin-bottom: 0cm" align="JUSTIFY"><font color="#000000"><font face="Verdana, sans-serif"><font size="2">In
+un&#8217;inaspettata oasi di tranquillit&#224;, in un vicolo del centro
+storico, ha sede la struttura tematica dell&#8217;<a  href="http://www.arpa.emr.it/">Arpa (Agenzia Regionale per la Protezione Ambientale) Emilia-Romagna</a> di <a  href="http://www.arpa.emr.it/bologna/">Bologna</a>, che si occupa di
+pianificazione, progettazione e sviluppo di metodologie di analisi
+ambientale. In un ufficio del primo piano trovo </font></font></font><font color="#000000"><font face="Verdana, sans-serif"><font size="2"><a  href="http://www.arpa.emr.it/dettaglio_persona.asp?id=599&amp;sezioni=-1&amp;aree=0&amp;nome=&amp;cognome=lussu&amp;incarico=&amp;attivita=&amp;sede=-1&amp;idlivello=27">Francesca
+Lussu</a></font></font></font><font color="#000000"><font face="Verdana, sans-serif"><font size="2">,
+ingegnere ambientale, che nella realizzazione di progetti
+sull&#8217;ambiente non vede solo un lavoro, ma un motivo di
+arricchimento intellettuale e umano.</font></font></font></p>
+<p style="margin-bottom: 0cm" align="JUSTIFY" lang="it-IT"><font color="#000000"><font face="Verdana, sans-serif"><font size="2"><b>La
+tua qualifica ricalca perfettamente il nome di questa struttura, come
+sei arrivata qui?</b></font></font></font></p>
+<p style="margin-bottom: 0cm" align="JUSTIFY" lang="it-IT"><font color="#000000"><font face="Verdana, sans-serif"><font size="2">S&#236;
+pu&#242; dire che sia arrivata qui ancora prima di finire gli studi,
+anche se per una via inusuale. Infatti ho scelto l&#8217;Arpa per
+svolgere lo stage conclusivo di un corso di economia aziendale. Non
+aveva niente a che vedere con i miei studi di ingegneria ambientale,
+ma l&#8217;economia mi ha sempre attirato. Il corso &#232; stato molto
+interessante e mi ha dato la possibilit&#224; di farmi conoscere in
+questa agenzia.</font></font></font></p>
+<p style="margin-bottom: 0cm" align="JUSTIFY" lang="it-IT"><font color="#000000"><font face="Verdana, sans-serif"><font size="2"><b>E
+perch&#233; proprio l&#8217;Arpa?</b></font></font></font></p>
+<p style="margin-bottom: 0cm" align="JUSTIFY" lang="it-IT"><font color="#000000"><font face="Verdana, sans-serif"><font size="2">Perch&#233;
+ho sempre voluto lavorare in una struttura pubblica. Dopo lo stage,
+la tesi, sempre qui, e il lavoro come Co.Co.Co., per due anni. Nel
+2002 ho vinto il concorso per entrare in Arpa in qualit&#224; di
+collaboratore tecnico professionale esperto, e sono stata assunta a
+tempo indeterminato. Ed &#232; proprio quello che avevo intenzione di
+fare.</font></font></font></p>
+<p style="margin-bottom: 0cm" align="JUSTIFY" lang="it-IT"><font color="#000000"><font face="Verdana, sans-serif"><font size="2"><b>Cosa
+segui tu in particolare?</b></font></font></font></p>
+<p style="margin-bottom: 0cm" align="JUSTIFY" lang="it-IT"><font color="#000000"><font face="Verdana, sans-serif"><font size="2">I
+progetti dell&#8217;area energia, valutazione di impatto ambientale,
+valutazione ambientale strategica&#8230;</font></font></font></p>
+<p style="margin-bottom: 0cm" align="JUSTIFY" lang="it-IT"><font color="#000000"><font face="Verdana, sans-serif"><font size="2"><b>Puoi
+fare un esempio? </b></font></font></font>
+</p>
+<p style="margin-bottom: 0cm" align="JUSTIFY"><font color="#000000"><font face="Verdana, sans-serif"><font size="2">L&#8217;animazione
+delle aree rurali in ritardo di sviluppo dell&#8217;Emilia Romagna,
+attraverso progetti di valorizzazione ambientale, riqualificazione
+dell&#8217;offerta artigianale e rurale. Si tratta del programma
+regionale </font></font></font><a  href="http://www.arpa.emr.it/ingamb/leader+.htm"><font color="#000000"><font face="Verdana, sans-serif"><font size="2"></font></font></font><font color="#000000"><font face="Verdana, sans-serif"><font size="2">Leader+</font></font></font></a><font color="#000000"><font face="Verdana, sans-serif"><font size="2"></font></font></font><font color="#000000"><font face="Verdana, sans-serif"><font size="2">,
+finanziato dell&#8217;Unione Europea, che sto seguendo dal 2000. Oppure
+un progetto che mi piace moltissimo, perch&#233; secondo me &#232; molto
+attuale, che riguarda la stesura di linee guida per semplificare le
+autorizzazioni degli impianti a fonti rinnovabili.</font></font></font></p>
+<p style="margin-bottom: 0cm" align="JUSTIFY" lang="it-IT"><font color="#000000"><font face="Verdana, sans-serif"><font size="2"><b>Si
+tratta sempre di progetti&#8230;</b></font></font></font></p>
+<p style="margin-bottom: 0cm" align="JUSTIFY"><font color="#000000"><font face="Verdana, sans-serif"><font size="2">S&#236;,
+il lavoro a progetto &#232; una caratteristica di questa struttura in
+particolare, data la sua origine come societ&#224; privata. La tipologia
+di lavoro e la </font></font></font><font color="#000000"><font face="Verdana, sans-serif"><font size="2"><i>mission</i></font></font></font><font color="#000000"><font face="Verdana, sans-serif"><font size="2">
+sono un po&#8217; diverse rispetto ad altre strutture dell&#8217;Arpa, che si
+occupa essenzialmente di monitoraggio e controllo.</font></font></font></p>
+<p style="margin-bottom: 0cm" align="JUSTIFY" lang="it-IT"><font color="#000000"><font face="Verdana, sans-serif"><font size="2"><b>E
+questo aspetto ti piace?</b></font></font></font></p>
+<p style="margin-bottom: 0cm" align="JUSTIFY"><font color="#000000"><font face="Verdana, sans-serif"><font size="2">&#200;
+uno dei motivi per cui mi piace molto lavorare qui, poter fare cose
+sempre diverse. Un altro aspetto molto importante per me &#232; essere
+abbastanza autonomi nel lavoro, non aspettarsi che siano gli altri
+che ti dicano cosa fare. Se hai delle idee cominci a divertirti&#8230; ad
+esempio il video che abbiamo fatto per presentare i risultati del
+</font></font></font><font color="#000000"><font face="Verdana, sans-serif"><font size="2">progetto
+Ramea</font></font></font><font color="#000000"><font face="Verdana, sans-serif"><font size="2">,
+pochi giorni fa. Si tratta di interviste alla gente sulla
+sostenibilit&#224;, sui rapporti tra economia, societ&#224; e ambiente,
+sull&#8217;informazione ambientale.</font></font></font></p>
+<p style="margin-bottom: 0cm" align="JUSTIFY" lang="it-IT"><font color="#000000"><font face="Verdana, sans-serif"><font size="2"><b>Idee
+che vanno anche al di l&#224; del lavoro qui all&#8217;Arpa?</b></font></font></font></p>
+<p style="margin-bottom: 0cm" align="JUSTIFY"><font color="#000000"><font face="Verdana, sans-serif"><font size="2">S&#236;,
+che mi riportano in Sardegna, la mia terra, dove sto seguendo un
+progetto di riqualificazione energetico ambientale di una spiaggia
+nella zona di Buggerru, sulla costa occidentale. Vorremmo realizzare
+un primo bagno prototipo, che potrebbe essere una </font></font></font><font color="#000000"><font face="Verdana, sans-serif"><font size="2"><i>best
+practice</i></font></font></font><font color="#000000"><font face="Verdana, sans-serif"><font size="2">,
+una forma di turismo sostenibile in una regione in cui ormai con il
+piano paesistico, per fortuna,  puoi solo riqualificare senza
+costruire pi&#249; niente.</font></font></font></p>
+<p style="margin-bottom: 0cm" align="JUSTIFY" lang="it-IT"><font color="#000000"><font face="Verdana, sans-serif"><font size="2"><b>Un
+bagno sostenibile, cio&#232; con un impatto minimo sull&#8217;ambiente?</b></font></font></font></p>
+<p style="margin-bottom: 0cm" align="JUSTIFY" lang="it-IT"><font color="#000000"><font face="Verdana, sans-serif"><font size="2">Con
+tutte le strutture completamente rimovibili, con il riciclo di acqua
+e l&#8217;impiego di fonti rinnovabili per la produzione di energia e
+calore. Ma anche ad esempio la predisposizione di modellini per
+l&#8217;educazione ambientale. Spero che il progetto vada bene e venga
+finanziato, non per me, ma per la mia terra.</font></font></font></p>
+<p style="margin-bottom: 0cm" align="JUSTIFY" lang="it-IT"><font color="#000000"><font face="Verdana, sans-serif"><font size="2"><b>Ti
+manca la Sardegna?</b></font></font></font></p>
+<p style="margin-bottom: 0cm" align="JUSTIFY" lang="it-IT"><font color="#000000"><font face="Verdana, sans-serif"><font size="2">Sono
+venuta via quindici anni fa, per fare l&#8217;universit&#224; a Bologna e ho
+un po&#8217; perso il contatto la realt&#224; di quella regione, con quello
+che si sta facendo a livello politico, istituzionale. Questo progetto
+&#232; anche un modo per recuperare questo contatto con i luoghi e con le
+persone. Tra l&#8217;altro la zona &#232; una delle pi&#249; selvagge della
+Sardegna, molto diversa dalla costa est, che conosco bene. Con dei
+sistemi dunali unici, sempre battuta dai venti di nord ovest e ogni
+giorno diversa.</font></font></font></p>
+<p style="margin-bottom: 0cm" align="JUSTIFY" lang="it-IT"><font color="#000000"><font face="Verdana, sans-serif"><font size="2"><b>Quanto
+conta il contatto con le persone e il lavoro di gruppo?</b></font></font></font></p>
+<p style="margin-bottom: 0cm" align="JUSTIFY" lang="it-IT"><font color="#000000"><font face="Verdana, sans-serif"><font size="2">Per
+me &#232; fondamentale. &#200; una fonte di stimoli inesauribile. Non lavoro
+mai da sola. E i gruppi sono sempre eterogenei come formazione. Per
+rimanere al progetto sardo, ad esempio, c&#8217;&#232; anche un ingegnere di
+settantadue anni, che &#232; anche geologo, archeologo e artista. Una
+persona incredibile, che realizzer&#224; la predisposizione dell&#8217;impatto
+paesaggistico, tutto in china 0,1 in due fogli grandi come questa
+parete, riproducendo tutta la realt&#224; come &#232; e come sar&#224;.</font></font></font></p>
+<p style="margin-bottom: 0cm" align="JUSTIFY" lang="it-IT"><font color="#000000"><font face="Verdana, sans-serif"><font size="2"><b>L&#8217;arte
+sarda ha uno stretto legame con il territorio&#8230;</b></font></font></font></p>
+<p style="margin-bottom: 0cm" align="JUSTIFY" lang="it-IT"><font color="#000000"><font face="Verdana, sans-serif"><font size="2">Ne
+abbiamo parlato a lungo con lui, che &#232; anche scultore. E trovo
+affascinante la relazione che c&#8217;&#232; tra la geologia di quella parte
+della Sardegna e la scultura. Avrai capito che non sono un ingegnere
+fissata sui numeri.</font></font></font></p>
+<p style="margin-bottom: 0cm" align="JUSTIFY" lang="it-IT"><font color="#000000"><font face="Verdana, sans-serif"><font size="2"><b>L&#8217;entusiasmo
+e l&#8217;intraprendenza non ti mancano&#8230;</b></font></font></font></p>
+<p style="margin-bottom: 0cm;" align="JUSTIFY" lang="it-IT"><font color="#000000"><font face="Verdana, sans-serif"><font size="2">In
+questa fase della vita &#232; proprio cos&#236;&#8230; mi sento molto fortunata
+ad avere un posto fisso e per fare un lavoro che mi piace. La maggior
+parte dei miei amici sono precari. Quanto all&#8217;intraprendenza, non
+potrei farne a meno, se no il divertimento dov&#8217;&#232;?</font></font></font></p>
+<p style="margin-bottom: 0cm;" align="JUSTIFY" lang="it-IT">Questa intervista &#232; stata raccolta nell'ottobre 2007.<br></p></p>
+	
+
+
+
+
+	
+	<p></p>
+	
+    <div class="social">
+	<!--
+      <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fprogettoinsider%2Eit%2Fprj%5Frelated%5Fcontent%5Fparole%2Easp%3FidMateriale%3D15&amp;layout=standard&amp;show_faces=true&amp;width=500&amp;action=like&amp;colorscheme=light&amp;height=23" scrolling="No" frameborder="0" style="border:none; overflow:hidden; width:500px; height:23px;" allowtransparency="true"></iframe>
+	-->
+	
+	<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/it_IT/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+	
+	<fb:like href="http://progettoinsider.it/prj_related_content_parole.asp?idMateriale=15" send="true" width="450" show_faces="false"></fb:like>
+    </div>
+	
+	<!--
+    include file="_box_link-argomenti.asp" 
+	-->
+	
+  </div>
+  <!-- sidebar -->
+    <div class="grid_4">
+
+<!--
+	<div class="facebook">
+<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FinsidER-dentro-il-mondo-della-ricerca-in-Emilia-Romagna%2F252015034857076&amp;width=292&amp;colorscheme=light&amp;show_faces=true&amp;stream=false&amp;header=true&amp;height=290" scrolling="No" frameborder="0" style="border:none; overflow:hidden; width:292px; height:290px;" allowtransparency="true"></iframe>
+	</div>
+-->
+
+  </div>
+  <!-- fine sidebar -->
+  
+  
+<!-- footer -->
+
+  <div class="grid_12" id="footer">
+    
+    <p><a href="index.asp">home</a> - <a href="chi.asp">chi siamo</a> - <a href="contatti.asp">contatti</a> - <a href="#">torna in alto</a><br />
+InsidER  &egrave; un progetto dell'Associazione Bla Bla<br />
+C.F.  91332140374<br />
+BlaBla 2011. <a href="termini.asp">Termini  di utilizzo</a></p>
+<a href="http://creativecommons.org/licenses/by-nc-sa/2.5/deed.it" target="_blank" class="creative-commons">creative commons</a>  </div>
+
+<!-- fine footer -->
+</div>
+</body>
+</html>

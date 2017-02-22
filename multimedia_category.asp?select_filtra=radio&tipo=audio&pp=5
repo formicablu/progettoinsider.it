@@ -1,0 +1,226 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>INSIDER - dentro il mondo della ricerca in Emilia-Romagna</title>
+<meta name="Description" content="" />
+<meta name="Keywords" content="" />
+<link rel="stylesheet" type="text/css" href="css/_reset.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="css/_text.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="css/_960.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="css/_layout.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="css/_print.css" media="print" />
+<link rel="stylesheet" type="text/css" href="css/_insider.css" media="screen" />
+<script type="text/javascript" src="scripts/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="scripts/jquery-ui.js"></script>
+<script type="text/javascript" src="scripts/jquery-fluid16.js"></script>
+</head>
+
+
+<body class="progetti audio">
+<div class="container_12">
+  <!-- header -->
+
+  <div id="header">
+  <img id="logo-print" src="img/logo_insider.png" />
+    <h1><a href="index.asp">insider - dentro il mondo della ricerca in Emilia-Romagna</a></h1>
+    <ul id="menu">
+      <li><a class="home" href="index.asp">home</a></li>
+      <li><a class="chi"  href="chi.asp">chi siamo</a></li>
+      <li><a class="video"  href="multimedia_category.asp?tipo=animazioni"> guarda</a></li>
+      <li><a class="audio"  href="multimedia_category.asp?tipo=audio">ascolta</a></li>
+      <li><a class="testi"  href="multimedia_category.asp?tipo=parole">leggi</a></li>
+      <li><a class="contatti"  href="contatti.asp">contatti</a></li>
+    </ul>
+    
+    <div id="social">Follow us 
+		<a href="rss.asp" class="rss" target="_blank">rss</a> 
+	<a href="http://www.facebook.com/pages/insidER-dentro-il-mondo-della-ricerca-in-Emilia-Romagna/252015034857076" class="fb" target="_blank">facebook</a>
+	
+    <a href="http://www.linkedin.com/groups/insidERdentro-mondo-della-ricerca-EmiliaRomagna-4483071?trk=myg_ugrp_ovr" class="linkedin" target="_blank">Linkedin</a> 
+	
+    <a href="https://twitter.com/#!/@InsidER_ricerca" class="twitter" target="_blank">Twitter</a>     
+	
+    </div>
+    
+    <form id="form1" method="post" action="cerca.asp">
+    <a href="#" class="stampa" title="stampa pagina"  onClick="window.print(); return false;">stampa pagina</a>
+      <p id="ricerca">
+        <input name="testo" type="text" class="text" id="textfield" value="Cerca nel sito" onFocus="this.value = '';" />
+        <input type="submit" name="button" class="invia" id="button" value="Invia" />
+      </p>
+    </form>
+  </div>
+
+<!-- fine header -->
+  <div class="grid_12">
+
+
+<form id="filtra" name="filtra" method="post" action="multimedia_category.asp?tipo=audio">
+  <select name="select_filtra" id="select_filtra" onchange="document.filtra.submit();">
+    <option value="radio" selected="selected">radio</option>
+    <option value="podcast">podcast</option>
+    <option value="">filtra il tipo</option>
+  </select>
+</form>
+
+<div id="rss_podcast"><a class="rss" target="_blank" href="rss_podcast.asp">feed podcast</a></div>
+
+
+    <p id="breadcrumb">ASCOLTA  </p>
+	
+  </div>
+  <div class="grid_1 categ">ASCOLTA</div>
+  <div class="grid_7">
+  
+
+    <!-- articolo -->
+    <div class="risorsa">
+      <div class="grid_2 alpha">
+
+	  <a href="prj_related_content_audio.asp?idMateriale=56"><img src="gest/resizeCrop.asp?path=pubblico.jpg&width=140&height=140" alt="FameLab Bologna. La scienza raccontata in 3 minuti" /></a> <!-- width="140" height="140" -->
+	  
+	  </div>
+      
+	  <div class="grid_5 omega">
+
+        <!-- 
+		se cambiano i nomi delle sottocategorie di guarda e ascolta bisgona inserire qui i valori stringa come nelle 2 select 
+		-->
+		<a href="multimedia_category.asp?tipo=audio&select_filtra=radio" class="tipologia">radio</a>
+
+        <h2><a href="prj_related_content_audio.asp?idMateriale=56">FameLab Bologna. La scienza raccontata in 3 minuti</a></h2>
+
+        <p class="autore">DI REDAZIONE</p>
+
+        <p class="intro">
+<em>4 aprile 2012</em> - Parlare di epigenetica, derivate, caos, meccanica quantistica, informatica, intercettazioni, energie alternative, batteri e molto altro in soli 3 minuti? Si può. Lo hanno fatto i bravissimi concorrenti della selezione bolognese di FameLab Italia.
+		</p>
+	
+      </div>
+    </div>
+
+    <!-- articolo -->
+    <div class="risorsa">
+      <div class="grid_2 alpha">
+
+	  <a href="prj_related_content_audio.asp?idMateriale=52"><img src="gest/resizeCrop.asp?path=logo pigreco(29).jpg&width=140&height=140" alt="Monitoraggio del radon pret-a-porter" /></a> <!-- width="140" height="140" -->
+	  
+	  </div>
+      
+	  <div class="grid_5 omega">
+
+        <!-- 
+		se cambiano i nomi delle sottocategorie di guarda e ascolta bisgona inserire qui i valori stringa come nelle 2 select 
+		-->
+		<a href="multimedia_category.asp?tipo=audio&select_filtra=radio" class="tipologia">radio</a>
+
+        <h2><a href="prj_related_content_audio.asp?idMateriale=52">Monitoraggio del radon pret-a-porter</a></h2>
+
+        <p class="autore">DI ANGELA SIMONE E ENRICO BERGIANTI</p>
+
+        <p class="intro">
+<em>29 marzo 2012</em> - Monitorare il radon, gas insidioso perché inerte, incolore, insapore e inodore, nelle nostre case è l'obiettivo di un piccolo dispositivo chiamato RStone (anche di design!) che Luigi Rovati dell'Università di Modena e Reggio Emilia ha messo a punto con i suoi colleghi dello spin-off RSens.
+		</p>
+	
+      </div>
+    </div>
+
+    <!-- articolo -->
+    <div class="risorsa">
+      <div class="grid_2 alpha">
+
+	  <a href="prj_related_content_audio.asp?idMateriale=53"><img src="gest/resizeCrop.asp?path=logo pigreco(30).jpg&width=140&height=140" alt="Emlia-Romagna sotto controllo per il radon" /></a> <!-- width="140" height="140" -->
+	  
+	  </div>
+      
+	  <div class="grid_5 omega">
+
+        <!-- 
+		se cambiano i nomi delle sottocategorie di guarda e ascolta bisgona inserire qui i valori stringa come nelle 2 select 
+		-->
+		<a href="multimedia_category.asp?tipo=audio&select_filtra=radio" class="tipologia">radio</a>
+
+        <h2><a href="prj_related_content_audio.asp?idMateriale=53">Emlia-Romagna sotto controllo per il radon</a></h2>
+
+        <p class="autore">DI ANGELA SIMONE E ENRICO BERGIANTI</p>
+
+        <p class="intro">
+<em>29 marzo 2012</em> - L'Emilia-Romagna per sua natura (rocce e suolo) non è sotto pericolo radon, ma il monitoraggio è essenziale per valutare se i livelli crescono, sia in ambienti aperti sia negli edifici pubblici. ARPA Emilia-Romagna se ne occupa con programmmi specifici, come ci ha raccontato Laura Gaidolfi, fisica e dirigente ARPA Piacenza.
+		</p>
+	
+      </div>
+    </div>
+
+    <!-- articolo -->
+    <div class="risorsa">
+      <div class="grid_2 alpha">
+
+	  <a href="prj_related_content_audio.asp?idMateriale=51"><img src="gest/resizeCrop.asp?path=cavara.jpg&width=140&height=140" alt="I vini di Folesano, la storia ritorna protagonista" /></a> <!-- width="140" height="140" -->
+	  
+	  </div>
+      
+	  <div class="grid_5 omega">
+
+        <!-- 
+		se cambiano i nomi delle sottocategorie di guarda e ascolta bisgona inserire qui i valori stringa come nelle 2 select 
+		-->
+		<a href="multimedia_category.asp?tipo=audio&select_filtra=radio" class="tipologia">radio</a>
+
+        <h2><a href="prj_related_content_audio.asp?idMateriale=51">I vini di Folesano, la storia ritorna protagonista</a></h2>
+
+        <p class="autore">DI ELISABETTA TOLA</p>
+
+        <p class="intro">
+<em>26 marzo 2012</em> - Quando la strada della nostra vita sembra già segnata, si può ricominciare da capo, a partire dal passato. Lo ha fatto Carla Cavara, formazione da filosofa, che a un certo punto della sua vita ha ricominciato a studiare. Agraria. E ha così rimesso in piedi, innovando, i vitigni della sua famiglia a Marzabotto (Bologna).
+		</p>
+	
+      </div>
+    </div>
+
+    <div class="paging">
+
+		<a href="multimedia_category.asp?select_filtra=radio&tipo=audio&pp=4" class="prev">prev</a>&nbsp;|&nbsp;
+<a href="multimedia_category.asp?select_filtra=radio&tipo=audio&pp=3">3</a><a href="multimedia_category.asp?select_filtra=radio&tipo=audio&pp=4">4</a><a href="multimedia_category.asp?select_filtra=radio&tipo=audio&pp=5" id="active-page">5</a><a href="multimedia_category.asp?select_filtra=radio&tipo=audio&pp=6">6</a><a href="multimedia_category.asp?select_filtra=radio&tipo=audio&pp=7">7</a><a href="multimedia_category.asp?select_filtra=radio&tipo=audio&pp=8">8</a><a href="multimedia_category.asp?select_filtra=radio&tipo=audio&pp=9">9</a><a href="multimedia_category.asp?select_filtra=radio&tipo=audio&pp=10">10</a><a href="multimedia_category.asp?select_filtra=radio&tipo=audio&pp=11">11</a><a href="multimedia_category.asp?select_filtra=radio&tipo=audio&pp=12">12</a>
+		&nbsp;|&nbsp;<a href="multimedia_category.asp?select_filtra=radio&tipo=audio&pp=6" class="next">next</a>
+
+	</div>
+
+  </div>
+  
+  
+  
+  <!-- sidebar -->
+    <div class="grid_4">
+
+<!--
+	<div class="facebook">
+<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FinsidER-dentro-il-mondo-della-ricerca-in-Emilia-Romagna%2F252015034857076&amp;width=292&amp;colorscheme=light&amp;show_faces=true&amp;stream=false&amp;header=true&amp;height=290" scrolling="No" frameborder="0" style="border:none; overflow:hidden; width:292px; height:290px;" allowtransparency="true"></iframe>
+	</div>
+-->
+
+  </div>
+  <!-- fine sidebar -->
+  
+  
+
+  
+<!-- footer -->
+
+  <div class="grid_12" id="footer">
+    
+    <p><a href="index.asp">home</a> - <a href="chi.asp">chi siamo</a> - <a href="contatti.asp">contatti</a> - <a href="#">torna in alto</a><br />
+InsidER  &egrave; un progetto dell'Associazione Bla Bla<br />
+C.F.  91332140374<br />
+BlaBla 2011. <a href="termini.asp">Termini  di utilizzo</a></p>
+<a href="http://creativecommons.org/licenses/by-nc-sa/2.5/deed.it" target="_blank" class="creative-commons">creative commons</a>  </div>
+
+<!-- fine footer -->
+</div>
+
+
+
+</body>
+</html>

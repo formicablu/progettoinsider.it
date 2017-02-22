@@ -1,0 +1,249 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" >
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+ 
+
+<title>Una ricerca double-face - INSIDER - dentro il mondo della ricerca in Emilia-Romagna</title>
+<meta name="Description" content="Annalisa Nicoletti, biologa specialista in genetica medica, si occupa di malattie rare e ha determinazione da vendere, anche quando pensa al suo futuro, verso i lidi adriatici." />
+<meta name="Keywords" content="" />
+
+<meta property="og:title" content="Una ricerca double-face - INSIDER - dentro il mondo della ricerca in Emilia-Romagna"/> 
+<meta property="og:type" content="article"/> 
+<meta property="og:url" content="http://progettoinsider.it/prj_related_content_parole.asp?idMateriale=9"/> 
+<meta property="og:image" content="http://progettoinsider.it/uploadImg/Annalisa Nicoletti.JPG"/> 
+
+<meta property="og:description" content="Annalisa Nicoletti, biologa specialista in genetica medica, si occupa di malattie rare e ha determinazione da vendere, anche quando pensa al suo futuro, verso i lidi adriatici."/> 
+
+<link rel="stylesheet" type="text/css" href="css/_reset.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="css/_text.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="css/_960.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="css/_layout.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="css/_print.css" media="print" />
+<link rel="stylesheet" type="text/css" href="css/_insider.css" media="screen" />
+<script type="text/javascript" src="scripts/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="scripts/jquery-ui.js"></script>
+<script type="text/javascript" src="scripts/jquery-fluid16.js"></script>
+</head>
+<body class="prj-overview progetti parole">
+<div class="container_12">
+  <!-- header -->
+
+  <div id="header">
+  <img id="logo-print" src="img/logo_insider.png" />
+    <h1><a href="index.asp">insider - dentro il mondo della ricerca in Emilia-Romagna</a></h1>
+    <ul id="menu">
+      <li><a class="home" href="index.asp">home</a></li>
+      <li><a class="chi"  href="chi.asp">chi siamo</a></li>
+      <li><a class="video"  href="multimedia_category.asp?tipo=animazioni"> guarda</a></li>
+      <li><a class="audio"  href="multimedia_category.asp?tipo=audio">ascolta</a></li>
+      <li><a class="testi"  href="multimedia_category.asp?tipo=parole">leggi</a></li>
+      <li><a class="contatti"  href="contatti.asp">contatti</a></li>
+    </ul>
+    
+    <div id="social">Follow us 
+		<a href="rss.asp" class="rss" target="_blank">rss</a> 
+	<a href="http://www.facebook.com/pages/insidER-dentro-il-mondo-della-ricerca-in-Emilia-Romagna/252015034857076" class="fb" target="_blank">facebook</a>
+	
+    <a href="http://www.linkedin.com/groups/insidERdentro-mondo-della-ricerca-EmiliaRomagna-4483071?trk=myg_ugrp_ovr" class="linkedin" target="_blank">Linkedin</a> 
+	
+    <a href="https://twitter.com/#!/@InsidER_ricerca" class="twitter" target="_blank">Twitter</a>     
+	
+    </div>
+    
+    <form id="form1" method="post" action="cerca.asp">
+    <a href="#" class="stampa" title="stampa pagina"  onClick="window.print(); return false;">stampa pagina</a>
+      <p id="ricerca">
+        <input name="testo" type="text" class="text" id="textfield" value="Cerca nel sito" onFocus="this.value = '';" />
+        <input type="submit" name="button" class="invia" id="button" value="Invia" />
+      </p>
+    </form>
+  </div>
+
+<!-- fine header -->
+ 
+  <div class="grid_12">
+    <p id="breadcrumb">MULTIMEDIA / <a href="multimedia_category.asp?tipo=parole">LEGGI</a></p>
+  </div>
+  <div class="grid_1 categ">LEGGI</div>
+  <div class="grid_7 prj-overview">
+    <p class="info">1 novembre 2011 
+	<!--
+	<strong>PROGETTO</strong> in <a href="prj_overview.asp?idProgetto=0"></a> 
+	-->	
+      di LISA LAZZARATO
+    </p>
+    <h2>UNA RICERCA DOUBLE-FACE</h2>
+    <br />
+    
+    <div class="cont-multimedia"> <img src="gest/resize.asp?path=Annalisa Nicoletti.JPG&width=540&height=203" /> </div>
+    
+    <p><p style="margin-bottom: 0cm">Dove la cittadella del Policlinico S.
+Orsola-Malpighi si affaccia su via Massarenti di Bologna, arteria della citt&#224;
+vera e propria, si trovano i padiglioni di pediatria. E nel pi&#249;
+vecchio dei due edifici, nel <a  href="http://www.aosp.bo.it/content/ambulatorio-di-endocrinologia-pediatrica">reparto di Endocrinologia pediatrica</a>,
+c&#8217;&#232; il <a  href="http://www.aosp.bo.it/content/laboratorio-di-genetica-molecolare">Laboratorio di genetica molecolare</a>. &#200; uno dei tanti
+laboratori dalla doppia vocazione: luogo di diagnostica e di ricerca,
+in parte ospedaliero e in
+parte universitario. Qui
+Annalisa Nicoletti, biologa specialista in genetica medica, si occupa
+di malattie rare e vorrebbe continuare a farlo.</p>
+<p style="margin-bottom: 0cm"><b>Quali sono le malattie che
+diagnosticate e studiate?</b><br>Si tratta di patologie legate
+soprattutto a deficit di ormoni: della crescita, tiroidei, del
+differenziamento sessuale oppure legati al funzionamento
+dell&#8217;ipofisi. Sono malattie molto rare, di cui abbiamo una
+casistica piuttosto ampia, essendo centro di screening che raccoglie
+pazienti da tutta l&#8217;Emilia Romagna e da altre regioni.</p>
+<p style="margin-bottom: 0cm"><b>Sono tutte malattie ereditarie&#8230;</b><br>S&#236;, sono legate a geni specifici,
+trasmessi secondo le leggi di Mendel. Anche se il meccanismo &#232; pi&#249;
+complesso e ormai si fa fatica a definire, da un punto di vista
+teorico, le malattie mendeliane. Comunque effettuiamo analisi
+molecolari che hanno un valore diagnostico, perch&#233; permettono di
+individuare le mutazioni che causano le diverse malattie. Un&#8217;altra
+parte del lavoro &#232; invece vera e propria attivit&#224; di ricerca.</p>
+<p style="margin-bottom: 0cm"><b>E in cosa consiste?</b><br>Si tratta di ricerca clinica. In alcuni
+pazienti pu&#242; capitare di trovare mutazioni nuove, che non sono state
+descritte prima nella letteratura scientifica. In tal caso, si
+svolgono studi funzionali. Si clona la mutazione e si cerca di
+determinare l&#8217;effetto di questa mutazione <i>in vitro</i>, in modo
+da avere un&#8217;idea di quello che pu&#242; essere l&#8217;effetto reale sul
+prodotto di quel gene. E capire, in pratica, come l&#8217;attivit&#224; di
+quella proteina, recettore o fattore di trascrizione sia alterata.</p>
+<p style="margin-bottom: 0cm"><b>Sembra un&#8217;indagine piuttosto
+complessa&#8230;</b><br>Per questi studi serve anche molto
+tempo e alcune dotazioni particolari. Come la camera bianca per i
+batteri o una serie di attrezzature per mantenere le colture
+cellulari, che qui non abbiamo. Ci appoggiamo al Centro unificato di
+ricerca biomedica applicata oppure in altre citt&#224; o anche
+all&#8217;estero.</p>
+<p style="margin-bottom: 0cm"><b>E nel caso in cui non seguiate tutto
+l&#8217;iter?</b><br>Segnaliamo le nuove mutazioni,
+pubblicando. Lo studio comporta in questo caso un lavoro di
+screening, per vedere che la mutazione sia realmente nuova e non si
+tratti di un polimorfismo. E si fanno ipotesi. A volte si pu&#242;
+dedurre qualcosa dalla struttura tridimensionale della proteina. Se
+ad esempio un aminoacido da idrofobico diventa polare, cambia la
+struttura complessiva. Ma, si tratta proprio di supposizioni.</p>
+<p style="margin-bottom: 0cm"><b>Quanto spazio dedichi alla ricerca?</b><br>Circa la met&#224; del mio tempo. Anche
+perch&#233; c&#8217;&#232; la parte di ricerca che riguarda la sperimentazione di
+nuove tecniche e protocolli di analisi. Per il resto seguo la parte
+di diagnostica, che &#232; l&#8217;attivit&#224; pi&#249; ospedaliera.</p>
+<p style="margin-bottom: 0cm"><b>Ma sei assunta dall&#8217;ospedale?</b><br>No, formalmente sono dipendente
+dell&#8217;universit&#224;, in qualit&#224; di tecnico laureato. In molti
+laboratori &#232; cos&#236;, c&#8217;&#232; personale universitario che svolge un
+lavoro anche per l&#8217;ospedale. Normalmente queste persone possono
+convenzionarsi, cio&#232; essere equiparate a figure professionali
+dell&#8217;ospedale e acquisirne i diritti e i doveri.</p>
+<p style="margin-bottom: 0cm">
+</p>
+<p style="margin-bottom: 0cm"><b>Tu faresti questo passaggio?</b><br>Purtroppo non &#232; semplice. Il problema
+&#232; che le carriere universitarie e quelle ospedaliere sono diverse e
+a volte non si riesce a fare un&#8217;equiparazione. Il mio &#232; uno di
+questi casi atipici, perch&#233; la figura di tecnico all&#8217;universit&#224; &#232;
+a un livello pi&#249; alto rispetto all&#8217;ospedale. In pratica non mi
+viene riconosciuta la mia reale qualifica, che corrisponderebbe a
+quella di biologo dirigente. Anche se &#232; il tipo di lavoro che sto
+gi&#224; svolgendo e se ho una specializzazione&#8230;</p>
+<p style="margin-bottom: 0cm"><b>Scusa, ma mi sto perdendo&#8230; perch&#233;
+non puoi essere equiparata a biologo dirigente?</b><br>Perch&#233; nel regolamento di riferimento
+non &#232; scritto espressamente che avere una specializzazione in
+genetica medica di quattro anni, come ho io, debba essere considerato
+un titolo aggiuntivo per ottenere un ruolo di dirigente
+nell&#8217;ospedale. Per ora &#232; cos&#236;, ma forse le cose cambieranno.
+Forse ci sar&#224; un accordo tra universit&#224; e ospedale, grazie al quale
+potr&#224; essere istituita un&#8217;apposita commissione per risolvere
+questi casi difficili. Ma non sono molto ottimista, perch&#233; la
+differenza di stipendio tra un tecnico e un biologo dirigente &#232; di
+circa mille euro al mese.</p>
+<p style="margin-bottom: 0cm"><b>Se all&#8217;universit&#224; fossi
+ricercatrice sarebbe pi&#249; semplice?</b><br>Certo, ci sono stati tanti casi simili
+in precedenza. &#200; la mia speranza. Ho anche il dottorato di ricerca,
+proprio in endocrinologia pediatrica, che mi permette di tentare la
+carriera universitaria. Si tratta di aspettare i concorsi e tentare.
+Un&#8217;altra strada per continuare a fare questo lavoro &#232; partecipare
+direttamente ai concorsi per biologi dirigenti, ma sono ancora pi&#249;
+rari, anche considerando altre citt&#224;.</p>
+<p style="margin-bottom: 0cm"><b>La tua situazione &#232; atipica, ma hai
+un contratto a tempo indeterminato&#8230;</b><br>In questo sono molto fortunata. Qualche
+anno fa avevo cercato di sondare la situazione di altri laboratori.
+Avevo preparato un questionario, da compilare in forma anonima, per
+capire la diffusione del precariato e portarla all&#8217;attenzione
+pubblica. Ma la scarsa partecipazione, mi ha scoraggiato. Non volevo
+denunciare solo la precariet&#224;, ma il limitato investimento nella
+formazione.</p>
+<p style="margin-bottom: 0cm"><b>In generale sei soddisfatta della
+tua situazione?</b><br>Mi piace sia svolgere attivit&#224;
+assistenziale per l&#8217;ospedale, sia poter fare ricerca. Ma vorrei
+anche vedere riconosciute le mie competenze e poter avere pi&#249;
+autonomia, sempre lavorando in gruppo. E poi penso spesso ad
+avvicinarmi a Rimini, dove vivo.</p>
+<p style="margin-bottom: 0cm"><b>Ti pesa molto il pendolarismo?</b><br>In realt&#224; me la cavo bene. Forse
+perch&#233; sono un po&#8217; iperattiva. Ma gli orari dei treni sono buoni.
+Arrivo a casa e riesco a fare la spesa, a cucinare, a fare tutto. Due
+volte a settimana ho gli allenamenti di pallavolo e la domenica c&#8217;&#232;
+la partita di campionato.</p>
+<p style="margin-bottom: 0cm"><b>Certo che davvero le energie non ti
+mancano&#8230;</b><br>&#200; un campionato per le vecchie come
+me&#8230; ma la pallavolo &#232; sempre stata la mia passione. Un&#8217;altra
+cosa che mi diverte molto &#232; cucirmi i vestiti. Me li invento io, &#232;
+una cosa abbastanza artigianale e si vede. Ora ho una macchina
+ipertecnologica e faccio pantaloni, maglie e vestiti.<br><br>Questa intervista &#232; stata raccolta nel novembre 2007.<br></p></p>
+	
+
+
+
+
+	
+	<p></p>
+	
+    <div class="social">
+	<!--
+      <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fprogettoinsider%2Eit%2Fprj%5Frelated%5Fcontent%5Fparole%2Easp%3FidMateriale%3D9&amp;layout=standard&amp;show_faces=true&amp;width=500&amp;action=like&amp;colorscheme=light&amp;height=23" scrolling="No" frameborder="0" style="border:none; overflow:hidden; width:500px; height:23px;" allowtransparency="true"></iframe>
+	-->
+	
+	<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/it_IT/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+	
+	<fb:like href="http://progettoinsider.it/prj_related_content_parole.asp?idMateriale=9" send="true" width="450" show_faces="false"></fb:like>
+    </div>
+	
+	<!--
+    include file="_box_link-argomenti.asp" 
+	-->
+	
+  </div>
+  <!-- sidebar -->
+    <div class="grid_4">
+
+<!--
+	<div class="facebook">
+<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FinsidER-dentro-il-mondo-della-ricerca-in-Emilia-Romagna%2F252015034857076&amp;width=292&amp;colorscheme=light&amp;show_faces=true&amp;stream=false&amp;header=true&amp;height=290" scrolling="No" frameborder="0" style="border:none; overflow:hidden; width:292px; height:290px;" allowtransparency="true"></iframe>
+	</div>
+-->
+
+  </div>
+  <!-- fine sidebar -->
+  
+  
+<!-- footer -->
+
+  <div class="grid_12" id="footer">
+    
+    <p><a href="index.asp">home</a> - <a href="chi.asp">chi siamo</a> - <a href="contatti.asp">contatti</a> - <a href="#">torna in alto</a><br />
+InsidER  &egrave; un progetto dell'Associazione Bla Bla<br />
+C.F.  91332140374<br />
+BlaBla 2011. <a href="termini.asp">Termini  di utilizzo</a></p>
+<a href="http://creativecommons.org/licenses/by-nc-sa/2.5/deed.it" target="_blank" class="creative-commons">creative commons</a>  </div>
+
+<!-- fine footer -->
+</div>
+</body>
+</html>

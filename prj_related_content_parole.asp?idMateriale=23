@@ -1,0 +1,192 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" >
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+ 
+
+<title>Speciale Terremoto in Emilia: viviamo in una zona sismica? - INSIDER - dentro il mondo della ricerca in Emilia-Romagna</title>
+<meta name="Description" content="Tutta l'area dell'Emilia colpita dal terremoto di questi ultimi giorni è interessata da un complesso di faglie con un'importante attività sismica. Conosciuta anche storicamente. Ne abbiamo parlato con Romano Camassi, sismologo dell'INGV di Bologna." />
+<meta name="Keywords" content="" />
+
+<meta property="og:title" content="Speciale Terremoto in Emilia: viviamo in una zona sismica? - INSIDER - dentro il mondo della ricerca in Emilia-Romagna"/> 
+<meta property="og:type" content="article"/> 
+<meta property="og:url" content="http://progettoinsider.it/prj_related_content_parole.asp?idMateriale=23"/> 
+<meta property="og:image" content="http://progettoinsider.it/uploadImg/insider_def(3).jpg"/> 
+
+<meta property="og:description" content="Tutta l'area dell'Emilia colpita dal terremoto di questi ultimi giorni è interessata da un complesso di faglie con un'importante attività sismica. Conosciuta anche storicamente. Ne abbiamo parlato con Romano Camassi, sismologo dell'INGV di Bologna."/> 
+
+<link rel="stylesheet" type="text/css" href="css/_reset.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="css/_text.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="css/_960.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="css/_layout.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="css/_print.css" media="print" />
+<link rel="stylesheet" type="text/css" href="css/_insider.css" media="screen" />
+<script type="text/javascript" src="scripts/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="scripts/jquery-ui.js"></script>
+<script type="text/javascript" src="scripts/jquery-fluid16.js"></script>
+</head>
+<body class="prj-overview progetti parole">
+<div class="container_12">
+  <!-- header -->
+
+  <div id="header">
+  <img id="logo-print" src="img/logo_insider.png" />
+    <h1><a href="index.asp">insider - dentro il mondo della ricerca in Emilia-Romagna</a></h1>
+    <ul id="menu">
+      <li><a class="home" href="index.asp">home</a></li>
+      <li><a class="chi"  href="chi.asp">chi siamo</a></li>
+      <li><a class="video"  href="multimedia_category.asp?tipo=animazioni"> guarda</a></li>
+      <li><a class="audio"  href="multimedia_category.asp?tipo=audio">ascolta</a></li>
+      <li><a class="testi"  href="multimedia_category.asp?tipo=parole">leggi</a></li>
+      <li><a class="contatti"  href="contatti.asp">contatti</a></li>
+    </ul>
+    
+    <div id="social">Follow us 
+		<a href="rss.asp" class="rss" target="_blank">rss</a> 
+	<a href="http://www.facebook.com/pages/insidER-dentro-il-mondo-della-ricerca-in-Emilia-Romagna/252015034857076" class="fb" target="_blank">facebook</a>
+	
+    <a href="http://www.linkedin.com/groups/insidERdentro-mondo-della-ricerca-EmiliaRomagna-4483071?trk=myg_ugrp_ovr" class="linkedin" target="_blank">Linkedin</a> 
+	
+    <a href="https://twitter.com/#!/@InsidER_ricerca" class="twitter" target="_blank">Twitter</a>     
+	
+    </div>
+    
+    <form id="form1" method="post" action="cerca.asp">
+    <a href="#" class="stampa" title="stampa pagina"  onClick="window.print(); return false;">stampa pagina</a>
+      <p id="ricerca">
+        <input name="testo" type="text" class="text" id="textfield" value="Cerca nel sito" onFocus="this.value = '';" />
+        <input type="submit" name="button" class="invia" id="button" value="Invia" />
+      </p>
+    </form>
+  </div>
+
+<!-- fine header -->
+ 
+  <div class="grid_12">
+    <p id="breadcrumb">MULTIMEDIA / <a href="multimedia_category.asp?tipo=parole">LEGGI</a></p>
+  </div>
+  <div class="grid_1 categ">LEGGI</div>
+  <div class="grid_7 prj-overview">
+    <p class="info">5 giugno 2012 
+	<!--
+	<strong>PROGETTO</strong> in <a href="prj_overview.asp?idProgetto=0"></a> 
+	-->	
+      di MARCO BOSCOLO
+    </p>
+    <h2>SPECIALE TERREMOTO IN EMILIA: VIVIAMO IN UNA ZONA SISMICA?</h2>
+    <br />
+    
+    <div class="cont-multimedia"> <img src="gest/resize.asp?path=insider_def(3).jpg&width=540&height=203" /> </div>
+    
+    <p><span style="font-style: italic;">In occasione del Terremoto in Emilia, insidER dedica uno speciale con
+notizie di aggiornamento sull'evoluzione degli eventi sismici e con
+interviste di approfondimento ai ricercatori del territorio
+emiliano-romagnolo che si occupano di comprendere meglio la scienza dei
+terremoti.
+</span><br><br>&#171;Abituarsi all&#8217;idea che viviamo in<b>  territorio sismico</b>. Non pensare al <b> terremoto</b>
+come qualcosa di improbabile. Pensare che dobbiamo stabilire delle
+priorit&#224; e decidere che cosa &#232; davvero importante&#187;. Parole di <b> Romano Camassi</b>, sismologo dell<b>&#8216;Istituto Nazionale di Geofisica e Vulcanologia</b>
+(INGV) di Bologna ed esperto di sismologia storica, a poche ore dalla
+scossa di magnitudo 5.8 che stamattina ha colpito nuovamente le aree del
+modenese e del ferrarese gi&#224; in difficolt&#224; per le scosse del 20 maggio
+scorso. &#171;Si tratta di terremoti che non sono prevedibili nel senso
+dell&#8217;ora e quando, ma sono terremoti che <b> non</b>  giungono <b> inaspettati</b>,
+perch&#233; tutta quest&#8217;area della Pianura Padana &#232; interessata da un
+complesso di faglie il cui movimento ha come effetto quest&#8217;ondata di
+scosse, con i picchi di oggi e del 20 maggio&#187;.
+<p>Fin dal periodo 2003 &#8211; 2005, anche in seguito al terremoto di San
+Giuliano di Puglia del 2002, i sismologi italiani hanno provveduto a
+classificare la Pianura Padana dal punto di vista della pericolosit&#224; e
+del rischio sismico, passando da una non classificazione a un &#171;grado 3,
+il che significa che c&#8217;&#232; una<b>  importante attivit&#224; sismica</b>, conosciuta storicamente&#187;. La classificazione &#232; determinante per le <b> regole</b>  con cui si costruiscono gli edifici: &#171;&#232; per questo che anche oggi abbiamo sentito di crolli di <b> edifici industriali</b>
+relativamente nuovi, ma quasi sicuramente costruiti prima di quel
+periodo&#187;. Non deve destare preoccupazione il fatto che si rientri in un
+edificio nelle zone sismiche, &#171;a patto che non siano presenti danni
+evidenti e che si siano seguite le procedure adeguate della Protezione
+Civile e delle autorit&#224;&#187;.</p>
+<p>Da ribadire, invece, la <b> smentita</b>  che ci sia alcuna relazione con<b>  attivit&#224; estrattive</b>
+o il fenomeno della subsidenza. &#171;Per generare un terremoto di magnitudo
+attorno a 6 le forze necessarie sono gigantesche, semplicemente
+impossibili da mettere in campo con un&#8217;attivit&#224; estrattiva&#187;, dichiara
+Camassi. &#171;Quindi non c&#8217;&#232; assolutamente nessuna relazione tra le
+trivellazioni e l&#8217;innesco di una serie sismica. Cos&#236; come non c&#8217;&#232;
+relazione tra terremoto e subsidenza. Quest&#8217;ultima pu&#242; aggravare gli
+effetti distruttivi sugli edifici, ma non c&#8217;&#232; relazione causale di alcun
+tipo&#187;.</p>
+<p>Presto anche per capire se c&#8217;&#232; relazione tra l&#8217;attivit&#224; sismica in
+Emilia-Romagna e la riattivazione di una sequenza di scosse nella zona
+del <b> Pollino</b>, tra Basilicata e Calabria. &#171;Questa
+sequenza di scosse &#232; attiva da dicembre&#187;, ha dichiarato all&#8217;ANSA Massimo
+Mucciarelli, sismologo dell&#8217;Universit&#224; della Basilicata, &#171;ma non
+sappiamo ancora come si evolver&#224;&#187;. Sul fatto che siano o meno legate a
+quelle della Pianura Padana, &#171;c&#8217;&#232; un forte dibattito nel mondo
+scientifico: alcuni sostengono che vi siano dei periodi in cui si
+concentrano i terremoti, mentre per altri &#232; una semplici fluttuazione
+statistica&#187;. Detto in altre parole: non sappiamo se il fatto che queste
+due attivit&#224; si manifestino nello stesso periodo sia dovuto a una causa
+comune oppure sia una pura coincidenza.</p>
+<p>Per comprendere meglio, ci sar&#224; il tempo. Ora c&#8217;&#232; da pensare all&#8217;<b> emergenza</b> , ma dal punto di vista di Romano Camassi il punto fondamentale &#232; lo sviluppo di una <b> cultura</b>
+della prevenzione sismica. &#171;Non si tratta soltanto di conoscere e
+seguire le procedure di emergenza, ma lavorare a bocce ferme per
+valutare il nostro patrimonio edilizio, chiedere che gli edifici
+pubblici vengano messi in sicurezza e che vengano rispettate le norme
+antisismiche che sono in vigore&#187;. <b> Non</b>  possiamo pensare che il terremoto sia un&#8217;<b> eventualit&#224;</b>  remota, ma una realt&#224; con la quale dobbiamo avere a che fare come cittadini <b> informati</b>  e <b> consapevoli</b>.</p>
+<p>[Il pezzo &#232; tratto da un articolo apparso in prima pubblicazione il 29 maggio 2012 <a href="http://radio.rcdc.it/archives/dobbiamo-abituarci-allidea-viviamo-in-zona-sismica-101110/">sul sito di Radio Citt&#224; del Capo</a>, sempre a firma di Marco Boscolo]<br><br><br></p></p>
+	
+
+
+
+
+	
+	<p></p>
+	
+    <div class="social">
+	<!--
+      <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fprogettoinsider%2Eit%2Fprj%5Frelated%5Fcontent%5Fparole%2Easp%3FidMateriale%3D23&amp;layout=standard&amp;show_faces=true&amp;width=500&amp;action=like&amp;colorscheme=light&amp;height=23" scrolling="No" frameborder="0" style="border:none; overflow:hidden; width:500px; height:23px;" allowtransparency="true"></iframe>
+	-->
+	
+	<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/it_IT/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+	
+	<fb:like href="http://progettoinsider.it/prj_related_content_parole.asp?idMateriale=23" send="true" width="450" show_faces="false"></fb:like>
+    </div>
+	
+	<!--
+    include file="_box_link-argomenti.asp" 
+	-->
+	
+  </div>
+  <!-- sidebar -->
+    <div class="grid_4">
+
+<!--
+	<div class="facebook">
+<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FinsidER-dentro-il-mondo-della-ricerca-in-Emilia-Romagna%2F252015034857076&amp;width=292&amp;colorscheme=light&amp;show_faces=true&amp;stream=false&amp;header=true&amp;height=290" scrolling="No" frameborder="0" style="border:none; overflow:hidden; width:292px; height:290px;" allowtransparency="true"></iframe>
+	</div>
+-->
+
+  </div>
+  <!-- fine sidebar -->
+  
+  
+<!-- footer -->
+
+  <div class="grid_12" id="footer">
+    
+    <p><a href="index.asp">home</a> - <a href="chi.asp">chi siamo</a> - <a href="contatti.asp">contatti</a> - <a href="#">torna in alto</a><br />
+InsidER  &egrave; un progetto dell'Associazione Bla Bla<br />
+C.F.  91332140374<br />
+BlaBla 2011. <a href="termini.asp">Termini  di utilizzo</a></p>
+<a href="http://creativecommons.org/licenses/by-nc-sa/2.5/deed.it" target="_blank" class="creative-commons">creative commons</a>  </div>
+
+<!-- fine footer -->
+</div>
+</body>
+</html>

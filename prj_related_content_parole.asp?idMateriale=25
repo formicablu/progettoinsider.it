@@ -1,0 +1,205 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" >
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+ 
+
+<title>Entomodena, nel regno dei ragni e degli insetti - INSIDER - dentro il mondo della ricerca in Emilia-Romagna</title>
+<meta name="Description" content="Con <b>Entomodena</b>, per due volte l'anno, Campogalliano (MO) è letteralmente invasa da insetti e ragni. A Entomodena la grande protagonista è l'entomologia, cioè lo studio delle specie appartenenti agli animali invertebrati, fra cui soprattutto esapodi e artropodi (insetti e ragni)." />
+<meta name="Keywords" content="" />
+
+<meta property="og:title" content="Entomodena, nel regno dei ragni e degli insetti - INSIDER - dentro il mondo della ricerca in Emilia-Romagna"/> 
+<meta property="og:type" content="article"/> 
+<meta property="og:url" content="http://progettoinsider.it/prj_related_content_parole.asp?idMateriale=25"/> 
+<meta property="og:image" content="http://progettoinsider.it/uploadImg/farfalle.jpg"/> 
+
+<meta property="og:description" content="Con <b>Entomodena</b>, per due volte l'anno, Campogalliano (MO) è letteralmente invasa da insetti e ragni. A Entomodena la grande protagonista è l'entomologia, cioè lo studio delle specie appartenenti agli animali invertebrati, fra cui soprattutto esapodi e artropodi (insetti e ragni)."/> 
+
+<link rel="stylesheet" type="text/css" href="css/_reset.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="css/_text.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="css/_960.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="css/_layout.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="css/_print.css" media="print" />
+<link rel="stylesheet" type="text/css" href="css/_insider.css" media="screen" />
+<script type="text/javascript" src="scripts/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="scripts/jquery-ui.js"></script>
+<script type="text/javascript" src="scripts/jquery-fluid16.js"></script>
+</head>
+<body class="prj-overview progetti parole">
+<div class="container_12">
+  <!-- header -->
+
+  <div id="header">
+  <img id="logo-print" src="img/logo_insider.png" />
+    <h1><a href="index.asp">insider - dentro il mondo della ricerca in Emilia-Romagna</a></h1>
+    <ul id="menu">
+      <li><a class="home" href="index.asp">home</a></li>
+      <li><a class="chi"  href="chi.asp">chi siamo</a></li>
+      <li><a class="video"  href="multimedia_category.asp?tipo=animazioni"> guarda</a></li>
+      <li><a class="audio"  href="multimedia_category.asp?tipo=audio">ascolta</a></li>
+      <li><a class="testi"  href="multimedia_category.asp?tipo=parole">leggi</a></li>
+      <li><a class="contatti"  href="contatti.asp">contatti</a></li>
+    </ul>
+    
+    <div id="social">Follow us 
+		<a href="rss.asp" class="rss" target="_blank">rss</a> 
+	<a href="http://www.facebook.com/pages/insidER-dentro-il-mondo-della-ricerca-in-Emilia-Romagna/252015034857076" class="fb" target="_blank">facebook</a>
+	
+    <a href="http://www.linkedin.com/groups/insidERdentro-mondo-della-ricerca-EmiliaRomagna-4483071?trk=myg_ugrp_ovr" class="linkedin" target="_blank">Linkedin</a> 
+	
+    <a href="https://twitter.com/#!/@InsidER_ricerca" class="twitter" target="_blank">Twitter</a>     
+	
+    </div>
+    
+    <form id="form1" method="post" action="cerca.asp">
+    <a href="#" class="stampa" title="stampa pagina"  onClick="window.print(); return false;">stampa pagina</a>
+      <p id="ricerca">
+        <input name="testo" type="text" class="text" id="textfield" value="Cerca nel sito" onFocus="this.value = '';" />
+        <input type="submit" name="button" class="invia" id="button" value="Invia" />
+      </p>
+    </form>
+  </div>
+
+<!-- fine header -->
+ 
+  <div class="grid_12">
+    <p id="breadcrumb">MULTIMEDIA / <a href="multimedia_category.asp?tipo=parole">LEGGI</a></p>
+  </div>
+  <div class="grid_1 categ">LEGGI</div>
+  <div class="grid_7 prj-overview">
+    <p class="info">1 ottobre 2012 
+	<!--
+	<strong>PROGETTO</strong> in <a href="prj_overview.asp?idProgetto=0"></a> 
+	-->	
+      di ENRICO BERGIANTI
+    </p>
+    <h2>ENTOMODENA, NEL REGNO DEI RAGNI E DEGLI INSETTI</h2>
+    <br />
+    
+    <div class="cont-multimedia"> <img src="gest/resize.asp?path=farfalle.jpg&width=540&height=203" /> </div>
+    
+    <p><p style="margin-bottom: 0cm">C'&#232; Entomodena e per due volte l'anno
+Campogalliano &#232; letteralmente invasa da insetti e ragni.
+Un'invasione assolutamente pacifica che ha il suo quartier generale
+nella palestra del Circolo Polisportiva di Campogalliano: &#232; l&#236; che
+il 22 e il 23 settembre scorsi ha avuto luogo la trentottesima
+edizione di Entomodena, una mostra-scambio internazionale che
+richiama partecipanti da tutt&#8217;Italia e da paesi come Francia,
+Germania, Repubblica Ceca e Austria. &#200; l'unica mostra-scambio su
+insetti e simili in Italia. A Entomodena la grande protagonista &#232;
+l'entomologia, cio&#232; lo studio delle specie animali invertebrati, fra
+cui soprattutto esapodi e artropodi (insetti e ragni). In particolare
+l'anima di Entomodena &#232; l'entomologia amatoriale, cio&#232; quella
+praticata dai collezionisti e dagli appassionati, non necessariamente
+accademici.<br><br>Entomodena &#232; una via di mezzo fra una
+mostra e un mercatino che gi&#224; a due ore dall'inaugurazione  &#232;
+letteralmente presa d'assalto da addetti ai lavori e semplici
+curiosi. Principalmente Entomodena &#232; un'occasione di incontro e di
+scambio: &#8220;Lo scopo del meeting &#232; da un lato aggregare gli
+appassionati di entomologia e favorire gli acquisti e gli scambi di
+materiale, informazioni e contenuti. Dall'altro lato c'&#232; anche uno
+scopo pi&#249; divulgativo, in quanto speriamo di contribuire a far
+avvicinare le persone all'entomologia&#8221; spiega Gianfranco Civolani,
+membro del Gruppo Modenese Scienze Naturali, il gruppo che si occupa
+dell'organizzazione di Entomodena.<br><br>Farfalle, coleotteri, scarabei,
+scorpioni, libellule, ragni: &#232; incalcolabile il numero di specie
+presenti nel centinaio di espositori che riempiono i circa trecento
+metri di spazio espositivo della palestra. Difficile anche solo
+contare il numero di specie ospitate in una teca: &#8220;Possono
+contenerne anche centinaia &#8211; spiega un appassionato &#8211; perch&#233; a
+volte una specie &#232; rappresentata anche da un solo piccolissimo
+esemplare&#8221;. Oltre agli insetti e ai ragni conservati nelle teche,
+che sono la grande maggioranza, ci sono anche insetti vivi e
+allevati. Non mancano i banchetti di editoria specializzata. Ci sono
+anche tavoli in cui sono messi in vendita gli strumenti di lavoro fra
+cui retini, teche, boccette, pinze e sostanze chimiche per conservare
+gli esemplari.<br><br>Nelle teche ogni esemplare ha un
+minuscolo cartellino che indica dove e quando l'insetto &#232; stato
+trovato. &#8220;Questa &#232; una precisa esigenza scientifica: come gli
+esperimenti devono poter essere riproducibili, cos&#236; anche chi cerca
+un preciso tipo di insetto deve sapere dove pu&#242; trovarlo e in che
+periodo dell'anno. Da pochi anni i collezionisti pi&#249; pignoli
+riportano addirittura le coordinate esatte del ritrovamento&#8221; spiega
+un appassionato.<br><br>Ogni banchetto espositivo &#232;
+organizzato da un collezionista che espone e vende il suo materiale,
+ad altri appassionati cos&#236; come anche ai neofiti. Il prezzo di un
+esemplare oscilla fra pochi centesimi e centinaia di euro. &#8220;Gli
+insetti pi&#249; rari possono avere prezzi molto alti. Come figurine e
+francobolli, pi&#249; l'insetto &#232; raro pi&#249; vale. Anche una specie
+nuova, o scoperta da poco tempo, vale molto di pi&#249; da una descritta
+da anni&#8221; spiega Mauro Malmusi, il presidente del Gruppo Modenese
+Scienze Naturali.<br><br>A Entomodena sono presenti anche alcuni
+rappresentati del Museo di Zoologia dell'Universit&#224; di Modena, fra
+cui il ricercatore Matteo Bisanti e il tecnico Andrea Gambarelli.
+&#8220;Abbiamo collaborato con loro in diverse occasioni&#8221;, spiega
+Malmusi. &#8220;Spesso gli appassionati e i collezionisti cedono parte
+delle loro collezioni agli atenei, che per formare collezioni proprie
+avrebbero grandi spese. Nel mondo dell'entomologia c'&#232; un proficuo
+dialogo fra il versante amatoriale, cio&#232; gli appassionati e i
+collezionisti, e quello accademico. Il nostro Gruppo ha fornito ben
+80 teche al Museo di Zoologia&#8221; afferma Malmusi. &#8220;Lo stesso Gruppo
+&#8211; chiude Malumsi &#8211; &#232; composto sia da accademici che da
+appassionati e collezionisti, che per&#242; col tempo hanno finito per
+avere una grande conoscenza e competenza nell'ambito
+dell'entomologia&#8221;. L'appuntamento con la trentanovesima edizione di
+Entomodena, la prima del 2013, &#232; attesa per il prossimo 13-14
+aprile. <br></p>
+<br><br><object id="vp1tWEX3" width="432" height="240" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"><param name="movie" value="http://static.animoto.com/swf/w.swf?w=swf/vp1&e=1349039267&f=tWEX3vyoOzFvKxTvl9BT4g&d=140&m=a&r=360p&volume=100&start_res=360p&i=m&options="></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed id="vp1tWEX3" src="http://static.animoto.com/swf/w.swf?w=swf/vp1&e=1349039267&f=tWEX3vyoOzFvKxTvl9BT4g&d=140&m=a&r=360p&volume=100&start_res=360p&i=m&options=" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="432" height="240"></embed></object></p>
+	
+
+
+
+
+	
+	<p></p>
+	
+    <div class="social">
+	<!--
+      <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fprogettoinsider%2Eit%2Fprj%5Frelated%5Fcontent%5Fparole%2Easp%3FidMateriale%3D25&amp;layout=standard&amp;show_faces=true&amp;width=500&amp;action=like&amp;colorscheme=light&amp;height=23" scrolling="No" frameborder="0" style="border:none; overflow:hidden; width:500px; height:23px;" allowtransparency="true"></iframe>
+	-->
+	
+	<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/it_IT/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+	
+	<fb:like href="http://progettoinsider.it/prj_related_content_parole.asp?idMateriale=25" send="true" width="450" show_faces="false"></fb:like>
+    </div>
+	
+	<!--
+    include file="_box_link-argomenti.asp" 
+	-->
+	
+  </div>
+  <!-- sidebar -->
+    <div class="grid_4">
+
+<!--
+	<div class="facebook">
+<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FinsidER-dentro-il-mondo-della-ricerca-in-Emilia-Romagna%2F252015034857076&amp;width=292&amp;colorscheme=light&amp;show_faces=true&amp;stream=false&amp;header=true&amp;height=290" scrolling="No" frameborder="0" style="border:none; overflow:hidden; width:292px; height:290px;" allowtransparency="true"></iframe>
+	</div>
+-->
+
+  </div>
+  <!-- fine sidebar -->
+  
+  
+<!-- footer -->
+
+  <div class="grid_12" id="footer">
+    
+    <p><a href="index.asp">home</a> - <a href="chi.asp">chi siamo</a> - <a href="contatti.asp">contatti</a> - <a href="#">torna in alto</a><br />
+InsidER  &egrave; un progetto dell'Associazione Bla Bla<br />
+C.F.  91332140374<br />
+BlaBla 2011. <a href="termini.asp">Termini  di utilizzo</a></p>
+<a href="http://creativecommons.org/licenses/by-nc-sa/2.5/deed.it" target="_blank" class="creative-commons">creative commons</a>  </div>
+
+<!-- fine footer -->
+</div>
+</body>
+</html>

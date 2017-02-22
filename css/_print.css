@@ -1,0 +1,206 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+
+
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	line-height: 13px;
+	
+}
+
+a  {
+	color:#000000!important;
+	text-decoration: underline!important;
+	font-weight: bold!important;
+}
+
+a:visited,  {
+	color:#000000!important;
+	text-decoration: underline!important;
+	font-weight: bold!important;
+}
+
+
+/********* header ********/
+
+#menu, #menu-multimedia, #social, #lingua, #ricerca {
+	display: none;
+}
+
+#logo-print {
+	display: block;
+	width: 8cm;
+	height:auto;
+	
+}
+
+#header h1 {
+	display: none;
+}
+
+#header {
+	border-bottom: 5mm solid #c8d6dd;
+}
+
+.stampa {
+	display: none;
+}
+
+
+.facebook, .latest {
+	display: none;
+
+}
+
+body.home .latest {
+	display: block;
+
+}
+
+p#breadcrumb {
+    color: #184860;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 14px;
+    line-height: 25px;
+    margin-bottom: 15px;
+    margin-top: 10px;
+	border-bottom: 1pt dotted #000000;
+}
+
+.categ {
+	display: none;
+}
+
+body .grid_7 h2 {
+    color: #183048;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 18pt;
+    font-weight: normal;
+    line-height: 30px;
+    margin: 0 0 6px;
+    padding: 0;
+}
+
+body .grid_7 h2 a  {
+	color:#000000!important;
+	text-decoration: underline!important;
+	font-weight: normal!important;
+	
+}
+
+body.istituzionale .istituzionale p img {
+    border-bottom: medium none;
+    float: left;
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
+
+body.home .latest h2 {
+    color: #183048;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 18pt;
+    font-weight: normal;
+    line-height: 30px;
+    margin: 0 0 6px;
+    padding: 0;
+	clear:left;
+}
+
+body.home .latest h2 a  {
+	color:#000000!important;
+	text-decoration: underline!important;
+	font-weight: normal!important;
+	
+}
+
+body.home .latest img {
+    border-bottom: medium none;
+    float: left;
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
+
+
+body.home .latest p
+ {
+    color: #000;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 14px;
+    line-height: 20px;
+    margin-bottom: 20px;
+
+}
+
+
+
+body .istituzionale p,
+body .prj-overview p
+ {
+    color: #000;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 14px;
+    line-height: 20px;
+    margin-bottom: 20px;
+	clear:left;
+}
+
+
+.risorsa {
+    margin-bottom: 16px;
+    padding-bottom: 10px;
+	border-top: 1pt solid #000000;	
+	padding-top: 3mm;
+	clear:left;
+}
+
+.risorsa:first-child {
+	border-top: none;	
+}
+.risorsa img {
+	float: left;
+    margin-bottom: 10px;
+    margin-right: 10px;
+
+}
+
+.cont-multimedia {
+	display: none!important;
+}
+
+/*********** scienza & co *************/
+
+
+#scienza-e-co, .bottom-up, .fm-blu, .vibrazioni, .insider {
+	display: none;
+
+}
+
+/************ footer ************/
+
+#footer {
+	border-top: 2mm solid #c8d6dd;
+	margin: 6mm 0 0 0;
+	padding: 3mm 0 0 0;
+	clear:both;
+}
+
+#footer p {
+	margin: 0px;
+	padding: 0px;	
+}
+
+
+

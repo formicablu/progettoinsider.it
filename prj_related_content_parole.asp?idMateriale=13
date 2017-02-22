@@ -1,0 +1,275 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" >
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+ 
+
+<title>Il mestiere dei numeri - INSIDER - dentro il mondo della ricerca in Emilia-Romagna</title>
+<meta name="Description" content="Mirko Degli Esposti, professore ordinario di Matematica all'Università di Bologna, ma ben lontano dall’essere un tipico accademico canuto, racconta il suo “mestiere” di matematico in compagnia di Gramsci, fumetti e musica." />
+<meta name="Keywords" content="" />
+
+<meta property="og:title" content="Il mestiere dei numeri - INSIDER - dentro il mondo della ricerca in Emilia-Romagna"/> 
+<meta property="og:type" content="article"/> 
+<meta property="og:url" content="http://progettoinsider.it/prj_related_content_parole.asp?idMateriale=13"/> 
+<meta property="og:image" content="http://progettoinsider.it/uploadImg/Foto062.jpg"/> 
+
+<meta property="og:description" content="Mirko Degli Esposti, professore ordinario di Matematica all'Università di Bologna, ma ben lontano dall’essere un tipico accademico canuto, racconta il suo “mestiere” di matematico in compagnia di Gramsci, fumetti e musica."/> 
+
+<link rel="stylesheet" type="text/css" href="css/_reset.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="css/_text.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="css/_960.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="css/_layout.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="css/_print.css" media="print" />
+<link rel="stylesheet" type="text/css" href="css/_insider.css" media="screen" />
+<script type="text/javascript" src="scripts/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="scripts/jquery-ui.js"></script>
+<script type="text/javascript" src="scripts/jquery-fluid16.js"></script>
+</head>
+<body class="prj-overview progetti parole">
+<div class="container_12">
+  <!-- header -->
+
+  <div id="header">
+  <img id="logo-print" src="img/logo_insider.png" />
+    <h1><a href="index.asp">insider - dentro il mondo della ricerca in Emilia-Romagna</a></h1>
+    <ul id="menu">
+      <li><a class="home" href="index.asp">home</a></li>
+      <li><a class="chi"  href="chi.asp">chi siamo</a></li>
+      <li><a class="video"  href="multimedia_category.asp?tipo=animazioni"> guarda</a></li>
+      <li><a class="audio"  href="multimedia_category.asp?tipo=audio">ascolta</a></li>
+      <li><a class="testi"  href="multimedia_category.asp?tipo=parole">leggi</a></li>
+      <li><a class="contatti"  href="contatti.asp">contatti</a></li>
+    </ul>
+    
+    <div id="social">Follow us 
+		<a href="rss.asp" class="rss" target="_blank">rss</a> 
+	<a href="http://www.facebook.com/pages/insidER-dentro-il-mondo-della-ricerca-in-Emilia-Romagna/252015034857076" class="fb" target="_blank">facebook</a>
+	
+    <a href="http://www.linkedin.com/groups/insidERdentro-mondo-della-ricerca-EmiliaRomagna-4483071?trk=myg_ugrp_ovr" class="linkedin" target="_blank">Linkedin</a> 
+	
+    <a href="https://twitter.com/#!/@InsidER_ricerca" class="twitter" target="_blank">Twitter</a>     
+	
+    </div>
+    
+    <form id="form1" method="post" action="cerca.asp">
+    <a href="#" class="stampa" title="stampa pagina"  onClick="window.print(); return false;">stampa pagina</a>
+      <p id="ricerca">
+        <input name="testo" type="text" class="text" id="textfield" value="Cerca nel sito" onFocus="this.value = '';" />
+        <input type="submit" name="button" class="invia" id="button" value="Invia" />
+      </p>
+    </form>
+  </div>
+
+<!-- fine header -->
+ 
+  <div class="grid_12">
+    <p id="breadcrumb">MULTIMEDIA / <a href="multimedia_category.asp?tipo=parole">LEGGI</a></p>
+  </div>
+  <div class="grid_1 categ">LEGGI</div>
+  <div class="grid_7 prj-overview">
+    <p class="info">1 ottobre 2011 
+	<!--
+	<strong>PROGETTO</strong> in <a href="prj_overview.asp?idProgetto=0"></a> 
+	-->	
+      di LISA LAZZARATO
+    </p>
+    <h2>IL MESTIERE DEI NUMERI</h2>
+    <br />
+    
+    <div class="cont-multimedia"> <img src="gest/resize.asp?path=Foto062.jpg&width=540&height=203" /> </div>
+    
+    <p><p style="margin-bottom: 0cm">&#200;
+proprio un appartamento, una delle tante emanazioni edilizie
+dell&#8217;universit&#224;, che ospita un&#8217;appendice del <a  href="http://www.matematica.unibo.it/Matematica/default.htm">Dipartimento di
+Matematica dell'Universit&#224; di Bologna</a>. Sono nell&#8217;ufficio di <a  href="http://www.unibo.it/SitoWebDocente/default.htm?UPN=mirko.degliesposti%40unibo.it">Mirko Degli Esposti</a>, una
+stanza molto luminosa, con alle pareti una lavagna, ma anche
+Kandinsky, Andrea Pazienza e Pink Floyd. Professore ordinario, ma ben
+lontano dall&#8217;essere un tipico accademico canuto, racconta il suo
+&#8220;mestiere&#8221; di matematico in compagnia di caos quantistico, ma
+anche di Gramsci, fumetti e musica.</p>
+<p style="margin-bottom: 0cm"><b>Non
+sar&#242; la prima a chiedertelo, ma cosa fa un matematico?</b><br>In
+effetti non &#232; una domanda inusuale. Mia nonna mi chiede ancora se
+studio o lavoro, dopo vent&#8217;anni che mi sono laureato. Quando le
+spiego che sono professore a matematica non riesce a credere che sia
+un lavoro e torna a chiedermi se studio. Comunque&#8230; lavorare
+all&#8217;universit&#224; significa avere molti impegni didattici e
+accademici e solo il tempo che resta &#232; per la ricerca.</p>
+<p style="margin-bottom: 0cm"><b>In
+pratica come fai ricerca?</b><br>Per
+la maggior del tempo lavoro con altre persone, tranne quando scrivo,
+perch&#233; non mi piace lavorare da solo. Riguardo al metodo credo che
+ognuno abbia le proprie strategie, per&#242; non penso che esista la
+folgorazione: il matematico pazzo davanti alla lavagna, che colto da
+un lampo di genio, inventa il teorema. &#200; una ricerca fatta di
+letture, di rapporto con gli altri e di tanto lavoro minimo, noioso,
+quotidiano. Questo lo dico anche ai giovani, perch&#233; c&#8217;&#232; l&#8217;idea
+che i matematici siano solo di due tipi: i geni e i nullafacenti.</p>
+<p style="margin-bottom: 0cm"><b>Forse
+l&#8217;interesse dei media per le storie e i personaggi stravaganti
+contribuisce ad alimentare il mito, ma poi nella realt&#224;&#8230;</b><br>I
+matematici sono ricercatori come tanti altri. Credo che ne esistano
+tre categorie. Una &#232; quella delle persone geniali, che hanno una
+marcia in pi&#249;. Sono bravissime, lavorano molto e a magari arrivano a
+75 anni, che hanno dimostrato tutto, sono i padri della matematica
+mondiale. Ne conosco tanti a Princeton, che nonostante la fama e la
+genialit&#224; affiancano gli studenti, fanno i conti insieme a loro. Poi
+ci sono i nullafacenti, piuttosto numerosi, in tutte le fasce di et&#224;.
+Sono quelli pi&#249; frustrati e che frenano di pi&#249; il lavoro degli
+altri.</p>
+<p style="margin-bottom: 0cm"><b>E
+la terza categoria?</b><br>&#200;
+la pi&#249; nutrita. Sono i mestieranti della ricerca. Non sono geni,
+forse non cambieranno la fisica o la matematica del secolo, ma
+lavorano onestamente, fanno tanta didattica e ricerca. Con un impegno
+quotidiano, magari mettendoci mesi o anni a fare cose che persone
+geniali risolverebbero in una settimana. Io spero, non vorrei peccare
+d&#8217;orgoglio e non sta a me deciderlo, di appartenere a questa
+categoria.</p>
+<p style="margin-bottom: 0cm"><b>Ci
+vuole passione per intraprendere la strada della ricerca&#8230;</b><br>Non
+credo che si possa decidere di fare un dottorato, soprattutto in
+matematica, senza passione. A volte non viene capito. Del resto credo
+che, in generale, le scelte fatte per passione siano quelle che
+premiano di pi&#249;. Io durante il dottorato, per cinque anni, ho
+studiato cose assurde. Tutti i giorni matematica astratta e l&#8217;ho
+fatto solo perch&#233; mi piaceva.</p>
+<p style="margin-bottom: 0cm"><b>Di
+cosa ti occupavi?</b><br>Di
+caos quantistico, un argomento un po&#8217; ostico da spiegare, tanto che
+per anni la mia famiglia e i miei amici hanno creduto che fosse il
+titolo di un telefilm. In poche parole si tratta di studiare come un
+sistema caotico classico si riflette a livello quantistico,
+applicando cio&#232; la teoria che spiega il mondo subatomico. Provengo
+dalla fisica e in particolare dalla meccanica quantistica, argomento
+della mia tesi di laurea, ma mi sono innamorato dei suoi aspetti
+matematici. Per me &#232; stato naturale passare al dottorato in
+matematica, dove l&#8217;oggetto di studio diventava la pura teoria.</p>
+<p style="margin-bottom: 0cm"><b>Hai
+detto che hai studiato fisica?</b><br>Ho
+scelto di fare fisica dopo il liceo e ho capito subito che mi
+piaceva, ma ben presto sono passato alla matematica. Mi sono laureato
+molto velocemente, poi sono partito. Prima a Berlino, poi negli Stati
+Uniti per il dottorato e ho passato l&#236; diversi anni, occupandomi di
+caos quantistico.</p>
+<p style="margin-bottom: 0cm"><b>Ma
+sei tornato in Italia&#8230;</b><br>E
+sono diventato ricercatore. Ma ho passato ancora qualche tempo negli
+Stati Uniti, come Visiting Professor. Poi solo brevi periodi
+all&#8217;estero, a Berkeley e a Parigi. Non ho mai pensato di fermarmi a
+vivere negli Usa. Sapevo di non poter aspirare a una cattedra a
+Berkeley, al Mit o alla Columbia University. Tutto sommato tra
+diventare un professore in un college di uno sperduto stato americano
+e avere un&#8217;opportunit&#224; a casa&#8230;</p>
+<p style="margin-bottom: 0cm"><b>L&#8217;esperienza
+all&#8217;estero &#232; stata importante?</b><br>&#200;
+stata un&#8217;occasione che ho colto al volo. Credo che sia fondamentale
+per un giovane che vuole fare ricerca. C&#8217;&#232; un po&#8217; di selezione,
+soprattutto in alcune universit&#224;, ma se uno studente &#232; bravo riesce
+a entrare in una scuola di dottorato americana. Io ho avuto la
+fortuna di poter tornare a Bologna. Per vari motivi, ma spero anche
+per capacit&#224; mie, perch&#233; a molte persone penso piaccia la maniera
+in cui lavoro. Comunque questo &#232; il mio mestiere e lo avrei fatto in
+ogni caso.</p>
+<p style="margin-bottom: 0cm"><b>E
+hai abbandonato il tuo telefilm preferito?</b><br>Non
+proprio, nel senso che continuo a occuparmi di questioni di
+matematica pura molto legate al caos quantistico. Ora sarebbe
+difficile dirti in due parole di che si tratta. E allo stesso tempo,
+da qualche anno, per interesse e per gli studenti che chiedono tesi,
+ho cominciato un po&#8217; a sporcarmi le mani con i dati. Esiste un&#8217;area
+di studio che sta nell&#8217;intersezione tra la teoria dei sistemi
+dinamici, la meccanica statistica e la teoria dell&#8217;informazione. In
+pratica si considera l&#8217;informazione come un oggetto matematico e
+fisico, che pu&#242; essere formalizzata e manipolata.</p>
+<p style="margin-bottom: 0cm"><b>Qualcosa
+di completamente diverso dal caos?</b><br>In
+realt&#224; l&#8217;humus teorico &#232; lo stesso. Si utilizzano, ad esempio, i
+concetti di entropia e complessit&#224; per analizzare il contenuto
+informativo di stringhe. Anche in questo caso gli aspetti matematici
+sono molto interessanti, ma allo stesso tempo hanno un&#8217;applicazione,
+come l&#8217;attribuzione di un testo anonimo a un autore. Si usano
+algoritmi, che date due stringhe, cio&#232; due testi, calcolano quanto
+sono simili tra loro, sulla base della successione di caratteri,
+senza considerare semantica e grammatica.</p>
+<p style="margin-bottom: 0cm"><b>E
+qui entra in scena Gramsci&#8230;</b><br>E
+qualsiasi altro autore di cui ci siano testi di attribuzione certa,
+da usare come riferimento. Il lavoro sugli scritti di Gramsci,
+presentato l&#8217;anno scorso, ha dimostrato quanto questo metodo
+funziona. Non so esattamente il perch&#233; e ha dei limiti, ma &#232; un
+sistema pi&#249; affidabile, ad esempio, dei metodi semantici, che
+considerano le parole. &#200; difficile dire dove sia lo stile di uno
+scrittore, &#232; una combinazione di varie cose. Forse con la matematica
+si coglie quella uniformit&#224; nelle strutture elementari del testo,
+che &#232; il frutto di una parte inconscia dello scrittore.</p>
+<p style="margin-bottom: 0cm"><b>Si
+pu&#242; applicare questo metodo alla pittura o alla musica?</b><br>Il
+problema &#232; concettualmente lo stesso, definire quanto due oggetti
+sono simili, ma i metodi sono molto diversi, perch&#233; le informazioni
+sono codificate in tutt&#8217;altro modo. Recentemente ho avuto uno
+studente in tesi, che ha lavorato sulle immagini. Lo scopo del lavoro
+era riconoscere lo stile di quattro fumettisti bolognesi. Ma credo
+che in questo ambito ci sia ancora tanto da fare&#8230; cos&#236; come per la
+musica, dove si &#232; ben lontani dalla classificazione automatica dei
+generi musicali. Per non parlare della distinzione tra diverse
+esecuzioni di uno stesso brano. &nbsp;
+<br><br>Questa intervista &#232; stata raccolta nell'ottobre 2007.<br></p></p>
+	
+
+
+
+
+	
+	<p></p>
+	
+    <div class="social">
+	<!--
+      <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fprogettoinsider%2Eit%2Fprj%5Frelated%5Fcontent%5Fparole%2Easp%3FidMateriale%3D13&amp;layout=standard&amp;show_faces=true&amp;width=500&amp;action=like&amp;colorscheme=light&amp;height=23" scrolling="No" frameborder="0" style="border:none; overflow:hidden; width:500px; height:23px;" allowtransparency="true"></iframe>
+	-->
+	
+	<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/it_IT/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+	
+	<fb:like href="http://progettoinsider.it/prj_related_content_parole.asp?idMateriale=13" send="true" width="450" show_faces="false"></fb:like>
+    </div>
+	
+	<!--
+    include file="_box_link-argomenti.asp" 
+	-->
+	
+  </div>
+  <!-- sidebar -->
+    <div class="grid_4">
+
+<!--
+	<div class="facebook">
+<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FinsidER-dentro-il-mondo-della-ricerca-in-Emilia-Romagna%2F252015034857076&amp;width=292&amp;colorscheme=light&amp;show_faces=true&amp;stream=false&amp;header=true&amp;height=290" scrolling="No" frameborder="0" style="border:none; overflow:hidden; width:292px; height:290px;" allowtransparency="true"></iframe>
+	</div>
+-->
+
+  </div>
+  <!-- fine sidebar -->
+  
+  
+<!-- footer -->
+
+  <div class="grid_12" id="footer">
+    
+    <p><a href="index.asp">home</a> - <a href="chi.asp">chi siamo</a> - <a href="contatti.asp">contatti</a> - <a href="#">torna in alto</a><br />
+InsidER  &egrave; un progetto dell'Associazione Bla Bla<br />
+C.F.  91332140374<br />
+BlaBla 2011. <a href="termini.asp">Termini  di utilizzo</a></p>
+<a href="http://creativecommons.org/licenses/by-nc-sa/2.5/deed.it" target="_blank" class="creative-commons">creative commons</a>  </div>
+
+<!-- fine footer -->
+</div>
+</body>
+</html>

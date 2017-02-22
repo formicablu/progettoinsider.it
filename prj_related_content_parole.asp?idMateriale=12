@@ -1,0 +1,308 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" >
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+ 
+
+<title>Chiamateli fenomeni...naturali - INSIDER - dentro il mondo della ricerca in Emilia-Romagna</title>
+<meta name="Description" content="Mario Martina, ingegnere del gruppo di ricerca in idrologia dell'Università di Bologna, tra fiumi in piena e filosofia coglie la sfida di definire l'incertezza della modellistica fisica. Senza troppa "aria fritta"." />
+<meta name="Keywords" content="" />
+
+<meta property="og:title" content="Chiamateli fenomeni...naturali - INSIDER - dentro il mondo della ricerca in Emilia-Romagna"/> 
+<meta property="og:type" content="article"/> 
+<meta property="og:url" content="http://progettoinsider.it/prj_related_content_parole.asp?idMateriale=12"/> 
+<meta property="og:image" content="http://progettoinsider.it/uploadImg/mario_IRI01.jpg"/> 
+
+<meta property="og:description" content="Mario Martina, ingegnere del gruppo di ricerca in idrologia dell'Università di Bologna, tra fiumi in piena e filosofia coglie la sfida di definire l'incertezza della modellistica fisica. Senza troppa "aria fritta"."/> 
+
+<link rel="stylesheet" type="text/css" href="css/_reset.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="css/_text.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="css/_960.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="css/_layout.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="css/_print.css" media="print" />
+<link rel="stylesheet" type="text/css" href="css/_insider.css" media="screen" />
+<script type="text/javascript" src="scripts/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="scripts/jquery-ui.js"></script>
+<script type="text/javascript" src="scripts/jquery-fluid16.js"></script>
+</head>
+<body class="prj-overview progetti parole">
+<div class="container_12">
+  <!-- header -->
+
+  <div id="header">
+  <img id="logo-print" src="img/logo_insider.png" />
+    <h1><a href="index.asp">insider - dentro il mondo della ricerca in Emilia-Romagna</a></h1>
+    <ul id="menu">
+      <li><a class="home" href="index.asp">home</a></li>
+      <li><a class="chi"  href="chi.asp">chi siamo</a></li>
+      <li><a class="video"  href="multimedia_category.asp?tipo=animazioni"> guarda</a></li>
+      <li><a class="audio"  href="multimedia_category.asp?tipo=audio">ascolta</a></li>
+      <li><a class="testi"  href="multimedia_category.asp?tipo=parole">leggi</a></li>
+      <li><a class="contatti"  href="contatti.asp">contatti</a></li>
+    </ul>
+    
+    <div id="social">Follow us 
+		<a href="rss.asp" class="rss" target="_blank">rss</a> 
+	<a href="http://www.facebook.com/pages/insidER-dentro-il-mondo-della-ricerca-in-Emilia-Romagna/252015034857076" class="fb" target="_blank">facebook</a>
+	
+    <a href="http://www.linkedin.com/groups/insidERdentro-mondo-della-ricerca-EmiliaRomagna-4483071?trk=myg_ugrp_ovr" class="linkedin" target="_blank">Linkedin</a> 
+	
+    <a href="https://twitter.com/#!/@InsidER_ricerca" class="twitter" target="_blank">Twitter</a>     
+	
+    </div>
+    
+    <form id="form1" method="post" action="cerca.asp">
+    <a href="#" class="stampa" title="stampa pagina"  onClick="window.print(); return false;">stampa pagina</a>
+      <p id="ricerca">
+        <input name="testo" type="text" class="text" id="textfield" value="Cerca nel sito" onFocus="this.value = '';" />
+        <input type="submit" name="button" class="invia" id="button" value="Invia" />
+      </p>
+    </form>
+  </div>
+
+<!-- fine header -->
+ 
+  <div class="grid_12">
+    <p id="breadcrumb">MULTIMEDIA / <a href="multimedia_category.asp?tipo=parole">LEGGI</a></p>
+  </div>
+  <div class="grid_1 categ">LEGGI</div>
+  <div class="grid_7 prj-overview">
+    <p class="info">1 novembre 2011 
+	<!--
+	<strong>PROGETTO</strong> in <a href="prj_overview.asp?idProgetto=0"></a> 
+	-->	
+      di LISA LAZZARATO
+    </p>
+    <h2>CHIAMATELI FENOMENI...NATURALI</h2>
+    <br />
+    
+    <div class="cont-multimedia"> <img src="gest/resize.asp?path=mario_IRI01.jpg&width=540&height=203" /> </div>
+    
+    <p><p style="margin-bottom: 0cm">Si
+intravedono i tetti all'ultimo piano del <a  href="http://www.geomin.unibo.it/">Dipartimento di Scienze
+della Terra e Geologico-Ambientali dell'Universit&#224; di Bologna</a>, che si protende sopra il <a  href="http://www.museocapellini.org/">Museo geologico Giovanni Capellini</a>. L'annessione &#232; piuttosto recente e si
+respira ancora un'aria di nuovo nel lungo corridoio dal soffitto
+basso. Entro in una delle tante porte, una stanza che ospita appena
+una scrivania e una libreria. &#200; l'ufficio di <a  href="http://www.unibo.it/SitoWebDocente/default.htm?UPN=mario.martina%40unibo.it">Mario Martina</a>,
+ingegnere del <a  href="http://www.hydro.unibo.it/index.htm">gruppo di ricerca in Idrologia</a>, che tra fiumi in piena
+e filosofia coglie la sfida di definire l'incertezza.</p>
+<p style="margin-bottom: 0cm"><b>Come
+sei arrivato da ingegneria a questo dipartimento?</b></p>
+<p style="margin-bottom: 0cm">Subito
+dopo la laurea ho vinto una borsa di studio e sono stato circa sei
+mesi a Newcastle. Mentre ero ancora in Gran Bretagna ho vinto il
+dottorato in modellistica fisica per la protezione dell'ambiente e
+sono approdato qui.</p>
+<p style="margin-bottom: 0cm"><b>Modellistica
+fisica... in pratica di che si tratta?</b></p>
+<p style="margin-bottom: 0cm">Pi&#249;
+che di un tema, si tratta di un metodo e questo secondo me era
+l'aspetto pi&#249; bello del dottorato. Si studiano modelli fisicamente
+basati per descrivere diversi fenomeni naturali, riguardanti
+idrologia, geologia e geotecnica, vulcanologia e fisica
+dell'atmosfera. Una sorta di dottorato dei quattro elementi, vista la
+variet&#224; di temi, ma con il filo conduttore dell'approccio
+metodologico comune.</p>
+<p style="margin-bottom: 0cm"><b>Un
+dottorato in parte americano...</b></p>
+<p style="margin-bottom: 0cm">Sono
+stato per sei mesi negli Stati Uniti, al Mit. Era un ambiente
+entusiasmante, tanto che ho avuto pi&#249; volte la tentazione di
+rimanere. Anche in seguito, quando sono stato per un periodo
+nell'Oregon. La differenza si vede soprattutto nelle potenzialit&#224;.
+In Italia non ci sono solo limiti legati alle risorse, ma anche
+culturali. La ricerca viene quasi considerata un'attivit&#224;
+collaterale all'interno dell'universit&#224;. Non si crede che possa
+essere produttiva anche in termini culturali ed economici.</p>
+<p style="margin-bottom: 0cm"><b>Cosa
+ti ha spinto a decidere di tornare?</b></p>
+<p style="margin-bottom: 0cm">Se
+dovessi rispondere di slancio, direi mia moglie. Quando eravamo a
+Corvallis, nell'Oregon, ho ricevuto una proposta per andare a
+Stanford, per tre anni. Alla fine non me la sono sentita di decidere
+solo sulla base delle mie esigenze professionali.</p>
+<p style="margin-bottom: 0cm"><b>Quindi
+hai tentato la via della ricerca in Italia...</b></p>
+<p style="margin-bottom: 0cm">S&#236;
+e un altro elemento determinante &#232; stata la prospettiva di lavorare
+con un professore molto in gamba. Una persona piuttosto libera
+nell&#8217;ambito del mondo accademico. Un&#8217;autorit&#224; in fatto di
+calamit&#224; naturali, argomento di cui mi occupo. Mi piace molto quello
+che faccio, ora ho ancora un anno di assegno, ma mi sono detto che se
+non riuscir&#242; a stabilizzarmi in questo periodo, prender&#242; in
+considerazione altre opportunit&#224;.</p>
+<p style="margin-bottom: 0cm"><b>Le
+tue ricerche riguardano modelli, ma dalla teoria arrivi anche alla
+pratica?</b></p>
+<p style="margin-bottom: 0cm">Questo
+&#232; uno degli aspetti interessanti, perch&#232; ho la possibilit&#224; di
+parlare di &#8220;aria fritta&#8221; e allo stesso tempo di realt&#224; concrete.
+Ci siamo interessati di aspetti teorici, ma anche di sistemi
+operativi, ad esempio collaborando con l&#8217;Arpa Emilia-Romagna su
+sistemi di previsione di piena. Recentemente siamo venuti in contatto
+con il Willis Research Network, cio&#232; con una rete di ricerca creata
+da una compagnia inglese che si occupa di riassicurazione.</p>
+<p style="margin-bottom: 0cm"><b>In
+effetti la valutazione del rischio &#232; un bel problema per loro...</b>
+</p>
+<p style="margin-bottom: 0cm">Hanno
+avuto l'intraprendenza di creare ad hoc un gruppo di esperti,
+piuttosto che attingere da ricerche gi&#224; fatte. Noi siamo stati i
+primi membri al di fuori della Gran Bretagna, ma la rete si sta
+allargando. L'idea &#232; avere referenti per temi e per aree
+geografiche, visto che &#232; importante la conoscenza del territorio per
+studiare i rischi naturali. Al di l&#224; degli interessi della
+compagnia, svolgere ricerche in un simile contesto crea una forte
+motivazione.</p>
+<p style="margin-bottom: 0cm"><b>In
+Italia, con la variet&#224; di rischi a cui siamo esposti come ci si
+comporta?</b></p>
+<p style="margin-bottom: 0cm">Ci
+troviamo in una situazione paradossale. Lo Stato in questi anni ha
+continuato, in maniera ipocrita, a spendere per ripagare i danni da
+calamit&#224; naturali, investendo molto poco nella ricerca. Anche solo
+una piccola parte di quei soldi, spesi per capire come localizzare le
+risorse in base alla distribuzione dei rischi, avrebbe fatto
+risparmiare molto denaro.  Lo Stato dice non assumersi il rischio, ma
+in realt&#224; lo fa, per consuetudine, visto che nessuna legge lo
+obbliga.</p>
+<p style="margin-bottom: 0cm"><b>Ma
+che significa gestire male le risorse?</b></p>
+<p style="margin-bottom: 0cm">Il
+Po, ad esempio, come ogni fiume, ha diversi spazi che gli competono.
+I margini pi&#249; ampi, le piane alluvionali, vengono occupati magari
+ogni dieci anni, in concomitanza con precipitazioni eccezionali. Ci
+siamo appropriati di quegli spazi, per attivit&#224; agricole o
+industriali, costruendo argini sempre pi&#249; alti. Ma questo non ci ha
+messo al riparo dai rischi, perch&#233; l&#8217;alveo del fiume si &#232;
+gradualmente innalzato, fino a superare la pianura circostante.
+Parliamo di calamit&#224;, ma si tratta di fenomeni naturali, che creano
+danni se abbiano l&#8217;arroganza di volerli controllare.</p>
+<p style="margin-bottom: 0cm">
+</p>
+<p style="margin-bottom: 0cm"><b>Abbiamo
+comunque degli strumenti che ci dicono quanto rischiamo?</b></p>
+<p style="margin-bottom: 0cm">Gli
+strumenti ci sono, ma un aspetto molto difficile &#232; tradurre questo
+rischio in termini utili per chi deve prendere le decisioni, a
+livello amministrativo e politico. Nel progetto europeo Floodsite, di
+cui siamo partner, ci sono anche psicologi, sociologi e politici che
+collaborano insieme a ricercatori proprio su questo aspetto.</p>
+<p style="margin-bottom: 0cm"><b>Per
+non rischiare di gridare al lupo&#8230;</b></p>
+<p style="margin-bottom: 0cm">Il
+costo di un&#8217;evacuazione inutile non &#232; solo economico, ma anche in
+termini di credibilit&#224;. Nei sistemi che mettiamo a punto
+consideriamo anche questi parametri e cerchiamo di tenere il pi&#249;
+possibile nascosta la complessit&#224; dei modelli, per fornire
+informazioni semplici, come una luce rossa in caso di situazione di
+allarme.</p>
+<p style="margin-bottom: 0cm"><b>Come
+si fa a fidarsi di una previsione?</b></p>
+<p style="margin-bottom: 0cm">Le
+previsioni, per loro natura, non possono essere deterministiche, ma
+sono sempre associate a un&#8217;incertezza. La vera difficolt&#224; dei
+modelli &#232; stimare questa incertezza e applicarla ai criteri
+decisionali. E qui trovo ci sia anche una sfida intellettuale, da un
+punto di vista epistemologico.</p>
+<p style="margin-bottom: 0cm"><b>Ti
+interessi anche di filosofia?</b></p>
+<p style="margin-bottom: 0cm">Dopo
+il dottorato mi sono iscritto a filosofia della scienza. In
+particolare mi interessa capire quali sono i possibili approcci a un
+problema, che siano deterministici, statistici o bayesiani. Non &#232;
+solo importante definire l&#8217;incertezza, ma come si ragiona per
+risolvere il problema.</p>
+<p style="margin-bottom: 0cm">
+</p>
+<p style="margin-bottom: 0cm"><b>Quale
+&#232; l&#8217;aspetto dell&#8217;attivit&#224; di ricercatore che ti appassiona di
+pi&#249;?</b></p>
+<p style="margin-bottom: 0cm">Mi
+piace confrontarmi con gli elementi naturali, e non con problemi
+predeterminati, come sono tipicamente quelli ingegneristici. Pormi
+con grande umilt&#224; a risolvere i problemi, basandomi su dati molto
+incerti. L&#8217;abilit&#224; non &#232; nel fare i calcoli, ma nell&#8217;individuare
+gli aspetti importanti e trovare una via per descriverli. Mi piace
+questa libert&#224; di pensiero. E un&#8217;altra cosa che trovo fantastica &#232;
+la didattica.</p>
+<p style="margin-bottom: 0cm"><b>Credi
+che sia un&#8217;attivit&#224; utile anche alla ricerca?</b></p>
+<p style="margin-bottom: 0cm">Per
+me &#232; stata un&#8217;esperienza bellissima e sono stato anche fortunato
+perch&#233; mi &#232; stato dato molto spazio. Ho costruito da zero
+l&#8217;insegnamento di idrologia e rischio idrogeologico. Credo che
+insegnare sia un&#8217;ottima occasione per imparare, oltre a essere
+attivit&#224; emozionante da un punto di vista umano e di grande
+responsabilit&#224;.</p>
+<p style="margin-bottom: 0cm"><b>&#200;
+un piacere sentire tanto entusiasmo&#8230;</b></p>
+<p style="margin-bottom: 0cm">Sar&#224;
+anche perch&#232; &#232; un momento della mia vita molto felice, sono carico
+di energie che mi arrivano da pi&#249; parti, dalla famiglia, dalle
+ricerche, dagli studi di filosofia. In generale sono ottimista,
+perch&#233; mi rendo conto di aver costruito qualcosa, una rete di
+contatti internazionale che mi offre delle opportunit&#224;. Potrei anche
+sospendere l&#8217;attivit&#224; accademica e continuare a fare ricerca per
+la rete Willis, nella quale sono impegnato per i prossimi due o tre
+anni. Per una generazione come la mia avere davanti tre anni &#8220;sicuri&#8221;
+&#232; un sogno.&nbsp;
+<br><br>Questa intervista &#232; stata raccolta nel novembre 2007.<br></p></p>
+	
+
+
+
+
+	
+	<p></p>
+	
+    <div class="social">
+	<!--
+      <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fprogettoinsider%2Eit%2Fprj%5Frelated%5Fcontent%5Fparole%2Easp%3FidMateriale%3D12&amp;layout=standard&amp;show_faces=true&amp;width=500&amp;action=like&amp;colorscheme=light&amp;height=23" scrolling="No" frameborder="0" style="border:none; overflow:hidden; width:500px; height:23px;" allowtransparency="true"></iframe>
+	-->
+	
+	<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/it_IT/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+	
+	<fb:like href="http://progettoinsider.it/prj_related_content_parole.asp?idMateriale=12" send="true" width="450" show_faces="false"></fb:like>
+    </div>
+	
+	<!--
+    include file="_box_link-argomenti.asp" 
+	-->
+	
+  </div>
+  <!-- sidebar -->
+    <div class="grid_4">
+
+<!--
+	<div class="facebook">
+<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FinsidER-dentro-il-mondo-della-ricerca-in-Emilia-Romagna%2F252015034857076&amp;width=292&amp;colorscheme=light&amp;show_faces=true&amp;stream=false&amp;header=true&amp;height=290" scrolling="No" frameborder="0" style="border:none; overflow:hidden; width:292px; height:290px;" allowtransparency="true"></iframe>
+	</div>
+-->
+
+  </div>
+  <!-- fine sidebar -->
+  
+  
+<!-- footer -->
+
+  <div class="grid_12" id="footer">
+    
+    <p><a href="index.asp">home</a> - <a href="chi.asp">chi siamo</a> - <a href="contatti.asp">contatti</a> - <a href="#">torna in alto</a><br />
+InsidER  &egrave; un progetto dell'Associazione Bla Bla<br />
+C.F.  91332140374<br />
+BlaBla 2011. <a href="termini.asp">Termini  di utilizzo</a></p>
+<a href="http://creativecommons.org/licenses/by-nc-sa/2.5/deed.it" target="_blank" class="creative-commons">creative commons</a>  </div>
+
+<!-- fine footer -->
+</div>
+</body>
+</html>
